@@ -7,3 +7,4 @@ d) mehrjährige Globalbudgets;
 e) Voranschlag;
 f) Geschäftsbericht
 gelten die Vorschriften des Gesetzes über die wirkungsorientierte Verwaltungsführung.
+6bis Planung und Steuerung
