@@ -1,0 +1,3 @@
+# § 41bis Nachführung
+1 Das Sekretariat der Katasterschätzung ändert die Schätzung von Amtes wegen oder auf Antrag eines Beteiligten (Eigentümer, Einwohnergemeinde, Kantonale Steuerverwaltung), wenn sich Bestand, Umfang oder Nutzung (tatsächliche oder rechtliche Beschaffenheit) des Grundstückes seit Vornahme der letzten Schätzung geändert haben. Das trifft insbesondere zu bei Neubau, Umbau oder Abbruch von Gebäuden und Anlagen, Änderung in der Benützungsart, Parzellierung, Umzonung, Landumlegung, Änderung der Baureife usw.
+2 Gegen die Schätzungsänderung können die Rechtsmittel nach § 9 erhoben werden.
