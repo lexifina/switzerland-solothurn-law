@@ -4,3 +4,5 @@ a) die Kantonsratsmitglieder, soweit es sich um Vorlagen und Akten zu Beratungsg
 b) die Regierungsmitglieder und der Staatsschreiber;
 c) der Ratssekretär;
 d) der Chef der Finanzkontrolle, der Chef des Amts für Finanzen, die Mitarbeitenden der Parlamentsdienste, weitere für die Parlamentsdienste tätige Personen, die Departementssekretäre und der Staatsschreiber-StV., soweit deren Aufgabenbereich betroffen ist.
+2. Sessionen
+2.1. Allgemeines
