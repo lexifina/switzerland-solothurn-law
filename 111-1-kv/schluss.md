@@ -22,4 +22,5 @@ Gewährleistung der Bundesversammlung der Änderungen vom:
 18. Mai 2014 am 5. März 2015 (SR), 11. März 2015 (NR);
 8. März 2015 am 29. Februar 2016 (SR), 3. März 2016 (NR);
 15. Mai 2022 am 27. Februar 2023 (SR), 6. März 2023 (NR);
-22. September 2024 am 15. September 2025 (SR), 22. September 2025 (NR).
+22. September 2024 am 15. September 2025 (SR), 22. September 2025 (NR);
+14. Juni 2026 am ...

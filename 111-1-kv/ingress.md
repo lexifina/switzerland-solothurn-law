@@ -7,3 +7,5 @@ den Kanton in seiner kulturellen und regionalen Vielfalt zu erhalten und als Sta
 Freiheit und Recht im Rahmen einer demokratischen Ordnung zu schützen, den Frieden im Innern und den Zusammenhang des Volkes zu wahren, die Wohlfahrt aller zu fördern,
 eine Gesellschaftsordnung anzustreben, die der Entfaltung und der sozialen Sicherheit des Menschen dient,
 gibt sich folgende Verfassung:
+1. Grundsätze
+1.1. Allgemeines
