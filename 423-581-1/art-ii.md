@@ -1,0 +1,2 @@
+# Ziffer II.
+1 Der im Sinne von Ziffer I nach Massgabe der Anzahl der römisch-katholischen Pfarreien ausgeschiedene Teil erhält unter dem Namen St.-Ursen-Stiftung. Alters- und Invalidenversicherung der römisch-katholischen Weltgeistlichen des Kantons Solothurn die Rechte einer juristischen Person. Die Stiftung ist nach versicherungstechnischen Grundsätzen auszugestalten. Der Beitritt ist für die römisch-katholische Geistlichkeit obligatorisch und die Pensionsberechtigten sind zu angemessenen Prämienbeiträgen anzuhalten.
