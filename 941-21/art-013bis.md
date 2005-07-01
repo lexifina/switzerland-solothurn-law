@@ -1,0 +1,2 @@
+# § 13bis Wärmenutzung bei mit fossilen Brennstoffen betriebenen Elektrizitätserzeugungsanlagen
+1 Der Betrieb von Elektrizitätserzeugungsanlagen mit fossilen Brennstoffen ist nur zulässig, wenn die dabei entstehende Wärme fachgerecht und weitgehend genutzt wird. Ausgenommen sind Anlagen, die entweder keine Verbindung zum öffentlichen Verteilernetz haben oder der Betrieb zur Notstromerzeugung sowie Probeläufe von höchstens 50 Stunden pro Jahr.
