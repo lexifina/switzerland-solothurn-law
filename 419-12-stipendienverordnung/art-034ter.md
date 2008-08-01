@@ -1,0 +1,2 @@
+# § 34ter Übergangsregelung und Überbrückung der Bemessungslücke
+1 Für das Kalenderjahr 2000 ist für die zu berücksichtigenden Verhältnisse im Einzelfall die rechtskräftige Steuerveranlagung des Jahres 1999, für die Kalenderjahre 2001 und 2002 die ordentliche Veranlagung des Steuerjahres 2000, ohne Berücksichtigung einer allfälligen Revision nach § 277 des Gesetzes über die Staats- und Gemeindesteuern gemäss Kantonsratsbeschluss vom 30. Juni 1999 massgebend.
