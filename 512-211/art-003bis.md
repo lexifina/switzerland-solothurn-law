@@ -1,0 +1,2 @@
+# § 3bis Gesuch der übertragenden Person um Auskunftserteilung
+1 Bedarf die Übertragung keines Erwerbsscheins, kann die Kantonspolizei auf Gesuch und mit schriftlicher Zustimmung der erwerbenden Person der übertragenden Person die notwendigen Auskünfte erteilen, wenn Zweifel bestehen, ob die Voraussetzungen zur Übertragung von Waffen, wesentlichen Waffenbestandteilen, Munition oder Munitionsbestandteilen erfüllt sind.

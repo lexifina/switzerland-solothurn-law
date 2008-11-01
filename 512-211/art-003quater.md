@@ -1,0 +1,2 @@
+# § 3quater Übertragung von Waffen, wesentlichen Waffenbestandteilen und Munition zwischen Personen, welche über eine Waffenhandelsbewilligung verfügen
+1 Findet die Übertragung von Waffen, wesentlichen Waffenbestandteilen und Munition zwischen Personen statt, die über eine Waffenhandelsbewilligung verfügen, muss die übertragende Person der Kantonspolizei die Art und Zahl der übertragenen Gegenstände innerhalb von 30 Tagen nach Unterzeichnung des Vertrages melden.
