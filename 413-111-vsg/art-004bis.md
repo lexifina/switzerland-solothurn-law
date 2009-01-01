@@ -1,0 +1,2 @@
+# § 4bis Schulgeldvereinbarungen
+1 Der Regierungsrat kann mit anderen Kantonen Vereinbarungen über den ausserkantonalen Schulbesuch abschliessen.
