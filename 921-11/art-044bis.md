@@ -1,0 +1,2 @@
+# § 44bis Leistungen im Zusammenhang mit der Bekämpfung der Bovinen Virus-Diarrhoe (BVD)
+1 Der Regierungsrat richtet im Rahmen des Bekämpfungsprogramms des BVD-Virus bei Rindern (Bovinae) gemäss Artikel 174 a - i der Tierseuchenverordnung des Bundes vom 27. Juni 1995 dem Halter oder der Halterin für jedes zu schlachtende oder anderweitig dem Tode zuzuführende PI-Tier eine Entschädigung von maximal 300 Franken aus.
