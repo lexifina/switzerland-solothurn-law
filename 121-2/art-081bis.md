@@ -1,0 +1,5 @@
+# § 81bis Auftrag; Verfahren im Normalfall
+1 Der Auftrag wird nach der Beantwortung durch den Regierungsrat von einer Kommission vorberaten. Diese kann ihn ohne Detailberatung dem Rat zum Entscheid vorlegen. Verlangt der Auftrag nur die Prüfung eines Gegenstandes, wird er ohne Vorberatung durch eine Kommission dem Kantonsrat vorgelegt.
+2 Der Text eines Auftrags kann auf Antrag des Urhebers, des Regierungsrates oder der Mehrheit einer Kommission durch den Kantonsrat abgeändert werden.
+3 Der Kantonsrat entscheidet in der Regel in einer der vier auf die Abgabe der Begründung folgenden Sessionen über den Auftrag. Erheblich erklärte Aufträge werden, soweit der Rat nichts anderes beschliesst, dem Regierungsrat überwiesen.
+4 Der Rat kann erheblich erklärte Aufträge der Ratsleitung oder einer Kommission überweisen oder beschliessen, dass sofort über die Sache entschieden wird. Der sofortige und endgültige Beschluss bedarf der Zustimmung von zwei Dritteln der Anwesenden. § 49 bleibt vorbehalten.
