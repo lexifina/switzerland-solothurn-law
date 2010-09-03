@@ -1,0 +1,4 @@
+# § 26bis Folgen der Unvereinbarkeit
+1 Tritt Unvereinbarkeit des Kantonsratsmandats ein und will die betroffene Person am Kantonsratsmandat festhalten, hat sie eine Kopie der Kündigung der anderen Tätigkeit auf den nächstmöglichen ordentlichen Termin einzureichen, die bis spätestens einen Tag vor ihrer Vereidigung eingetroffen sein muss.
+2 Bestreitet die betroffene Person die Unvereinbarkeit und stellt die zuständige Behörde das Vorliegen einer solchen fest, hat die betroffene Person innert vier Tagen eine Kündigung der anderen Tätigkeit auf den nächstmöglichen ordentlichen Termin einzureichen, wenn sie am Kantonsratsmandat festhalten will. Das Kantonsratsmandat darf bis zum Entscheid der zuständigen Behörde über den Bestand der Unvereinbarkeit nicht ausgeübt werden.
+3 Liegt das Kündigungsschreiben nicht fristgerecht vor, wird Verzicht auf das Kantonsratsmandat angenommen und das Verfahren zur Bestimmung eines Nachfolgers oder einer Nachfolgerin eingeleitet.
