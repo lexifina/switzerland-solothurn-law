@@ -1,0 +1,2 @@
+# § 180bis d) Auskunftspflicht
+1 Wer über die Vermögensverhältnisse des Erblassers Auskunft geben kann oder Vermögen von ihm besitzt oder aufbewahrt, ist verpflichtet, dem Gemeindepräsidenten oder dem Amtschreiber alle für die Inventaraufnahme nötigen Angaben zu machen. Dazu verpflichtet sind insbesondere die Erben und die Hausgenossen des Erblassers sowie Personen, die Vermögenswerte des Erblassers verwalten oder aufbewahren. Vorbehalten bleiben bundesrechtliche Bestimmungen über eine Geheimhaltungspflicht.
