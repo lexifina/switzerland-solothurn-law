@@ -1,0 +1,5 @@
+# § 114sexies V. Vorbehalt der ordentlichen Veranlagung
+1 Die der Quellensteuer unterliegenden Personen werden für ihr Einkommen, das dem Steuerbezug an der Quelle nicht unterworfen ist, sowie für ihr Vermögen im ordentlichen Verfahren veranlagt. Für den Steuersatz gilt § 12 sinngemäss.
+2 Übersteigen die dem Steuerabzug an der Quelle unterworfenen Bruttoeinkünfte des Steuerpflichtigen oder seines Ehegatten, der in rechtlich und tatsächlich ungetrennter Ehe lebt, in einem Kalenderjahr den vom Finanzdepartement festgelegten Betrag, wird eine nachträgliche Veranlagung für das gesamte Einkommen und Vermögen durchgeführt. Die an der Quelle abgezogene Steuer wird dabei zinslos angerechnet.
+3 Wenn die quellensteuerpflichtigen Einkünfte den vom Finanzdepartement festgesetzten Betrag in den folgenden Jahren nicht mehr erreichen, wird trotzdem bis zum Ende der Quellensteuerpflicht eine nachträgliche Veranlagung für das gesamte Einkommen und Vermögen durchgeführt.
+4 In Fällen, in denen ohnehin eine nachträgliche Veranlagung durchzuführen ist, kann auf die Erhebung der Quellensteuer verzichtet werden, wenn der Arbeitgeber hinreichende Sicherheit leistet.

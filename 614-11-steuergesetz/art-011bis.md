@@ -1,0 +1,3 @@
+# § 11bis 3bis. Übernahme von Verlusten aus dem Ausland
+1 …
+2 Steuerpflichtige mit persönlicher Zugehörigkeit im Kanton können Verluste ihres Unternehmens aus einer ausländischen Betriebsstätte mit inländischen Gewinnen verrechnen, soweit die Verluste im Betriebsstättestaat nicht verrechenbar sind. Erzielt diese Betriebsstätte innert der folgenden sieben Geschäftsjahre Gewinne, wird auf den im Betriebsstättestaat verrechenbaren Verlustvorträgen eine Nachsteuer erhoben. Die Auslandsverluste werden dabei wie in den übrigen Fällen nur satzbestimmend berücksichtigt.

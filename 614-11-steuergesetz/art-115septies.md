@@ -1,0 +1,2 @@
+# § 115septies VII. Arbeitnehmer bei internationalen Transporten
+1 Im Ausland wohnhafte Arbeitnehmer, die für Arbeit im internationalen Verkehr an Bord eines Schiffes oder eines Luftfahrzeuges oder bei einem Transport auf der Strasse Lohn oder andere Vergütungen von einem Arbeitgeber mit Sitz oder Betriebsstätte im Kanton erhalten, werden für diese Leistungen sowie für die an deren Stelle tretenden Ersatzeinkünfte nach den §§ 114–114quater besteuert.

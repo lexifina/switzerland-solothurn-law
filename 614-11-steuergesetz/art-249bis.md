@@ -1,0 +1,2 @@
+# § 249bis 5. Beginn und Ende der Steuerpflicht
+1 Für die Folgen des Beginns, der Änderung und des Endes der Steuerpflicht aufgrund persönlicher oder wirtschaftlicher Zugehörigkeit im Verhältnis zwischen den Gemeinden werden das Bundesgesetz über die Harmonisierung der direkten Steuern der Kantone und Gemeinden und die Grundsätze des Bundesrechts über das Verbot der interkantonalen Doppelbesteuerung sinngemäss angewendet.

@@ -1,0 +1,5 @@
+# § 47ter d) Liquidationsgewinne
+1 Wird die selbständige Erwerbstätigkeit nach dem vollendeten 55. Altersjahr oder wegen Unfähigkeit zur Weiterführung infolge Invalidität definitiv aufgegeben, wird die Summe der in den letzten zwei Geschäftsjahren realisierten stillen Reserven getrennt vom übrigen Einkommen besteuert. Einkaufsbeiträge gemäss § 41 Absatz 1 Buchstabe h sind abziehbar.
+2 Werden keine solchen Einkäufe vorgenommen, wird die Steuer auf dem Betrag der realisierten stillen Reserven, für den der Steuerpflichtige die Zulässigkeit eines Einkaufs gemäss § 41 Absatz 1 Buchstabe h nachweist, gemäss § 47 erhoben.
+3 Der Restbetrag der realisierten stillen Reserven wird für die Bestimmung des Steuersatzes durch vier geteilt. Es gelten die Steuersätze gemäss § 44. Der Steuersatz beträgt jedoch mindestens 4 %. § 47 Absätze 3 und 4 sind anwendbar.
+4 Absatz 3 gilt auch für den überlebenden Ehegatten, die anderen Erben und die Vermächtnisnehmer, sofern sie das übernommene Unternehmen nicht fortführen; die steuerliche Abrechnung erfolgt spätestens fünf Kalenderjahre nach Ablauf des Todesjahres des Erblassers.
