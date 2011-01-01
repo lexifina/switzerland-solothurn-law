@@ -1,0 +1,3 @@
+# § 122ter 6ter. Übergangsbestimmung zur Gesetzesänderung vom 29. Oktober 2008 (Anpassungen des öffentlich-rechtlichen Rechtsschutzes an die Vorgaben des Bundesrechts (Rechtsweggarantie / Bundesgerichtsgesetz))
+1 Verfahren, die bei Inkrafttreten dieses Gesetzes hängig sind, werden von der bisher nach altem Recht zuständigen Behörde weitergeführt.
+2 Beschwerdeverfahren, die bei Inkrafttreten dieses Gesetzes beim Regierungsrat hängig sind, werden an das Verwaltungsgericht zur Weiterbehandlung überwiesen, wenn nach neuem Recht der Regierungsrat nicht mehr zuständig und die Beschwerde ans Verwaltungsgericht nicht ausgeschlossen ist.
