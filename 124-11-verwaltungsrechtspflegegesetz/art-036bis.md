@@ -1,0 +1,3 @@
+# § 36bis IX. Regierungsrat als Beschwerdeinstanz
+1 Im Beschwerdeverfahren vor dem Regierungsrat stellt das instruierende Departement dem Regierungsrat Antrag. Es übt bis zum Entscheid die dem Regierungsrat als Beschwerdeinstanz zustehenden Befugnisse aus. Dieses Departement schreibt das Verfahren ab, wenn die Beschwerde zurückgezogen, von der Gegenpartei anerkannt, durch Vergleich erledigt oder gegenstandslos wird. Es entscheidet in diesen Fällen über Kosten und Parteientschädigung.
+2 Der Regierungsrat beurteilt Beschwerden gegen Verfügungen des instruierenden Departementes nach Absatz 1.

@@ -1,0 +1,5 @@
+# § 13bis 2. Obligatorische Vertretung
+1 Treten in einer Sache mehr als zehn Parteien mit kollektiven oder individuellen Eingaben auf, um gleiche Interessen wahrzunehmen, so kann die Behörde verlangen, dass sie für das Verfahren einen oder mehrere Vertreter bestellen.
+2 Kommen sie dieser Aufforderung innert angemessener Frist nicht nach, so bezeichnet die Behörde einen oder mehrere Vertreter.
+3 Die Verfügungen, die aufgrund von Absatz 1 und 2 erlassen werden, sind nicht selbständig anfechtbar.
+4 Die Behörde legt die Entschädigung der obligatorischen Vertreter nach pflichtgemässem Ermessen fest. Entschädigt werden die nachgewiesenen Auslagen und bei Personen, die berufsmässig Personen vor Gericht vertreten, der notwendige Arbeitsaufwand. Die Entschädigung und allfällige weitere Kosten der obligatorischen Vertretung werden nach den Regeln über die Verfahrenskosten (§ 37 Abs. 2) verlegt. Dies gilt auch für das Verwaltungsverfahren vor erster Instanz. Das Gemeinwesen, dem die Behörde angehört, zahlt die Entschädigung an die obligatorischen Vertreter aus.

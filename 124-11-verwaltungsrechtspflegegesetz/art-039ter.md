@@ -1,0 +1,2 @@
+# § 39ter V. Unentgeltliche Rechtspflege und unentgeltlicher Rechtsbeistand
+1 Für die unentgeltliche Rechtspflege und den unentgeltlichen Rechtsbeistand gilt § 76 sinngemäss. Die sich daraus ergebenden Kosten trägt in der Regel der Kanton, soweit sie in Verfahren vor Verwaltungsbehörden des Kantons anfallen, und die betroffene Gemeinde, soweit sie in Verfahren vor den Verwaltungsbehörden der Gemeinde anfallen.
