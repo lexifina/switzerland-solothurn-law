@@ -1,0 +1,3 @@
+# § 31bis Massnahmen gemäss Bundesgesetz zur Wahrung der inneren Sicherheit
+1 Die Kantonspolizei ist zur Sicherstellung von Propagandamaterial gemäss Artikel 13a des Bundesgesetzes über Massnahmen zur Wahrung der inneren Sicherheit vom 21. März 1997 (BWIS) befugt und zur Allgemeinen Information der zuständigen Bundesbehörde gemäss Artikel 8 lit. f der Verordnung über Massnahmen zur Wahrung der inneren Sicherheit vom 27. Juni 2001 (VWIS) verpflichtet. Die Kantonspolizei kann Polizeigewahrsam, Rayonverbote sowie Meldeauflagen gemäss den Artikels 24b, 24d und 24e BWIS anordnen.
+2 Der Haftrichter ist die zur Prüfung des angeordneten Polizeigewahrsams zuständige Instanz.
