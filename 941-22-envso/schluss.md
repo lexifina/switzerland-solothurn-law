@@ -1,0 +1,4 @@
+Die Einspruchsfrist ist am 3. Dezember 2010 unbenutzt abgelaufen.
+Publiziert im Amtsblatt vom 10. Dezember 2010.
+Anhänge
+Anhang 1: Stand der Technik (§ 7 Absatz 3 EnVSO) Anhang 2a: U-Wert-Grenzwerte bei Neubauten (§ 8 EnVSO) Anhang 2b: U-Wert-Grenzwerte bei Umbauten und Umnutzungen (§ 8 EnVSO) Anhang 2c: Grenzwerte für den Heizwärmebedarf pro Jahr von Neubauten, Umbauten und Umnutzungen (§ 8 EnVSO) Anhang 3: Minimale Dämmstärken bei Wassererwärmern sowie Warmwasser- und Wärmespeichern (§ 17 EnVSO) Anhang 4: Minimale Dämmstärken bei Verteilleitungen der Heizung sowie bei Warmwasserleitungen (§ 18 EnVSO) Anhang 5: Maximale UR-Werte für erdverlegte Leitungen (§ 18 EnVSO) Anhang 6: Minimale Dämmstärken bei Luftkanälen, Rohren und Geräten von Lüftungs- und Klimaanlagen (§ 20 EnVSO) Anhang 7: Nachweis mittels Standardlösung (§ 11 EnVSO)
