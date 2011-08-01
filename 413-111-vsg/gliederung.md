@@ -3,8 +3,8 @@
 ## 3. Schularten
 ### 3.1. Regelschule
 #### 3.1.1. Primarschule
-#### 3.1.2. Oberschule, Sekundarschule und Bezirksschule
-#### 3.1.3. Kleinklassen
+#### 3.1.2. Sekundarschule
+#### 3.1.3. Spezielle Förderung
 ### 3.2. Sonderpädagogik
 #### 3.2.1. Sonderschulen und Schulheime
 #### 3.2.2. Pädagogisch-therapeutische Angebote
