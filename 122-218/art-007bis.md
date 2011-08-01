@@ -11,3 +11,4 @@ c) In Rechtsanwalts- und Notariatssachen
 3. Bewilligungen nach § 10 Absatz 2 des Anwaltsgesetzes;
 4. Verfügungen über die Entbindung von Notaren von der Schweigepflicht.
 d) Verfügungen nach der Verordnung über die juristische Grundausbildung.
+e) Verfügungen nach der Übergangsverordnung zum Verfahren bei medizinischer Staatshaftung.
