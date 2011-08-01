@@ -3,12 +3,14 @@
 2 Die fachliche Leistungsvereinbarung kann für maximal drei Jahre abgeschlossen werden.
 3 Das kantonale Volksschul- und Kindergartenangebot richtet sich nach den Bildungsplänen und beinhaltet:
 a) das obligatorische Bildungsangebot (Pflichtbereich);
-b) das fakultative Bildungsangebot (Wahl- bzw. Wahlpflichtbereich).
+abis) das Angebot der speziellen Förderung gemäss § 36 des Volksschulgesetzes vom 14. September 1969;
+b) das fakultative Bildungsangebot (Wahlpflichtbereich).
 4 Das kommunale Volksschul- und Kindergartenangebot richtet sich nach den speziellen Bedürfnissen der Schulgemeinde und beinhaltet:
-a) das Förderangebot im schriftsprachlichen und mathematischen Bereich (Teilleistungsstörungen);
-b) das Förderangebot in Sprachentwicklung und Kommunikation (Logopädie);
-c) das Angebot für die Integration von fremdsprachigen Schülern (Deutsch für Fremdsprachige);
-d) das Angebot für zugezogene Schüler im Bereich der Frühfremdsprachen;
-e) das Angebot für Schüler mit besonderer kognitiver Leistungsfähigkeit (Begabtenförderung);
+a) …
+b) …
+c) …
+d) …
+e) …
 f) den zusätzlichen Unterricht für Blockzeitenmodelle/Tagesschulen;
-g) das Freifachangebot.
+g) das Freifachangebot;
+h) das Angebot der speziellen Förderung im Kindergarten gemäss § 36 Absatz 3 des Volksschulgesetzes vom 14. September 1969.

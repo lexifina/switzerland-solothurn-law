@@ -4,3 +4,4 @@
 3 Der Regierungsrat erteilt die Bewilligung, wenn die folgenden Voraussetzungen erfüllt sind und auch langfristig erfüllt werden können:
 a) Es werden über 250 Schüler pro Schuljahr in die Sekundarschule aufgenommen;
 b) es müssen mindestens zwei parallele Klassenzüge geführt werden.
+4 Ausnahmen können bewilligt werden, um regional bedingte Zugangsbenachteiligungen für Schüler zu verhindern.
