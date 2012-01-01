@@ -1,1 +1,1 @@
-Publiziert im Amtsblatt vom 3. Dezember 2010.
+Publiziert im Amtsblatt vom 9. Dezember 2011.
