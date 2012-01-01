@@ -14,7 +14,7 @@
 ### 2.2. Zweiter Titel: Die juristischen Personen
 #### 2.2.1. Erster Abschnitt: Allgemeine Bestimmungen
 #### 2.2.2. Zweiter Abschnitt: Die Vereine
-#### 2.2.3. Dritter Abschnitt: Die Stiftungen
+#### 2.2.3. …
 ## 3. Zweiter Teil: Das Familienrecht
 ### 3.1. Erste Abteilung: Das Eherecht
 #### 3.1.1. Dritter Titel: Die Eheschliessung
@@ -85,8 +85,8 @@
 #### 5.2.2. Zweiundzwanzigster Titel: Das Grundpfand
 ##### 5.2.2.1. Erster Abschnitt: Allgemeine Bestimmungen
 ##### 5.2.2.2. Zweiter Abschnitt: Die Grundpfandverschreibung
-##### 5.2.2.3. Dritter Abschnitt: Schuldbrief und Gült
-##### 5.2.2.4. Vierter Abschnitt: Ausgabe von Anleihenstiteln mit Grundpfandrecht
+##### 5.2.2.3. Dritter Abschnitt: Schuldbrief
+##### 5.2.2.4. …
 #### 5.2.3. Dreiundzwanzigster Titel: Das Fahrnispfand
 ##### 5.2.3.1. Erster und zweiter Abschnitt: Faustpfand und Retentionsrecht, Pfandrecht an Forderungen und anderen Rechten
 ##### 5.2.3.2. Dritter Abschnitt: Das Versatzpfand
@@ -123,4 +123,5 @@
 #### 7.1.4. Vierter Abschnitt: Zur Revision vom 6. Dezember 1987
 #### 7.1.5. Zur Revision vom 10. Mai 2000
 #### 7.1.6. Zur Revision vom 10. Dezember 2008
+#### 7.1.7 Zur Revision vom 24. August 2011
 ### 7.2. Zweite Abteilung: Schlussbestimmungen
