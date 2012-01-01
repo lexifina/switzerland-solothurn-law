@@ -5,6 +5,6 @@ b) jährliche Berichterstattungen fordert, namentlich über die Geschäftstätig
 c) Einsicht in die Berichte der Revisionsstelle und des Experten für die berufliche Vorsorge nimmt und
 d) Massnahmen zur Behebung von Mängeln trifft.
 2 Sie prüft
-a) die Organisation der Stiftungen und der Vorsorgeeinrichtungen (Artikel 81 Absatz 2, Artikel 83d Artikel 89bis Absatz 6 ZGB und Artikel 51 BVG);
+a) die Organisation der Stiftungen und der Vorsorgeeinrichtungen (Artikel 81 Absatz 2, Artikel 83d, Artikel 89bis Absatz 6 ZGB, Artikel 51 und Artikel 51a BVG);
 b) die Vermögensverwendung (Artikel 84 Absatz 2 ZGB);
 c) die Anlage des Vermögens, soweit diese Kontrolle nicht der Revisionsstelle obliegt.
