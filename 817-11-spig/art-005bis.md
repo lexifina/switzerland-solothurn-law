@@ -1,3 +1,3 @@
-# § 5bis Ausserkantonale Hospitalisation
-1 Das Departement entscheidet über Gutsprache- und Beitragsgesuche zugunsten versicherter Personen, die aus medizinischen Gründen in einem ausserkantonalen Spital hospitalisiert werden müssen.
-2 Ohne medizinische Gründe leistet der Kanton Kostenbeiträge nur soweit in Spitalabkommen volle oder eingeschränkte Freizügigkeit vereinbart ist.
+# § 5bis Beiträge an Hospitalisationen in einem nicht auf der Spitalliste aufgeführten Spital
+1 Das Departement entscheidet über Gutsprache- und Beitragsgesuche gemäss Artikel 41 Absatz 3 KVG zugunsten versicherter Personen, die aus medizinischen Gründen in einem nicht auf der Spitalliste aufgeführten Spital hospitalisiert werden müssen.
+2 …
