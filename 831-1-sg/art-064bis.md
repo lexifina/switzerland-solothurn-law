@@ -1,0 +1,4 @@
+# § 64bis Zahlungsverzug und Leistungsaufschub
+1 Leitet ein Versicherer bei Zahlungsverzug der versicherten Person die Betreibung ein oder stellt er das Fortsetzungsbegehren, hat er dies unter Angabe der notwendigen Daten gleichzeitig dem Departement mitzuteilen. Die gleiche Mitteilung hat er zu machen, wenn eine versicherte Person, welche dem Departement bereits gemeldet wurde oder für welche eine Leistungssperre gilt, ihre Schuld beglichen hat.
+2 Das Departement prüft und verfügt, ob die Daten der versicherten Person elektronisch in einer Liste zu erfassen oder aus dieser zu entfernen sind. Nach Rechtskraft der Verfügung erfolgt eine Meldung an den jeweiligen Versicherer, welcher daraufhin die Leistungen aufzuschieben oder wieder auszurichten hat.
+3 Die Liste steht den Leistungserbringern nach KVG, den Einwohnergemeinden sowie den Steuerbehörden des Kantons Solothurn zur Einsicht offen.

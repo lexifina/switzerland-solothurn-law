@@ -1,0 +1,3 @@
+# § 64ter Übernahme der Verlustscheine und gleichgesetzte Rechtstitel
+1 Die Revisionsstellen der Versicherer bestätigen die Angaben der Versicherer bezüglich der Verlustscheine.
+2 Meldet der Versicherer dem Departement, dass er eine Betreibung eingeleitet hat, zeigt das Departement dem Versicherer an, ob die betriebenen Forderungen wegen Sozialhilfe- oder Ergänzungsleistungsbezugs bereits vor Ausstellung eines Verlustscheines vergütet werden. Die schriftliche Mitteilung des Departments gilt als Rechtstitel, der einem Verlustschein gleichgesetzt ist. Betreibungskosten, welche nach Meldung des Departements entstanden sind, werden nicht vergütet.
