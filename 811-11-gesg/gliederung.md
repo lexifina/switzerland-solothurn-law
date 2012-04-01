@@ -3,6 +3,7 @@
 ### 2.1. Kantonale Gesundheitsbehörden
 ### 2.2. Gesundheitsbehörden der Einwohnergemeinden
 ## 3. Förderung der Gesundheit und Verhütung von Krankheiten und Unfällen
+## 3bis Versorgungssicherheit
 ## 4. Heilpersonen
 ### 4.1. Gemeinsame Bestimmungen
 ### 4.2. Medizinalpersonen
