@@ -4,6 +4,6 @@
 ## 4. Die Eintragungen
 ## 5. Teilung, Vereinigung und Umschreibung
 ## 6. Aufsicht, Beschwerden
-## 7. Auszüge, Form des Hauptbuches, Hilfsregister
+## 7. Aufbewahrung und Sicherung, Daten
 ## 8. Besondere Bestimmungen zur Führung des Grundbuchs mit elektronischer Datenverarbeitung
 ## 9. Schlussbestimmungen
