@@ -6,5 +6,5 @@ c) heilpädagogische und therapeutische Stützmassnahmen;
 d) behinderungsbedingte ausserschulische Betreuung;
 e) behinderungsbedingte Schulheimaufenthalte (Internate);
 f) behinderungsbedingte Schülertransporte.
-2 Das Angebot beginnt vom Kindergartenalter an und dauert bis zum Abschluss der Volksschule.
+2 Das Angebot beginnt mit Schuleintritt und dauert bis zum Abschluss der Volksschule.
 3 Das Angebot kann in begründeten Fällen längstens bis zum 20. Altersjahr ausgedehnt werden.
