@@ -1,11 +1,11 @@
 # § 13bis Fachliche Leistungsvereinbarung G § 5bis 1. Inhalt und Dauer
-1 Die fachliche Leistungsvereinbarung umschreibt das gesamte Volksschul- und Kindergartenangebot der Schulgemeinde, die zu erbringenden Leistungen, die damit verbundenen finanziellen Mittel (Pensenbewilligung), die Verantwortlichkeiten sowie die Mitwirkungs- und Kontrollrechte der Trägerschaft.
+1 Die fachliche Leistungsvereinbarung umschreibt das gesamte Volksschulangebot der Schulgemeinde, die zu erbringenden Leistungen, die damit verbundenen finanziellen Mittel (Pensenbewilligung), die Verantwortlichkeiten sowie die Mitwirkungs- und Kontrollrechte der Trägerschaft.
 2 Die fachliche Leistungsvereinbarung kann für maximal drei Jahre abgeschlossen werden.
-3 Das kantonale Volksschul- und Kindergartenangebot richtet sich nach den Bildungsplänen und beinhaltet:
+3 Das kantonale Volksschulangebot richtet sich nach den Bildungsplänen und beinhaltet:
 a) das obligatorische Bildungsangebot (Pflichtbereich);
 abis) das Angebot der speziellen Förderung gemäss § 36 des Volksschulgesetzes vom 14. September 1969;
 b) das fakultative Bildungsangebot (Wahlpflichtbereich).
-4 Das kommunale Volksschul- und Kindergartenangebot richtet sich nach den speziellen Bedürfnissen der Schulgemeinde und beinhaltet:
+4 Das kommunale Volksschulangebot richtet sich nach den speziellen Bedürfnissen der Schulgemeinde und beinhaltet:
 a) …
 b) …
 c) …
