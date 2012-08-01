@@ -14,6 +14,7 @@ Gewährleistung der Bundesversammlung der Änderungen vom:
 16. Mai 2004 am 8. März 2005 (SR), 14. März 2005 (NR);
 28. November 2004 am 5. Oktober 2005 (SR), 6. Oktober 2004 (NR);
 25. September 2005 am 9. Juni 2006 (SR), 12. Juni 2006 (NR);
-30. November 2008 am ...;
+30. November 2008 am 4. März 2013 (SR), 11. März 2013 (NR);
 26. September 2010 am 12. September 2011 (SR), 29. September 2011 (NR);
-11. März 2012 am ...
+11. März 2012 am 4. März 2013 (SR), 11. März 2013 (NR);
+23. September 2012 am ...
