@@ -1,2 +1,2 @@
 Anhänge
-Anhang 1: Höhe der zumutbaren jährlichen Leistungen der Eltern
+Anhang 1: Ausser Kraft
