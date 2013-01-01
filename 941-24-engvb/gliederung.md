@@ -1,4 +1,4 @@
 ## 1. Allgemeine Bestimmungen
-## 2. Beitragsarten
+## 2. Förderbeiträge
 ## 3. Vollzug
-## 4. Schlussbestimmung
+## 4. Schlussbestimmungen

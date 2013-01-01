@@ -1,6 +1,6 @@
 # Verordnung zum Energiegesetz über Staatsbeiträge
 (EnGVB)
-Vom 03.05.1993
+Vom 25.09.2012
 Der Regierungsrat des Kantons Solothurn
-gestützt auf die §§ 5, 19 Absatz 1 litera b) und Absatz 2 litera b des Energiegesetzes vom 4. September 1990 (EnG), Artikel 33 der Verordnung über eine sparsame und rationelle Energienutzung des Bundesrates vom 22. Januar 1992 (Energienutzungsverordnung; ENV)
+gestützt auf §§ 3, 5, 19 Absatz 2 Buchstabe b des kantonalen Energiegesetzes (EnGSO) vom 3. März 1991 sowie auf § 165 Absatz 1 Buchstabe b des Gesetzes über Wasser, Boden und Abfall (GWBA) vom 4. März 2009
 beschliesst:
