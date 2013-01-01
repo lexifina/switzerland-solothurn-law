@@ -38,19 +38,26 @@
 ##### 3.2.3.1. Erster Abschnitt: Die Unterstützungspflicht
 ##### 3.2.3.2. Zweiter Abschnitt: Die Hausgewalt
 ##### 3.2.3.3. Dritter Abschnitt: Das Familienvermögen
-### 3.3. Dritte Abteilung: Die Vormundschaft
-#### 3.3.1. Zehnter Titel: Die allgemeine Ordnung der Vormundschaft
-##### 3.3.1.1. Erster Abschnitt: Die vormundschaftlichen Organe
-##### 3.3.1.2. Zweiter und dritter Abschnitt: Die Bevormundungsfälle, Zuständigkeit
-##### 3.3.1.3. Vierter Abschnitt: Die Bestellung des Vormundes
-##### 3.3.1.4. Fünfter Abschnitt: Die Beistandschaft
-##### 3.3.1.5. Sechster Abschnitt: Die fürsorgerische Freiheitsentziehung
-#### 3.3.2. Elfter Titel: Die Führung der Vormundschaft
-##### 3.3.2.1. Erster Abschnitt: Das Amt des Vormundes
-##### 3.3.2.2. Zweiter Abschnitt: Das Amt des Beirates und des Beistandes
-##### 3.3.2.3. Dritter Abschnitt: Die Mitwirkung der vormundschaftlichen Behörden
-##### 3.3.2.4. Vierter Abschnitt: Die Verantwortlichkeit der vormundschaftlichen Organe
-#### 3.3.3. Zwölfter Titel: Das Ende der Vormundschaft
+### 3.3. Dritte Abteilung: Der Erwachsenenschutz
+#### 3.3.1. Zehnter Titel: Die eigene Vorsorge und Massnahmen von Gesetzes wegen
+##### 3.3.1.1. Erster Abschnitt: Die eigene Vorsorge
+#### 3.3.2 Elfter Titel: Die behördlichen Massnahmen
+##### 3.3.2.1 Zweiter Abschnitt: Die Beistandschaften
+##### 3.3.1.2. …
+##### 3.3.2.2 Dritter Abschnitt: Die fürsorgerische Unterbringung
+##### 3.3.1.3. …
+#### 3.3.3 Zwölfter Titel: Organisation
+##### 3.3.1.4. …
+##### 3.3.3.1 Erster Abschnitt: Behörden und örtliche Zuständigkeit
+##### 3.3.1.5. …
+#### 3.3.2. …
+##### 3.3.2.1. …
+##### 3.3.3.2. Zweiter Abschnitt: Verfahren
+##### 3.3.2.2. …
+##### 3.3.2.3. …
+##### 3.3.3.3. Dritter Abschnitt: Verantwortlichkeit
+##### 3.3.2.4. …
+#### 3.3.3. …
 ## 4. Dritter Teil: Das Erbrecht
 ### 4.1. Erste Abteilung: Die Erben
 #### 4.1.1. Dreizehnter Titel: Die gesetzlichen Erben

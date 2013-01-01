@@ -12,4 +12,4 @@ a) auf welche Orte sich Wegweisung und Rückkehrverbot beziehen;
 b) welche Beratungs- und Opferhilfestellen zur Verfügung stehen;
 c) dass sie den Zivilrichter anrufen können;
 d) dass sie Strafantrag stellen können.
-4 Die Kantonspolizei kann Wegweisung und Rückkehrverbot der Vormundschaftsbehörde des Wohnorts und des Aufenthaltsortes der weggewiesenen Person melden. Die Vormundschaftsbehörde prüft vormundschaftliche Massnahmen.
+4 Die Kantonspolizei meldet Wegweisung und Rückkehrverbot der Kindes- und Erwachsenenschutzbehörde am Wohnort und am Aufenthaltsort der weggewiesenen Person. Die Kindes- und Erwachsenenschutzbehörde prüft die nötigen Massnahmen.
