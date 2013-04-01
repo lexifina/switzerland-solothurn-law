@@ -1,7 +1,7 @@
 ## 1. Zuständigkeit
 ## 2. Heilpersonen
 ### 2.1. Allgemeine Bestimmungen
-### 2.2. Psychotherapeuten und Psychotherapeutinnen (§ 26 Gesundheitsgesetz)
+### 2.2. …
 ### 2.3. Heilpraktiker und Heilpraktikerinnen (§ 27 Gesundheitsgesetz)
 ### 2.4. Andere Berufe der Gesundheitspflege (§ 28 Gesundheitsgesetz)
 #### 2.4.1. Augenoptiker und Augenoptikerinnen
