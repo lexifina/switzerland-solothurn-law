@@ -4,5 +4,7 @@
 ## 4. Rechte und Pflichten der Ratsmitglieder
 ## 5. Informationsrechte
 ## 6. Verhandlungsgegenstände
+## 6bis Planung und Steuerung
+## 6ter Grenzüberschreitende Zusammenarbeit und Staatsverträge
 ## 7. Oberaufsicht
 ## 8. Schlussbestimmungen
