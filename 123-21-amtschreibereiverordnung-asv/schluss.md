@@ -1,4 +1,4 @@
-Vom Bund genehmigt:
-Änderung vom 27. August 1986 am 21. November 1986;
-Änderung vom 22. Dezember 1987 am 5. Februar 1988;
-Änderung vom 26. September 1995 am 3. Januar 1996.
+RRB Nr. 2013/833 vom 14. Mai 2013.
+Die Einspruchsfrist ist am 26. Juli 2013 unbenutzt abgelaufen.
+Inkrafttreten am 1. August 2013.
+Publiziert im Amtsblatt vom 9. August 2013.
