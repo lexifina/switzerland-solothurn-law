@@ -1,5 +1,4 @@
-## 1. Allgemeine Bestimmungen
-## 2. Aufnahmeverfahren
-### 2.1. Ordentliche Aufnahmen
-### 2.2. Ausserordentliche Aufnahmen
-## 3. Übergangs- und Schlussbestimmungen
+## 1. Allgemeines
+## 2. Ordentliche Aufnahmen
+## 3. Ausserordentliche Aufnahmen
+## 4. Rechtspflege
