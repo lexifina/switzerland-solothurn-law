@@ -31,3 +31,4 @@
 ### 7.2. Übergangs- und Schlussbestimmungen der Teilrevision vom 26. November 2006
 ### 7.3. Übergangs- und Schlussbestimmungen der Teilrevision vom 16. Mai 2007
 ### 7.4. Übergangsbestimmung zur Teilrevision vom 10. März 2010
+### 7.5. Übergangsbestimmung zur Teilrevision vom 4. September 2012
