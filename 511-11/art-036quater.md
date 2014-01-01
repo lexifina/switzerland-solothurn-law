@@ -1,0 +1,5 @@
+# § 36quater Einsatz von Bild- und Tonaufzeichnungsgeräten bei Veranstaltungen zur Beweissicherung
+1 Die Kantonspolizei kann im Zusammenhang mit Veranstaltungen und Kundgebungen an allgemein zugänglichen Orten Personen oder Personengruppen sowie deren Äusserungen auf Bild- und Tonträger aufnehmen, wenn aufgrund von Anhaltspunkten anzunehmen ist, dass es zu Straftaten kommen könnte und die Aufzeichnungen der Beweissicherung dienen.
+2 Die Massnahme darf auch durchgeführt werden, wenn Personen unvermeidbar betroffen werden, von welchen keine Störung oder Gefährdung der öffentlichen Sicherheit und Ordnung ausgeht.
+3 Die Aufzeichnungen sind sofort auszuwerten und spätestens nach 96 Stunden zu löschen. Vorbehalten bleibt die Verwendung der Daten zu Beweiszwecken in einem Strafverfahren und die Weitergabe der Daten gemäss § 16ter InfoDG.
+4 Der Kommandant der Kantonspolizei kann die längere Aufbewahrung zu Dokumentations- und Schulungszwecken anordnen. Die datenschutzkonforme Bearbeitung der Aufzeichnungen richtet sich nach § 16 InfoDG.

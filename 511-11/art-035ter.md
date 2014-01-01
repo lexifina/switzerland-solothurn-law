@@ -1,0 +1,4 @@
+# § 35ter b) Orientierung potentieller Opfer, Meldung an weitere Personen und an Behörden
+1 Die Kantonspolizei kann Daten nach § 6 Absätze 2, 3 und 4 des Informations- und Datenschutzgesetzes (InfoDG) vom 21. Februar 2001 von Personen mit erhöhter Gewaltbereitschaft an gefährdete Personen sowie an weitere Personen und Behörden weitergeben, wenn dies zur Abwehr oder Verhütung einer ernsthaften Gefahr erforderlich und geeignet ist.
+2 Die Kantonspolizei hat bei der Orientierung und Meldung nach Absatz 1 die Persönlichkeitsrechte des Gefährders soweit als möglich zu wahren.
+3 Orientierung und Meldung nach Absatz 1 erfolgen in der Regel unter gleichzeitiger Information des Gefährders. Die Mitteilung kann aufgeschoben oder unterlassen werden, wenn der Aufschub oder die Unterlassung zum Schutz überwiegender öffentlicher oder privater Interessen notwendig ist.
