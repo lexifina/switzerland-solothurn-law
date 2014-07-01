@@ -1,8 +1,7 @@
-## 1. Zuständigkeiten und Verfahren
-## 2. Allgemeine Vollzugsbestimmungen
-## 3. Stufenweiser Vollzug in der Strafanstalt Oberschöngrün
-## 4. Besondere Vollzugsformen
-## 5. Innerkantonale Übernahme der Kosten
-## 6. Vollzug der Untersuchungshaft
-## 7. Kommissionen
-## 8. Schlussbestimmungen
+## 1. Allgemeines
+## 2. Zuständigkeiten
+## 3. Vollzugseinrichtungen
+## 4. Vollzug
+## 5. Rechtsstellung der Gefangenen
+## 6. Melderechte und Meldepflichten
+## 7. Kosten des Justizvollzugs
