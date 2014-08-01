@@ -1,2 +1,4 @@
-Der gegen diese Verordnungsänderung erhobene Einspruch wurde vom Kantonsrat am 5. November 2003 abgelehnt.
-Publiziert im Amtsblatt vom 21. November 2003.
+RRB Nr. 2013/2284 vom 9. Dezember 2013.
+Die Einspruchsfrist ist am 7. Februar 2014 unbenutzt abgelaufen.
+Inkrafttreten am 1. August 2014.
+Publiziert im Amtsblatt vom 14. Februar 2014.
