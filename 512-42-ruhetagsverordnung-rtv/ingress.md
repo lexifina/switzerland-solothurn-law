@@ -1,5 +1,6 @@
-# Vollzugsverordnung zum Gesetz über die öffentlichen Ruhetage
-Vom 06.10.1964
-Der Regierungsrat des Kantons Solothurn
-gestützt auf Artikel 38 Ziffer 1 der Kantonsverfassung vom 23. Oktober 1887
+# Verordnung zum Gesetz über die öffentlichen Ruhetage
+(Ruhetagsverordnung, RTV)
+Vom 19.08.2014
+Der Regierungsrat von Solothurn
+gestützt auf § 8 Absatz 2 des Gesetzes über die öffentlichen Ruhetage (Rugetagsgesetz, RTG) vom 29. Januar 2014
 beschliesst:
