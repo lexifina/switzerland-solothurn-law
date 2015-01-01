@@ -10,7 +10,7 @@
 ## 4. Entschädigungen
 ### 4.1. Grundentschädigung, Sitzungsgeld, Präsidialentschädigung
 ### 4.2. Spesenentschädigung
-### 4.3. Erwerbsausfall- und Auslagenersatz
+### 4.3. Auslagenersatz
 ## 5. Verhandlungsordnung
 ### 5.1. Rahmen der Beratung
 ### 5.2. Beratung
