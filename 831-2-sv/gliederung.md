@@ -15,6 +15,8 @@
 #### 3.2.1. Familienzulagen unter Ausschluss der Landwirtschaft
 #### 3.2.2. Familienzulagen in der Landwirtschaft
 ### 3.3. Ergänzungsleistungen
+#### 3.3.1. Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung
+#### 3.3.2. Ergänzungsleistungen für Familien
 ### 3.4. Prämienverbilligung
 ### 3.5. Alimentenbevorschussung und Inkassohilfe
 ## 4. Unterstützung in Lebens- und Problemlagen
