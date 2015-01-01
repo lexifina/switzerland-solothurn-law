@@ -1,2 +1,2 @@
-Inkrafttreten am 1. Januar 2014.
-Publiziert im Amtsblatt vom 8. November 2013.
+Inkrafttreten am 1. Januar 2015.
+Publiziert im Amtsblatt vom 21. November 2014.
