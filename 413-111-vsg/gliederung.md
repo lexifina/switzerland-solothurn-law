@@ -33,3 +33,4 @@
 ### 7.4. Übergangsbestimmung zur Teilrevision vom 10. März 2010
 ### 7.5. Übergangsbestimmung zur Teilrevision vom 4. September 2012
 ### 7.6. Übergangsbestimmung zur Teilrevision vom 27. Februar 2013
+### 7.7. Übergangsbestimmungen zur Teilrevision vom 30. November 2014
