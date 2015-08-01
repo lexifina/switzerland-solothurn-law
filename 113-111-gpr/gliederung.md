@@ -10,7 +10,7 @@
 ### 3.5. Die Wahlurnen
 ### 3.6. Die Stimmrechtsausweise
 ### 3.7. Wahl- und Stimmmaterial
-## 4. Die Wahlarten
+## 4. Wahlarten, Verteilung der Kantonsratssitze auf die Wahlkreise
 ## 5. Die Vorbereitung der Wahlen und Abstimmungen
 ### 5.1. Die Ansetzung der Wahl- und Abstimmungstage und die Einberufung der Stimmberechtigten
 ### 5.2. Das Anmeldeverfahren
