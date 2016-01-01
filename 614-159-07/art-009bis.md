@@ -1,6 +1,6 @@
 # § 9bis 3. Elektronisches Abrufverfahren
 1 Verwaltungsbehörden und Gerichten können die für die Erfüllung ihrer Aufgaben erforderlichen Auskünfte aus Steuerakten mittels eines elektronischen Abrufverfahrens aus den Datenbanken des Steueramtes erteilt werden. Berechtigt sind:
-a) das Amt für Finanzen für die Bewirtschaftung von Verlustscheinen;
+a) das Amt für Finanzen für die Bewirtschaftung von Verlustscheinen und für Abklärungen über den Rückforderungsanspruch des Staates aus unentgeltlicher Rechtspflege und unentgeltlichem Rechtsbeistand (§ 5 Abs. 1 BSt. l);
 b) das Amt für soziale Sicherheit und die Oberämter für die Abklärung der wirtschaftlichen Verhältnisse im Zusammenhang mit
 1. der Ausrichtung und Rückerstattung von Sozialhilfeleistungen und Pflegekostenbeiträgen,
 2. der Inanspruchnahme der Verwandtenunterstützungspflicht,
