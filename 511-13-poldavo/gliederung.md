@@ -4,7 +4,7 @@
 ### 1.3. Rechte der betroffenen Personen
 ### 1.4. Zugang zu amtlichen Dokumenten
 ### 1.5. Allgemeine Löschungsregel
-## 2. Besonderer Teil: Das polizeiliche Informationssystem ABI und erkennungsdienstliche Datensammlungen
+## 2. Besonderer Teil: Das polizeiliche Informationssystem und biometrische erkennungsdienstliche Datensammlungen
 ### 2.1. Gespeicherte Daten
 ### 2.2. Berechtigung zur Weiterbearbeitung
 ### 2.3. Aufbewahrungsdauer und Löschungsregel

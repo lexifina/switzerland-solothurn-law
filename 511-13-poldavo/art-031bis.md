@@ -1,0 +1,5 @@
+# § 31bis Aufbewahrungsdauer der im Rahmen des KBM bearbeiteten Personendaten
+1 Ist der Grund für die Datenbearbeitung weggefallen, sind die Personendaten unverzüglich zu löschen. In jedem Fall ist die Löschung spätestens nach dem Tod der betroffenen Person vorzunehmen. Im Zeitpunkt der Löschung muss auch die Bemerkung "KBM" in den anderen Modulen gelöscht werden.
+2 Erfolgt die Datenbearbeitung gestützt auf §§ 35bis - 35quater KapoG, sind die Daten 5 Jahre nach Erfassung des letzten Datenzuwachses zu löschen. Der einzelne Eintrag, der nicht bereits nach Satz 1 gelöscht worden ist, wird spätestens nach 20 Jahren gelöscht.
+3 Erfolgt die Datenbearbeitung gestützt auf § 35quinquies KapoG, sind die Daten 10 Jahre nach Erfassung des letzten Datenzuwachses zu löschen. Der einzelne Eintrag, der nicht bereits nach Satz 1 gelöscht worden ist, wird spätestens nach 30 Jahren gelöscht.
+4 Der Kommandant oder die Kommandantin kann in begründeten Fällen die Verlängerung der Aufbewahrungsfrist gemäss Absatz 2 und 3 anordnen.
