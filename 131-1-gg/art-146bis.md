@@ -1,6 +1,6 @@
 # § 146bis V. Wirkungsorientierte Verwaltungsführung
 1 Gemeinden können in der Gemeindeordnung ihre Verwaltung oder Teilbereiche davon auf die Grundsätze der wirkungsorientierten Verwaltungsführung ausrichten.
-2 Die Einführung von Globalbudgets ist vom Departement des Innern zu genehmigen.
+2 Die Einführung von Globalbudgets ist vom Departement zu genehmigen.
 3 Im Rahmen der Globalbudgets sind die Gemeinden für die Beschlussfassung nicht an die Budgetprinzipien der Bruttodarstellung und der Spezifikation gebunden.
 4 Die Gemeinden können den Saldo von Globalbudgets auf die nächste Kreditperiode übertragen.
 5 Die Globalbudgets müssen folgende Anforderungen erfüllen:

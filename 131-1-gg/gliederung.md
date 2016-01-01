@@ -27,7 +27,7 @@
 ## 6. Finanzhaushalt
 ### 6.1. Grundsätze der Haushaltführung und des Rechnungswesens
 ### 6.2. Finanzplan
-### 6.3. Voranschlag
+### 6.3. Budget
 ### 6.4. Jahresrechnung
 ### 6.5. Rechnungsprüfung und Finanzkontrolle
 ## 7. Unternehmen
@@ -46,3 +46,8 @@
 ### 10.3. Beschwerdeverfahren
 ## 11. Staatsaufsicht
 ## 12. Schlussbestimmungen
+### 12.1. Änderung und Aufhebung bisherigen Rechts
+### 12.2. Übergangsbestimmung zur Teilrevision vom 28. Juni 2006
+### 12.3. Übergangsbestimmungen zur Teilrevision vom 5. November 2014
+### 12.4. Vollzug
+### 12.5. Inkrafttreten
