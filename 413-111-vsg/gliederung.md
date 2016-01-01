@@ -8,14 +8,19 @@
 ### 3.2. Sonderpädagogik
 #### 3.2.1. Sonderschulen und Schulheime
 #### 3.2.2. Pädagogisch-therapeutische Angebote
-## 4. Schulgemeinden und Schulkreise
+## 4. Schulträger und Finanzierung
+### 4.1. Schulträger
+### 4.2. Finanzierung
+#### 4.2.1. Grundsätze der Kostentragung
+#### 4.2.2. Beiträge des Kantons und der kommunalen Schulträger
+#### 4.2.3. Finanzplanung, Auszahlung und Abrechnung
 ## 5. Lehrer
 ### 5.1. Voraussetzungen für die Ausübung des Lehrberufes
-### 5.2. Begründung des Anstellungsverhältnisses von Lehrkräften
-### 5.3. Beendigung des Anstellungsverhältnisses von Lehrkräften
+### 5.2. Anstellungsverhältnisse der Lehrer und der Schulhilfen
+### 5.3. …
 ### 5.4. Pflichten und Rechte
 ## 6. Behörden und Rechtspflege
-### 6.1. Behörden der Gemeinden
+### 6.1. Behörden der Einwohnergemeinden
 #### 6.1.1. Kommunale Aufsichtsbehörde
 #### 6.1.2. …
 #### 6.1.3. …

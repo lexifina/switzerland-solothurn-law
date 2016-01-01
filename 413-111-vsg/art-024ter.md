@@ -10,6 +10,6 @@ f) Ausschluss vom Unterricht bis höchstens 7 Tage, nach vorgängiger Benachrich
 3 Der Schulleiter kann folgende Massnahmen ergreifen:
 a) Aussprache mit den Inhabern der elterlichen Sorge;
 b) Ermahnung mit Bussenandrohung der Inhaber der elterlichen Sorge auf Antrag der Lehrperson und Bussenverfügung bei erfolgloser Ermahnung (§ 24bis Abs. 3);
-c) Versetzung in eine andere Klasse oder in ein anderes Schulhaus. Nötigenfalls wird die Versetzung an eine Schule einer anderen Gemeinde bei der zuständigen Behörde veranlasst;
+c) Versetzung in eine andere Klasse oder in ein anderes Schulhaus. Nötigenfalls wird die Versetzung an eine Schule einer anderen Einwohnergemeinde bei der zuständigen Behörde veranlasst;
 d) Verweis oder Androhung des Ausschlusses von der Schule gemäss litera e) bei wiederholten oder schweren Verstössen;
 e) teilweiser oder vollständiger Ausschluss vom Unterricht während höchstens zwölf Wochen pro Schuljahr, mit zwingender Benachrichtigung der Kindesschutzbehörde für Schüler, welche durch ihr Verhalten den ordentlichen Schulbetrieb erheblich beeinträchtigen oder das eigene Wohl oder dasjenige von anderen Personen schwerwiegend gefährden. Bei einem Schulausschluss ist es gleichzeitig verboten, sich ohne Genehmigung des Schulleiters auf dem Schulareal aufzuhalten.
