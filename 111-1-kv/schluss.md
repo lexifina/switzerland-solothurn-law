@@ -19,4 +19,5 @@ Gewährleistung der Bundesversammlung der Änderungen vom:
 11. März 2012 am 4. März 2013 (SR), 11. März 2013 (NR);
 23. September 2012 am 16. September 2013 (SR), 23. September 2013 (NR);
 14. April 2013 am 17. September 2014 (SR), 24. September 2014 (NR);
-18. Mai 2014 am 5. März 2015 (SR), 11. März 2015 (NR).
+18. Mai 2014 am 5. März 2015 (SR), 11. März 2015 (NR);
+8. März 2015 am 29. Februar 2016 (SR), 3. März 2016 (NR).
