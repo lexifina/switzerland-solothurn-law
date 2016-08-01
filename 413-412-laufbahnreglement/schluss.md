@@ -1,4 +1,5 @@
-Dieses Reglement tritt am 1. August 2011 in Kraft.
-Publiziert im Amtsblatt vom 10. September 2010.
+Beschluss Departement für Bildung und Kultur vom 18. März 2016.
+Inkrafttreten am 1. August 2016.
+Publiziert im Amtsblatt vom 1. April 2016.
 Anhänge
-Anhang 1: Anhänge Anhang 413.412: Ausser Kraft
+Anhang 1: Anhaenge
