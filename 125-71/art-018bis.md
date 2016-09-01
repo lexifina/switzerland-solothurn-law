@@ -1,3 +1,3 @@
-# § 18bis e) Publikation der grundsätzlichen Entscheide
-1 Das Obergericht publiziert ausgewählte Entscheide solothurnischer Gerichte.
-2 Die Kammern können wichtige Entscheide im Internet zugänglich machen.
+# § 18bis e) Publikation der Entscheide
+1 Das Obergericht publiziert seine Entscheide im Internet. Leitentscheide werden als solche gekennzeichnet.
+2 Die Richtlinien bestimmen die Ausnahmen und regeln die Details.
