@@ -1,6 +1,7 @@
 ## 1. Allgemeine Bestimmungen
 ## 2. Aufnahme der Grundstücke und Anlage des Hauptbuches
 ## 3. Anmeldung, Einschreibung in das Tagebuch
+## 3bis Elektronischer Geschäftsverkehr
 ## 4. Die Eintragungen
 ## 5. Teilung, Vereinigung und Umschreibung
 ## 6. Aufsicht, Beschwerden
