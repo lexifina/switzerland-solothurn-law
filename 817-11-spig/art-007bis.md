@@ -1,2 +1,1 @@
-# § 7bis Mehrjähriges Globalbudget
-1 Der Kantonsrat beschliesst für die Finanzierung der gemeinwirtschaftlichen Leistungen sowie der weiteren besonderen Leistungen des kantonalen Spitals einen mehrjährigen Leistungsauftrag samt Verpflichtungskredit im Sinne von § 13 des Gesetzes über die wirkungsorientierte Verwaltungsführung (WoVG) vom 3. September 2003. Die weiteren Bestimmungen der Gesetzgebung über die wirkungsorientierte Verwaltungsführung sind anwendbar.
+# § 7bis …
