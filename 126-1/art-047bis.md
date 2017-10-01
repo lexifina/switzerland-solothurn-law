@@ -3,4 +3,4 @@
 Der Anspruch auf Taggeld besteht:
 a) bei krankheitsbedingter Arbeitsunfähigkeit von mindestens 25 Prozent während 12 Monaten;
 b) bei unfallbedingter Arbeitsunfähigkeit längstens bis zum Beginn einer Rente.
-2 Der Regierungsrat regelt den Anspruch auf Taggeldleistungen für Arbeitnehmer und Arbeitnehmerinnen im befristeten Anstellungsverhältnis.
+2 Der Regierungsrat beziehungsweise das zuständige Organ nach § 2bis regelt den Anspruch auf Taggeldleistungen für Arbeitnehmer und Arbeitnehmerinnen im befristeten Anstellungsverhältnis.
