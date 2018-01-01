@@ -3,7 +3,7 @@
 ## 3. Schutzdienstpflicht
 ## 4. Ausbildung und Kontrollführung
 ### 4.1. Allgemeines
-### 4.2. Aufgebot zu Ausbildungsdiensten
+### 4.2. Aufgebot
 ### 4.3. Kontrollführung
 ## 5. Einsätze
 ## 6. Baulicher Zivilschutz
