@@ -1,2 +1,2 @@
-# § 85septies Verfahren
-1 Anmeldungen zum Bezug von Ergänzungsleistungen für Familien sind bei der Ausgleichskasse einzureichen. Im Übrigen richtet sich das Verfahren nach § 84 dieses Gesetzes.
+# § 85septies Anmeldung und Verfahren
+1 Der Regierungsrat bestimmt, wo die Anmeldung zum Bezug von Ergänzungsleistungen für Familien einzureichen ist und wer den Vollzug leistet. Das Verfahren richtet sich sinngemäss nach § 84 dieses Gesetzes.
