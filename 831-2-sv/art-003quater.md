@@ -1,0 +1,7 @@
+# § 3quater Mitwirkungspflicht und Datenbearbeitung bei der Aus- und Weiterbildung
+1 Die Wohnheime und Tagesstätten gemäss § 141 SG, die ambulanten und teilstationären Dienste gemäss § 142 SG und die Pflegeheime gemäss § 142 SG, die über eine Betriebsbewilligung gemäss § 21 SG verfügen, sind verpflichtet, der SOdAS die zum Vollzug der Aus- und Weiterbildungsverpflichtung notwendigen Daten unentgeltlich zur Verfügung zu stellen. Sie haben dieser insbesondere die Vollzeitstellen bzw. die jährliche Anzahl Stunden gemäss Artikel 7a Absatz 1 Verordnung des EDI über Leistungen in der obligatorischen Krankenpflegeversicherung (Krankenpflege-Leistungsverordnung, KLV) vom 29. September 1995 pro Beruf sowie die Anzahl geleisteter Ausbildungswochen pro Beruf zu melden.
+2 Bei Nichterfüllen der Mitwirkungspflicht trotz Mahnung wird eine Berechnung nach pflichtgemässem Ermessen vorgenommen.
+3 Die SOdAS und das Departement können zur Überprüfung der Angaben der Betriebe insbesondere folgende Daten unentgeltlich beziehen:
+a) von den stationären Pflegeeinrichtungen und den Spitexorganisationen die Stellenpläne inklusive Ausbildungsstellen bzw. -wochen und die anonymisierten Belege über Praktikumszuteilungen von Lernenden bzw. Studierenden ausserkantonaler Bildungsinstitutionen;
+b) vom Berufsbildungszentrum pro Betrieb die Anzahl Lernender der Sekundarstufe II und die Anzahl Studierender der Tertiärstufe;
+c) vom Amt für Soziale Sicherheit die Erhebung der KLV-Stunden und die Daten aus den Qualitätsreportings.
