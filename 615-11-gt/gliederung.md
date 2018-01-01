@@ -18,6 +18,7 @@
 #### 2.2.14. Soziale Sicherheit
 #### 2.2.15. Staatskanzlei
 #### 2.2.16. Steuerwesen
+#### 2.2.16.bis Stiftungsaufsicht
 #### 2.2.17. Kantonsstrassen
 #### 2.2.18. Umwelt
 #### 2.2.19. Verkehr
@@ -30,9 +31,10 @@
 #### 2.2.22. Wirtschaft und Arbeit
 ## 3. Gebühren der Gerichte
 ### 3.1. Allgemeine Bestimmungen
+### 3.1bis. Gerichtsverwaltungssachen
 ### 3.2. Zivilsachen
 ### 3.3. Strafsachen
-### 3.4. Gerichtssachen
+### 3.4. Verwaltungsgerichtssachen
 ### 3.5. Friedensrichter
 ### 3.6. Zeugen, Sachverständige, Liquidatoren, Übersetzer, Parteien
 ### 3.7. Verteidiger- und Parteientschädigungen im Strafverfahren
