@@ -6,7 +6,7 @@ b) den Zugang der Patienten und Patientinnen zur Behandlung innert nützlicher F
 c) die Bereitschaft und Fähigkeit zur Erfüllung des Leistungsauftrags;
 d) eine angemessene Beteiligung am Notfalldienst;
 e) die Bereitschaft zur Aufnahme von Patienten und Patientinnen gemäss § 5;
-f) eine angemessene Beteiligung an der Aus- und Weiterbildung der Berufe im Gesundheitswesen;
+f) …
 g) die Einhaltung bestimmter Vorgaben zur Rechnungslegung und Rechnungskontrolle;
 h) die Bereitschaft von Spitälern, in denen keine verbindlichen Gesamtarbeitsverträge bestehen, sich in Bezug auf die Arbeitsbedingungen mindestens nach den Vorgaben des kantonalen Gesamtarbeitsvertrages (GAV) vom 25. Oktober 2004 zu richten.
 3 Der Regierungsrat erteilt jeder auf der Spitalliste aufgeführten Einrichtung einen Leistungsauftrag. Der Leistungsauftrag kann befristet und mit Auflagen verbunden werden, insbesondere bezüglich Verwendung des Investitionsanteils.

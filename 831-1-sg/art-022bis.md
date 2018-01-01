@@ -1,0 +1,6 @@
+# § 22bis Aus- und Weiterbildung
+1 Wohnheime und Tagesstätten gemäss § 141, ambulante und teilstationäre Dienste gemäss § 142 und Pflegeheime gemäss § 144, die über eine Betriebsbewilligung gemäss § 21 verfügen, sind verpflichtet, sich angemessen an der Aus- und Weiterbildung der nicht-universitären Gesundheitsberufe zu beteiligen.
+2 Der Umfang der Aus- und Weiterbildungsverpflichtung wird unter Berücksichtigung der Grösse und des Angebots des Betriebes, der Kosten der Aus- und Weiterbildungen sowie im Verhältnis zum Bedarf festgelegt.
+3 Gesundheitlich eingeschränkten Personen sind nach Möglichkeit zweckmässige Aus- und Weiterbildungsplätze anzubieten. Wohnheime und Tagesstätten, ambulante und teilstationäre Dienste und Pflegeheime streben diesbezüglich eine enge Zusammenarbeit mit den zuständigen IV-Stellen an.
+4 Von der Aus- und Weiterbildungsverpflichtung ausgenommen sind Betriebe, die aufgrund ihrer Grösse nicht in der Lage sind, Ausbildungsplätze anzubieten und die sich keinem Ausbildungsverbund anschliessen können.
+5 Der Regierungsrat regelt die Einzelheiten in einer Verordnung und kann in dieser Richtlinien von Fachorganisationen oder Branchenverbänden für verbindlich erklären.
