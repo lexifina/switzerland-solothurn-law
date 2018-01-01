@@ -1,2 +1,2 @@
-# § 31bis Lehrplan für den Berufsmaturitätsunterricht
-1 Das Departement erlässt den Lehrplan. Der Inhalt richtet sich nach dem Rahmenlehrplan des Bundes.
+# § 31bis Lehrpläne
+1 Das Departement erlässt die Lehrpläne für den allgemeinbildenden Unterricht, für den Sport und für den Berufsmaturitätsunterricht. Die Inhalte richten sich nach den entsprechenden Rahmenlehrplänen des Bundes.
