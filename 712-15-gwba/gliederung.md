@@ -5,10 +5,10 @@
 ### 1.4. Grundlagenbeschaffung
 ## 2. Wasserbau
 ### 2.1. Allgemeines
-### 2.2. Planungs- und baurechtliche Vorgaben
-#### 2.2.1. Uferschutzzonen
-#### 2.2.2. Bauverbot und andere Nutzungsbeschränkungen
-#### 2.2.3. Zuständigkeit und Verfahren
+### 2.2. Uferschutz und Gewässerraum
+#### 2.2.1. …
+#### 2.2.2. …
+#### 2.2.3. …
 ### 2.3. Gewässerunterhalt und wasserbauliche Massnahmen
 #### 2.3.1. Allgemeines
 #### 2.3.2. Zuständigkeit und Sicherstellung des Vollzuges
@@ -38,11 +38,12 @@
 #### 5.6.1. Anschlusspflicht
 #### 5.6.2. Finanzielle Pflichten
 ### 5.7. Finanzierung
-## 6. Abwasserfonds
-## 7. Boden, belastete Standorte und Altlastenfonds
+## 6. …
+## 7. Boden und belastete Standorte
 ### 7.1. Allgemeines
 ### 7.2. Boden und belastete Standorte
-### 7.3. Altlastenfonds
+## 7.bis Abgaben auf Abfälle
+### 7.3. …
 ## 8. Abfallwirtschaft
 ### 8.1. Allgemeines
 ### 8.2. Organisation
@@ -52,6 +53,7 @@
 ### 9.1. Bestimmungen zum Vollzug im Allgemeinen
 ### 9.2. Finanzielle Bestimmungen
 ### 9.3. Rechtsschutz- und Strafbestimmungen
-## 10. Übergangs- und Schlussbestimmungen
-### 10.1. Übergangsbestimmungen
-### 10.2. Schlussbestimmungen
+## 10. Übergangsbestimmungen
+### 10.1. Übergangsbestimmungen des Beschlusses vom 4. März 2009
+### 10.2. …
+### 10.3 Übergangsbestimmungen der Revision vom 5. September 2017
