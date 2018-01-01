@@ -8,7 +8,9 @@
 ### 1.7. Schadenermittlung
 ### 1.8. Schadenvergütung
 ### 1.9. Leistungen zur Schadenverhütung
-## 2. Brandverhütung
+## 2. Brandverhütung und Feuerungsanlagen
+### 2.1. Brandverhütung
+### 2.2. Feuerungsanlagen
 ## 3. Feuerwehrwesen
 ## 4. Elementarschadenhilfe
 ## 5. Strafbestimmungen
