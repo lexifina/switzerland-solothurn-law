@@ -1,6 +1,6 @@
 ## 1. Geltungsbereich
-## 2. Aufsichtsbehörde
+## 2. …
 ## 3. Stiftungsaufsicht im allgemeinen
-## 4. Besondere Bestimmungen für Personalfürsorgestiftungen und für Vorsorgeeinrichtungen
+## 4. …
 ## 5. Rechtspflege
-## 6. Schlussbestimmung
+## 6. Schluss- und Übergangsbestimmungen
