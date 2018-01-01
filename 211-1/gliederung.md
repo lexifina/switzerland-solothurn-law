@@ -15,6 +15,7 @@
 #### 2.2.1. Erster Abschnitt: Allgemeine Bestimmungen
 #### 2.2.2. Zweiter Abschnitt: Die Vereine
 #### 2.2.3. …
+##### 2.2.3 Dritter Abschnitt: Stiftungen
 ## 3. Zweiter Teil: Das Familienrecht
 ### 3.1. Erste Abteilung: Das Eherecht
 #### 3.1.1. Dritter Titel: Die Eheschliessung
@@ -131,4 +132,5 @@
 #### 7.1.5. Zur Revision vom 10. Mai 2000
 #### 7.1.6. Zur Revision vom 10. Dezember 2008
 #### 7.1.7 Zur Revision vom 24. August 2011
+#### 7.1.8 Zur Revision vom 20. Dezember 2017
 ### 7.2. Zweite Abteilung: Schlussbestimmungen

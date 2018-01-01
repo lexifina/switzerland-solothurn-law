@@ -1,0 +1,3 @@
+# § 51bis Öffentlich-rechtliche Stiftungen
+1 Die Artikel 83-86, 86b, 88 Absatz 1 Ziffer 1 und 89bis ZGB sowie die §§ 49bis ff. dieses Gesetzes gelten sinngemäss auch für die öffentlich-rechtlichen Stiftungen des kantonalen und kommunalen Rechts.
+2 Zur Änderung des Zweckes (Art. 86 Abs. 1 ZGB), zur Änderung der Organisation (Art. 85 ZGB) oder zur Aufhebung einer öffentlich-rechtlichen Stiftung des kantonalen und kommunalen Rechts (Art. 88 Abs. 1 Ziff. 1 ZGB) ist jene Behörde zuständig, welche die Stiftung errichtet hat. Ist der Zweck einer solchen Stiftung widerrechtlich oder unsittlich geworden (Art. 88 Abs. 1 Ziff. 2 ZGB), so hebt der Regierungsrat die Stiftung auf.
