@@ -1,2 +1,0 @@
-# § 4bis Temporäre Massnahmen bei ausserordentlich hoher Luftbelastung
-1 Zuständige Behörde für den Erlass kurzfristiger Massnahmen aufgrund interkantonaler Notfallkonzepte im Sinne von Artikel 11 Absatz 3 USG ist der Regierungsrat.

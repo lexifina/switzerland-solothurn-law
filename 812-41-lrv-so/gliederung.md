@@ -1,4 +1,3 @@
 ## 1. Allgemeine Bestimmungen
-## 2. Emissionen
-## 3. Immissionen
-## 4. Schlussbestimmungen
+## 2. Vollzug
+## 3. Kleine Feuerungsanlagen
