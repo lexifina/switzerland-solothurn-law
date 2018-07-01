@@ -3,7 +3,7 @@
 ### 2.1. Begründung des Dienstverhältnisses
 ### 2.2. Freistellung und Beendigung des Dienstverhältnisses
 ### 2.3. Inhalt des Dienstverhältnisses
-#### 2.3.1. Pflichten
+#### 2.3.1. Pflichten und Umgestaltung des Anstellungsverhältnisses
 #### 2.3.2. Rechte
 #### 2.3.3. Sozialpartnerschaft
 ### 2.4. Rechtsschutz
