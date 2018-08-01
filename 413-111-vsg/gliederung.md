@@ -1,12 +1,14 @@
 ## 1. Allgemeine Bestimmungen
 ## 2. Schüler
-## 3. Schularten
+## 3. Schulangebote
 ### 3.1. Regelschule
 #### 3.1.1. Kindergarten und Primarschule
 #### 3.1.2. Sekundarschule
 #### 3.1.3. Spezielle Förderung
-### 3.2. Sonderpädagogik
-#### 3.2.1. Sonderschulen und Schulheime
+### 3.2. Kantonale Spezialangebote (SpezA)
+#### 3.2.1. Allgemeines
+#### 3.2.1.bis Zeitlich befristete Spezialangebote
+#### 3.2.1.ter Sonderschulische Angebote
 #### 3.2.2. Pädagogisch-therapeutische Angebote
 ## 4. Schulträger und Finanzierung
 ### 4.1. Schulträger

@@ -1,4 +1,4 @@
-# § 37quater Integration
+# § 37quater Integrative sonderpädagogische Massnahmen (ISM)
 1 Schüler, deren schulische Ausbildung wegen Behinderungen erschwert ist, haben Anrecht darauf, dass eine integrative Schulung in einer Regelschulklasse geprüft wird.
 2 Die schulische Integration wird mit besonderen Massnahmen ermöglicht, namentlich mit:
 a) fachlicher Beratung;
