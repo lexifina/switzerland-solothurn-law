@@ -2,7 +2,7 @@
 ### 1.1. Öffentliche Gewässer
 ### 1.2. Vollzugsharmonisierung
 ## 2. Wasserbau
-### 2.1. Naturnahe Nutzung der Gewässerufer
+### 2.1. …
 ### 2.2. Gewässerunterhalt und wasserbauliche Massnahmen
 ## 3. Gewässernutzung
 ### 3.1. Begriffsbestimmungen
