@@ -8,4 +8,5 @@
 ### 5.3. Kreditwesen
 ### 5.4. Internes Kontrollsystem
 ### 5.5. Vermögensverwaltung und Zahlungsverkehr
+### 5.5bis. Staatsbeiträge
 ## 6. Übergangs- und Schlussbestimmungen
