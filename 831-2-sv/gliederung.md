@@ -25,5 +25,6 @@
 ### 4.3. Private Arbeitsvermittlung und Personalverleih
 ### 4.4. Opferhilfe
 ### 4.5. Menschen mit einer Behinderung
+### 4.6. Pflege
 ## 5. Sozialhilfe
 ## 6. Schlussbestimmungen
