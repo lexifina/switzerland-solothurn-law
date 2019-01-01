@@ -1,2 +1,2 @@
-Inkrafttreten am 1. Januar 2018.
-Publiziert im Amtsblatt vom 17. November 2017.
+Inkrafttreten am 1. Januar 2019.
+Publiziert im Amtsblatt vom 16. November 2018.
