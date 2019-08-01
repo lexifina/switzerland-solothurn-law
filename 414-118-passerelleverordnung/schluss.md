@@ -1,3 +1,3 @@
-Beschluss Departement für Bildung und Kultur vom 20. Oktober 2014.
-Inkrafttreten am 1. Januar 2015.
-Publiziert im Amtsblatt vom 31. Oktober 2014.
+RRB Nr. 2018/1635 vom 22. Oktober 2018.
+Die Einspruchsfrist ist am 21. Dezember 2018 unbenutzt abgelaufen.
+Publiziert im Amtsblatt vom 11. Januar 2019.
