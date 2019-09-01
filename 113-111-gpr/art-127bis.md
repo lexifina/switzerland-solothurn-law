@@ -1,0 +1,2 @@
+# § 127bis III. Nachrücken und Nachnomination von kommunalen Ersatzmitgliedern
+1 Wird während der Amtsperiode ein nach dem Proporzwahlverfahren bestellter Sitz eines Ersatzmitgliedes frei, welches amtet, wenn die ordentlichen Mitglieder verhindert sind oder Ausstandsgründe vorliegen, werden auf Antrag der betreffenden Liste oder der Gemeinde § 126 Absätze 1 und 3 und § 127 Absätze 1-3 und 5 sinngemäss angewendet.
