@@ -1,5 +1,5 @@
-# § 36sexies Alkohol-Testkäufe
-1 Die Kantonspolizei kann zur Überprüfung der Einhaltung der altersabhängigen Abgabebeschränkungen Testkäufe anordnen oder durchführen.
+# § 36sexies Alkohol- und Tabak-Testkäufe
+1 Das Departement des Innern kann zur Überprüfung der Einhaltung der altersabhängigen Abgabebeschränkungen Testkäufe anordnen oder durchführen.
 2 Die Ergebnisse von Testkäufen können in Straf- und Verwaltungsverfahren verwendet werden, wenn die folgenden Voraussetzungen erfüllt sind:
 a) die beigezogenen Jugendlichen und die Inhaber ihrer elterlichen Sorge der Teilnahme an den Testkäufen schriftlich zugestimmt haben;
 b) die Testkäufe von der Polizei oder von anerkannten Fachorganisationen durchgeführt werden;

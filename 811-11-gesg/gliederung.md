@@ -1,18 +1,19 @@
-## 1. Allgemeines
-## 2. Organisation und Zuständigkeit
+## 1. Allgemeine Bestimmungen
+## 2. Organisation und Zuständigkeiten
 ### 2.1. Kantonale Gesundheitsbehörden
-### 2.2. Gesundheitsbehörden der Einwohnergemeinden
-## 3. Förderung der Gesundheit und Verhütung von Krankheiten und Unfällen
-## 3bis Versorgungssicherheit
-## 4. Heilpersonen
-### 4.1. Gemeinsame Bestimmungen
-### 4.2. Medizinalpersonen
-### 4.3. Psychotherapeuten und Psychotherapeutinnen
-### 4.4. Heilpraktiker und Heilpraktikerinnen, Homöopathen und Homöopathinnen
-### 4.5. Andere Berufe der Gesundheitspflege
-## 5. Patientenrechte
-## 6. Spitäler, Laboratorien und Ausbildungsstätten für Berufe der Gesundheitspflege
-### 6.1. Spitäler
-### 6.2. Ausbildungsstätten für Gesundheitsberufe, Laboratorien und andere Einrichtungen der Gesundheitspflege
-## 7. Massnahmen gegen übertragbare Krankheiten
-## 8. Straf- und Schlussbestimmungen
+### 2.2. Kommunale Gesundheitsbehörden
+## 3. Berufe des Gesundheitswesens
+### 3.1. Allgemeine Bestimmungen
+### 3.2. Rechte und Pflichten bei der Berufsausübung
+## 4. Einrichtungen des Gesundheitswesens
+## 5. Rechte und Pflichten der Patienten und Patientinnen
+### 5.1. Allgemeine Bestimmungen
+### 5.2. Zustimmung des Patienten oder der Patientin
+### 5.3. Zwangsmassnahmen und weitere Einschränkungen der Rechte der Patienten und Patientinnen
+## 6. Versorgungssicherheit
+## 7. Gesundheitsförderung und Prävention
+## 8. Bekämpfung übertragbarer Krankheiten des Menschen
+## 9. Heil- und Betäubungsmittel
+## 10. Aufsicht und Verwaltungs- sowie Disziplinarmassnahmen
+## 11. Strafbestimmungen
+## 12. Übergangs- und Schlussbestimmungen
