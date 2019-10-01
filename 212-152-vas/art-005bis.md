@@ -1,5 +1,5 @@
 # § 5bis Verzeichnisse
 1 Die Aufsichtsbehörde führt ein Verzeichnis über alle beaufsichtigten klassischen und öffentlich-rechtlichen Stiftungen nach § 1 Absatz 1 Buchstaben a und abis. Das Verzeichnis enthält Name, Sitz und Zweck der Stiftungen sowie das Datum der Errichtung der Stiftung und der Aufsichtsübernahme.
 2 …
-3 Das Verzeichnis nach Absatz 1 ist öffentlich und wird im Internet publiziert. Eine Stiftung kann schriftlich beantragen, dass die im Verzeichnis nach Absatz 1 erfassten Daten der betreffenden Stiftung nicht an Dritte bekannt gegeben werden.
+3 Das Verzeichnis nach Absatz 1 ist öffentlich und wird im Internet publiziert.
 4 …
