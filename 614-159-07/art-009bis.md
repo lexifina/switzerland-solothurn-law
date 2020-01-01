@@ -6,7 +6,8 @@ b) das Amt für soziale Sicherheit und die Oberämter für die Abklärung der wi
 2. der Inanspruchnahme der Verwandtenunterstützungspflicht,
 3. der Ausrichtung und Rückforderung von Genugtuung und Entschädigung nach Opferhilfegesetz,
 4. der Ausrichtung und dem Inkasso von Alimentenbevorschussungen,
-5. der Bewirtschaftung von Verlustscheinen in Zusammenhang mit diesen Aufgaben;
+5. der Ausrichtung und Rückerstattung von Ergänzungsleistungen an einkommensschwache Familien,
+6. der Bewirtschaftung von Verlustscheinen in Zusammenhang mit diesen Aufgaben;
 c) die Ausgleichskasse des Kantons Solothurn zur Abklärung der wirtschaftlichen Verhältnisse im Zusammenhang mit
 1. dem Vollzug der Prämienverbilligung in der obligatorischen Krankenpflegeversicherung,
 2. der Ermittlung der Sozialversicherungsbeiträge von selbstständig erwerbstätigen und nicht erwerbstätigen Personen,
