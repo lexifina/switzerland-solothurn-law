@@ -1,0 +1,7 @@
+# § 91ter b) Besteuerung
+1 Der Reingewinn aus Patenten und vergleichbaren Rechten wird auf Antrag im Verhältnis des qualifizierenden Forschungs- und Entwicklungsaufwands zum gesamten Forschungs- und Entwicklungsaufwand pro Patent oder vergleichbares Recht (Nexusquotient) mit 10% in die Berechnung des steuerbaren Reingewinns einbezogen.
+2 Der Reingewinn aus Patenten und vergleichbaren Rechten, die in Produkten enthalten sind, ermittelt sich, indem der Reingewinn aus diesen Produkten jeweils um 6% der diesen Produkten zugewiesenen Kosten sowie um das Markenentgelt vermindert wird.
+3 Wird der Reingewinn aus Patenten und vergleichbaren Rechten erstmals ermässigt besteuert, so werden der in vergangenen Steuerperioden bereits berücksichtigte Forschungs- und Entwicklungsaufwand sowie ein allfälliger Abzug nach § 92ter zum steuerbaren Reingewinn hinzugerechnet.
+4 Der hinzugerechnete Betrag ist zu aktivieren und im gleichen Umfang ist eine versteuerte stille Reserve zu bilden. Er ist nach den ordentlichen Abschreibungssätzen oder über die Nutzungsdauer der Patente oder vergleichbarer Rechte abzuschreiben.
+5 In Härtefällen kann auf Antrag die Hinzurechnung gemäss Absatz 3 auf die ersten fünf Jahre seit der erstmaligen ermässigten Besteuerung verteilt werden.
+6 Die weiterführenden Bestimmungen des Bundesrates gemäss Art. 24b Absatz 4 des Bundesgesetzes über die Harmonisierung der direkten Steuern der Kantone und Gemeinden sind anwendbar.

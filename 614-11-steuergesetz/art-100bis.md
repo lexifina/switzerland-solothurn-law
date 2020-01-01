@@ -1,3 +1,1 @@
-# § 100bis 4bis. Nachbesteuerung von stillen Reserven
-1 Werden stille Reserven auf Beteiligungen, deren Besteuerung bei einer Umstrukturierung oder einer Vermögensübertragung gemäss § 94 Absatz 5 aufgeschoben worden ist, innert 10 Jahren realisiert, werden die dabei erzielten Gewinne zum Satz von 7% besteuert.
-2 Steuerbar sind jedoch höchstens die bei der Überführung auf eine nach den §§ 99 oder 100 besteuerte juristische Person vorhandenen stillen Reserven. Bei Beteiligungen nach § 98 Absatz 5 unterliegt nur die Differenz zwischen den Gestehungskosten und dem tieferen Gewinnsteuerwert der Steuer.
+# § 100bis …

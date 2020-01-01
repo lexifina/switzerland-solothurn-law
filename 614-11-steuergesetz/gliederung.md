@@ -43,3 +43,4 @@
 ## 8. Übergangs- und Schlussbestimmungen zur Teilrevision 2004
 ## 9. Übergangs- und Schlussbestimmungen zur Teilrevision 2006
 ## 10. Übergangsbestimmungen zur Teilrevision 2016
+## 11. Übergangsbestimmungen zur Teilrevision 2020

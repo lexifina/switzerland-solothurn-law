@@ -18,3 +18,8 @@
 ## 6. Übergangs- und Schlussbestimmungen
 ### 6.1. Vollzug
 ### 6.2. Übergangsbestimmungen
+### 6.3. Übergangsbestimmungen zur Teilrevision vom 9. Februar 2020
+#### 6.3.1. Befristeter arbeitsmarktlicher Lastenausgleich
+#### 6.3.2. Befristeter Härtefallausgleich aufgrund der STAF 2020
+#### 6.3.3. Finanzierung der Ausgleichsmassnahmen aufgrund der STAF 2020
+#### 6.3.4. Werte für das erste Vollzugsjahr und Berechnungen
