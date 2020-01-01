@@ -18,3 +18,6 @@
 ## 5. Übergangs- und Schlussbestimmungen
 ### 5.1. Härtefallausgleich
 ### 5.2. Hängige Verfahren Investitionsbeitragswesen
+### 5.3. Übergangsbestimmungen zur Teilrevision vom 21. Januar 2020
+#### 5.3.1. Befristeter arbeitsmarktlicher Lastenausgleich
+#### 5.3.2. Befristeter Härtefallausgleich aufgrund der STAF 2020
