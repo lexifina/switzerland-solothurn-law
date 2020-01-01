@@ -1,4 +1,4 @@
 ## 1. Jährliche Steuerungsgrössen
-## 2. Steuerungsgrössen zu den Übergangsbestimmungen
-## 3. Steuerungsgrössen für die Jahre 2016 - 2019
+## 2. …
+## 3. Steuerungsgrössen für die Jahre 2020 - 2023
 ## 4. Vollzug
