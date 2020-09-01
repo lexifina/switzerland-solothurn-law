@@ -3,5 +3,5 @@
 ## 3. Berufsfeld Pädagogik
 ## 4. Kosten
 ## 5. Rechtspflege
-## 5bis. Spezialbestimmung zur Fachmaturität 2020
+## 5bis. …
 ## 6. Schlussbestimmung
