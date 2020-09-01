@@ -1,7 +1,1 @@
-# § 25bis Berufsmaturitätsprüfungen
-1 Im Schuljahr 2019/2020 finden keine Abschlussprüfungen statt.
-2 Für die Berechnung der Noten, das Erteilen des Berufsmaturitätszeugnisses sowie für die Möglichkeit, eine Prüfung zu absolvieren, gelten die Artikel 1 - 8 der Verordnung vom 29. April 2020 über die Durchführung der kantonalen Prüfungen 2020 der eidgenössischen Berufsmaturität und die Promotion angesichts der Pandemie des Coronavirus (COVID-19-Verordnung kantonale Berufsmaturitätsprüfungen).
-3 Für die Berechnung einer Semesterzeugnisnote müssen mindestens zwei Noten vorliegen. Noten aus dem Fernunterricht werden für die Berechnung der Semesterzeugnisnote im zweiten Semester 2019/2020 berücksichtigt. Falls die Semesternote des zweiten Semesters mit den Noten aus dem Fernunterricht schlechter ist als die Note des ersten Semesters oder falls keine Note für das zweite Semester gesetzt werden kann, wird diejenige des ersten Semesters für das zweite Semester übernommen.
-4 Die Prüfungen für Schüler und Schülerinnen sowie für Repetierende, denen auf Grund der Noten oder infolge fehlender Erfahrungsnoten gemäss den Artikeln 3 - 7 der COVID-19-Verordnung kantonale Berufsmaturitätsprüfungen das Berufsmaturitätszeugnis nicht erteilt werden kann, finden bis spätestens 14. August 2020 statt. Dabei gilt als Fehlversuch, wenn ein Kandidat oder eine Kandidatin
-1. die Prüfung nicht besteht;
-2. die Prüfung nicht absolviert.
+# § 25bis …
