@@ -116,7 +116,7 @@
 #### 6.2.8. Achter Abschnitt: Der Frachtvertrag (Sechzehnter Titel des OR)
 #### 6.2.9. Neunter Abschnitt: Der Hinterlegungsvertrag (Neunzehnter Titel des OR)
 #### 6.2.10. Zehnter Abschnitt: Die Bürgschaft (Zwanzigster Titel des OR)
-#### 6.2.11. Elfter Abschnitt: Spiel und Wette (Einundzwanzigster Titel des OR)
+#### 6.2.11. …
 #### 6.2.12. Zwölfter Abschnitt: Der Leibrentenvertrag und die Verpfründung (Zweiundzwanzigster Titel des OR)
 ### 6.3. Dritte Abteilung: Die Handelsgesellschaften und die Genossenschaft (Vierundzwanzigster bis neunundzwanzigster Titel des OR)
 ### 6.4. Vierte Abteilung: Handelsregister, Geschäftsfirmen und kaufmännische Buchführung (Dreissigster Titel des OR)
