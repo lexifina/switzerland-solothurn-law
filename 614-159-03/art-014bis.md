@@ -1,3 +1,1 @@
-# § 14bis 3bis. Ausserkantonale Steuerpflichtige und Steuerschuldner; §§ 153 Abs. 2 und 158 StG
-1 Das Kantonale Steueramt kann dem Schuldner oder der Schuldnerin der steuerbaren Leistung im Einvernehmen mit dem nach § 153 Absatz 2 StG berechtigten Kanton gestatten, für Personen, die in einem anderen Kanton steuerpflichtig sind, die Steuer nach den Bestimmungen des berechtigten Kantons zu erheben und direkt mit diesem abzurechnen.
-2 Ausserkantonale Schuldner oder Schuldnerinnen der steuerbaren Leistung können im Einvernehmen mit den Steuerbehörden ihres Kantons für Personen, die im Kanton Solothurn steuerpflichtig sind, die Steuer nach solothurnischem Recht erheben und direkt an das Kantonale Steueramt überweisen.
+# § 14bis …
