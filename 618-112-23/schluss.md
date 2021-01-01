@@ -1,2 +1,2 @@
-Inkrafttreten am 1. Januar 2020.
-Publiziert im Amtsblatt vom 20. Dezember 2019.
+Inkrafttreten am 1. Januar 2021.
+Publiziert im Amtsblatt vom 18. Dezember 2020.
