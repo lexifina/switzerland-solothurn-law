@@ -1,4 +1,5 @@
 # § 114quater 2. Ausgestaltung
-1 Bei der Festsetzung der Steuertarife werden Pauschalen für Berufskosten (§ 33) und Versicherungsprämien (§ 41 Abs. 1 Buchst. g und h sowie Abs. 2) sowie Abzüge für Familienlasten (§§ 43 und 44) berücksichtigt.
-2 Der Steuerabzug für in rechtlich und tatsächlich ungetrennter Ehe lebende Ehegatten, die beide erwerbstätig sind, richtet sich nach Tarifen, die ihrem Gesamteinkommen (§ 14 Abs. 1) Rechnung tragen und die Pauschalen und Abzüge nach Absatz 1 berücksichtigen.
-3 Für Einkünfte aus Nebenerwerb und für Ersatzeinkünfte, die ein Versicherer nicht nach Massgabe des versicherten Verdienstes oder die er neben einem Erwerbseinkommen ausrichtet, beträgt die Steuer 9%.
+1 Bei der Festsetzung des Quellensteuerabzugs werden Pauschalen für Berufskosten (§ 33) und Versicherungsprämien (§ 41 Abs. 1 Bst. g und h sowie Abs. 2) sowie Abzüge für Familienlasten (§§ 43 und 44) berücksichtigt.
+2 Der Quellensteuerabzug für die in rechtlich und tatsächlich ungetrennter Ehe lebenden Ehegatten, die beide erwerbstätig sind, trägt ihrem Gesamteinkommen (§ 14 Abs. 1) Rechnung und berücksichtigt die Pauschalen und Abzüge nach Absatz 1 sowie den Abzug bei Erwerbstätigkeit beider Ehegatten (§ 41 Abs. 1 Bst. c).
+2bis Die Pauschalen nach Absätzen 1 und 2 werden veröffentlicht.
+3 Die Berücksichtigung des 13. Monatslohns, von Grafitikationen, unregelmässiger Beschäftigung, Stundenlöhnern, Teilzeit- oder Nebenerwerb, Leistungen nach Artikel 18 Absatz 3 AHVG und satzbestimmenden Elementen erfolgt nach den Vorgaben der Eidgenössischen Steuerverwaltung (ESTV). Dies gilt ebenfalls für das Verfahren bei Tarifwechseln, rückwirkenden Gehaltsanpassungen und -korrekturen sowie Leistungen vor Beginn und nach Beendigung der Anstellung.

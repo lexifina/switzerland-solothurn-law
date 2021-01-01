@@ -1,6 +1,7 @@
 # § 114bis II. Steuerbare Leistungen
 1 Die Quellensteuer wird von den Bruttoeinkünften berechnet.
 2 Steuerbar sind
-a) alle Einkünfte aus Arbeitsverhältnis, mit Einschluss der Nebeneinkünfte wie Entschädigungen für Sonderleistungen, Provisionen, Kinder- und andere Zulagen, Dienstalters- und Jubiläumsgeschenke, Gratifikationen, Trinkgelder, Tantiemen, geldwerte Vorteile aus Mitarbeiterbeteiligungen und andere geldwerte Vorteile;
-b) alle an die Stelle des Erwerbseinkommens tretenden Ersatzeinkünfte aus Arbeitsverhältnis sowie aus Kranken-, Unfall-, Invaliden- und Arbeitslosenversicherungen. Insbesondere gehören dazu Taggelder, Entschädigungen, Teilrenten und an deren Stelle tretende Kapitalleistungen.
+a) die Einkommen aus unselbständiger Erwerbstätigkeit nach § 114 Absatz 1, die Nebeneinkünfte wie geldwerte Vorteile aus Mitarbeiterbeteiligungen sowie Naturalleistungen, nicht jedoch die vom Arbeitgeber getragenen Kosten der berufsorientierten Aus- und Weiterbildung nach § 22 Absatz 1bis;
+b) die Ersatzeinkünfte; und
+c) die Leistungen nach Artikel 18 Absatz 3 des Bundesgesetzes über die Alters- und Hinterlassenenversicherung (AHVG) vom 20. Dezember 1946.
 3 Naturalleistungen und Trinkgelder werden in der Regel nach den für die eidgenössische Alters- und Hinterlassenenversicherung geltenden Ansätzen bewertet.

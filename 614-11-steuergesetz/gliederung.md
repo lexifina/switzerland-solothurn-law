@@ -16,7 +16,7 @@
 #### 2.3.5. Zeitliche Bemessung
 ### 2.4. Quellensteuer
 #### 2.4.1. Natürliche Personen mit steuerrechtlichem Wohnsitz oder Aufenthalt im Kanton
-#### 2.4.2. Natürliche und juristische Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz
+#### 2.4.2. Natürliche Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz sowie juristische Personen ohne Sitz oder tatsächliche Verwaltung in der Schweiz
 ### 2.5. Behörden und Verfahren
 #### 2.5.1. Steuerbehörden
 #### 2.5.2. Allgemeine Verfahrensgrundsätze

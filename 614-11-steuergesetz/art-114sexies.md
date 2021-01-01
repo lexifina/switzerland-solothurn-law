@@ -1,5 +1,6 @@
-# § 114sexies V. Vorbehalt der ordentlichen Veranlagung
-1 Die der Quellensteuer unterliegenden Personen werden für ihr Einkommen, das dem Steuerbezug an der Quelle nicht unterworfen ist, sowie für ihr Vermögen im ordentlichen Verfahren veranlagt. Für den Steuersatz gilt § 12 sinngemäss.
-2 Übersteigen die dem Steuerabzug an der Quelle unterworfenen Bruttoeinkünfte des Steuerpflichtigen oder seines Ehegatten, der in rechtlich und tatsächlich ungetrennter Ehe lebt, in einem Kalenderjahr den vom Finanzdepartement festgelegten Betrag, wird eine nachträgliche Veranlagung für das gesamte Einkommen und Vermögen durchgeführt. Die an der Quelle abgezogene Steuer wird dabei zinslos angerechnet.
-3 Wenn die quellensteuerpflichtigen Einkünfte den vom Finanzdepartement festgesetzten Betrag in den folgenden Jahren nicht mehr erreichen, wird trotzdem bis zum Ende der Quellensteuerpflicht eine nachträgliche Veranlagung für das gesamte Einkommen und Vermögen durchgeführt.
-4 In Fällen, in denen ohnehin eine nachträgliche Veranlagung durchzuführen ist, kann auf die Erhebung der Quellensteuer verzichtet werden, wenn der Arbeitgeber hinreichende Sicherheit leistet.
+# § 114sexies V. Nachträgliche ordentliche Veranlagung auf Antrag
+1 Personen, die nach § 114 Absatz 1 der Quellensteuer unterliegen und keine der Voraussetzungen nach § 114quinquies erfüllen, werden auf Antrag hin nachträglich im ordentlichen Verfahren veranlagt.
+2 Der Antrag erstreckt sich auch auf den Ehegatten, der mit dem Antragsteller in rechtlich und tatsächlich ungetrennter Ehe lebt.
+3 Er muss bis am 31. März des auf das Steuerjahr folgenden Jahres eingereicht werden. Für Personen, die die Schweiz verlassen, endet die Frist für die Einreichung des Antrags im Zeitpunkt der Abmeldung.
+4 Erfolgt keine nachträgliche ordentliche Veranlagung auf Antrag, so tritt die Quellensteuer an die Stelle der im ordentlichen Verfahren zu veranlagenden Steuern des Bundes, des Kantons und der Einwohner- und Kirchgemeinden auf dem Erwerbseinkommen, inklusive Feuerwehrersatzabgabe. Nachträglich werden keine zusätzlichen Abzüge gewährt.
+5 § 114quinquies Absätze 4 und 5 sind anwendbar.

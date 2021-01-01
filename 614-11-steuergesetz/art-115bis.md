@@ -6,7 +6,9 @@ bei Tageseinkünften bis 200 Franken 8%
 bei Tageseinkünften von 201–1000 Franken 12%
 bei Tageseinkünften von 1001–3000 Franken 18%
 bei Tageseinkünften über 3000 Franken 25%
-3 Als Tageseinkünfte gelten die Bruttoeinkünfte einschliesslich aller Zulagen und Nebenbezüge nach Abzug der Gewinnungskosten.
+3 Als Tageseinkünfte gelten die Bruttoeinkünfte einschliesslich aller Zulagen und Nebenbezüge nach Abzug der Gewinnungskosten. Diese betragen:
+a) 50% der Bruttoeinkünfte bei Künstlern;
+b) 20% der Bruttoeinkünfte bei Sportlern sowie Referenten.
 4 Naturalleistungen werden in der Regel nach den für die eidgenössische Alters- und Hinterlassenenversicherung geltenden Ansätzen bewertet.
-5 Das Finanzdepartement kann für die abzugsfähigen Gewinnungskosten einen Pauschalabzug festlegen.
+5 …
 6 Der mit der Organisation der Darbietung im Kanton beauftragte Veranstalter haftet solidarisch für die Entrichtung der Steuer.
