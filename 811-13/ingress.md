@@ -1,5 +1,4 @@
-# Verordnung über die Amteiärzte und Amteiärztinnen
-Vom 21.06.2004
-Der Regierungsrat des Kantons Solothurn
-gestützt auf §§ 4 und 66 des Gesundheitsgesetzes vom 19. Dezember 2018 sowie Artikel 253 Absatz 4 der Schweizerischen Strafprozessordnung (Strafprozessordnung, StPO) vom 5. Oktober 2007
+# Verordnung über die Amteiärzte und Amteiärztinnen sowie die Infektionsärzte und Infektionsärztinnen
+Vom 27.10.2020
+gestützt auf § 13 Buchstabe a des Einführungsgesetzes zur Schweizerischen Strafprozessordnung und zur Schweizerischen Jugendstrafprozessordnung (EG StPO) vom 10. März 2010 und §§ 52 und 66 des Gesundheitsgesetzes (GesG) vom 19. Dezember 2018
 beschliesst:
