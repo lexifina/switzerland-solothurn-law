@@ -1,2 +1,2 @@
-# § 26bis Chemie- und Ölwehr
-1 An die Kosten für die Chemie- und Ölwehrausrüstung des Kantons und der Gemeinden werden Beiträge von 20% ausgerichtet.
+# § 26bis ABC-Wehren
+1 Die Kosten für die ABC-Wehren werden gemäss der Verordnung über den kantonalen Schadendienst vom 31. Oktober 2000geregelt.

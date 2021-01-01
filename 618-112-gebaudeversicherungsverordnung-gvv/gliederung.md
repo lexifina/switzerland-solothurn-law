@@ -17,7 +17,7 @@
 ### 5.4. Verbindliche technische Vorschriften
 ### 5.5. Elektrische Einrichtungen und Blitzschutz
 ### 5.6. Feuerschau
-### 5.7. Kaminfegerwesen
+### 5.7. …
 ## 6. Feuerwehrwesen
 ### 6.1. Aufsicht
 ### 6.2. Pflichten
