@@ -14,7 +14,7 @@
 #### 2.4.1. Bewilligungen
 #### 2.4.2. Ausübung der bewilligungspflichtigen Tätigkeiten
 #### 2.4.3. Behördliche Kontrolle und Prävention
-### 2.5. Lotterie und Geschicklichkeitsspiele
+### 2.5. Gross- und Kleinspiele
 ### 2.6. Vergabe von Konsumkrediten
 ## 3. Arbeit
 ### 3.1. Arbeit in Industrie, Gewerbe und Handel
