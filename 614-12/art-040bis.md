@@ -1,3 +1,3 @@
-# § 40bis Wechsel zwischen Quellensteuer und ordentlicher Veranlagung §§ 74 Abs. 3, 114 und 114sexies
-1 Wird eine Person, die bisher an der Quelle besteuert worden ist, neu im ordentlichen Verfahren veranlagt, gilt dieser Wechsel als Beginn der Steuerpflicht. Umgekehrt gilt als Ende der Steuerpflicht, wenn sie wieder an der Quelle besteuert wird.
-2 Absatz 1 ist nicht anwendbar auf Personen, die im Sinne von § 114sexies Absatz 1 und 2 des Gesetzes ordentlich veranlagt werden. Sie werden beim Wechsel von der Quellenbesteuerung zum ordentlichen Veranlagungsverfahren und umgekehrt für das ganze Jahr von der am Ende des Steuerjahres zuständigen Veranlagungsbehörde veranlagt.
+# § 40bis Wechsel zwischen Quellensteuer und ordentlicher Veranlagung §§ 74 Abs. 3, 114, 114quinquies Abs. 1 und 2 und 114sexies Abs. 1 und 2
+1 Wird eine Person, die bisher an der Quelle besteuert worden ist, neu im ordentlichen Verfahren veranlagt, wird sie für das ganze Jahr im ordentlichen Verfahren veranlagt. Wenn sie von der ordentlichen Veranlagung zur Quellenbesteuerung wechselt, wird sie für das gesamte Jahr und bis zum Ende der Quellensteuerpflicht nachträglich ordentlich veranlagt.
+2 …
