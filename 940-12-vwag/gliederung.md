@@ -11,11 +11,15 @@
 ### 2.4. Sexarbeit
 #### 2.4.1. Bewilligungen
 #### 2.4.2. Ausübung der bewilliungspflichtigen Tätigkeiten
+### 2.5. Kleinspiele
 ## 3. Wirtschaftsförderung
 ### 3.1. Allgemeine Wirtschaftsförderung
 #### 3.1.1. Förderungsmassnahmen
 #### 3.1.2. Voraussetzungen
 #### 3.1.3. Durchführung
+##### 3.1.3.1 Allgemeines
+##### 3.1.3.2. Transparenz
+##### 3.1.3.3 Finanzierung
 ## 4. Marktaufsicht
 ### 4.1. Messwesen
 ### 4.2. In die Schweiz entsandte Arbeitnehmerinnen und Arbeitnehmer
