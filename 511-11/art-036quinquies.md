@@ -1,6 +1,6 @@
 # § 36quinquies Verdeckte Vorermittlung
-1 Die Kantonspolizei kann zur Erkennung und Verhinderung von Verbrechen und Vergehen an allgemein zugänglichen Orten sowie in virtuellen Begegnungsräumen im Internet, die einem grösseren Benutzerkreis offen stehen, eine verdeckte Vorermittlung durchführen, wenn
-a) aufgrund konkreter Anhaltspunkte anzunehmen ist, dass es zu einer strafbaren Handlung nach Artikel 286 Absatz 2 StPO oder Artikel 260 des Schweizerischen Strafgesetzbuches (StGB) vom 21. Dezember 1937 kommen könnte und
+1 Die Kantonspolizei kann zur Erkennung und Verhinderung von Verbrechen und Vergehen eine verdeckte Vorermittlung durchführen, wenn
+a) aufgrund konkreter Anhaltspunkte anzunehmen ist, dass eine strafbare Handlung nach Artikel 286 Absatz 2 StPO oder Artikel 260 des Schweizerischen Strafgesetzbuches (StGB) vom 21. Dezember 1937 vor der Ausführung steht und
 b) die besondere Schwere oder Eigenart der Straftat die Massnahme rechtfertigt und
 c) mildere Massnahmen erfolglos geblieben sind, aussichtslos wären oder die Erkennung und Verhinderung der Straftat unverhältnismässig erschweren würden und
 d) der Haftrichter die Massnahme genehmigt.
