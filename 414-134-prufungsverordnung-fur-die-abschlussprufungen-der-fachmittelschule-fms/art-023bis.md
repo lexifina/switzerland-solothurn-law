@@ -1,0 +1,4 @@
+# § 23bis Übergangsbestimmung zur Änderung vom 27. April 2021
+1 Für Lehrgänge, welche in den Schuljahren 2019/2020 sowie 2020/2021 begonnen haben, gelten die Bestimmungen der Prüfungsverordnung für die Abschlussprüfungen der Fachmittelschule FMS vom 10. Mai 2004 in der Fassung vom 1. August 2009 (bisherige Bestimmungen).
+2 Schüler und Schülerinnen, welche den Lehrgang im Schuljahr 2019/2020 begonnen haben, die Prüfung am Ende des Schuljahres 2021/2022 nicht bestehen und repetieren, können die Prüfung ein Jahr später nach den bisherigen Bestimmungen wiederholen.
+3 Schüler und Schülerinnen, welche den Lehrgang im Schuljahr 2020/2021 begonnen haben und die Prüfung am Ende des Schuljahres 2022/2023 nicht bestehen, können die Prüfung ein Jahr später nach den bisherigen Bestimmungen wiederholen.
