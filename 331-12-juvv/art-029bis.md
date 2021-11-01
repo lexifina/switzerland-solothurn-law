@@ -1,2 +1,0 @@
-# § 29bis Übermittlung von Entscheiden betreffend Ausländer und Ausländerinnen
-1 Die Migrationsbehörde übermittelt den Justizvollzugsbehörden unaufgefordert die Entscheide, die im Zusammenhang mit dem Vollzug einer strafrechtlichen Landesverweisung gefällt werden, sowie die Entscheide betreffend Wegweisung von Ausländerinnen und Ausländern, sofern der Vollzug der Wegweisung mit dem Justizvollzug koordiniert werden muss.
