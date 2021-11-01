@@ -1,0 +1,4 @@
+# § 11bis Private Personen
+1 Das Amt kann für die Erfüllung einzelner Aufgaben, insbesondere in den Bereichen Gesundheit, Betreuung und Transport, private Personen beiziehen.
+2 Die beigezogenen privaten Personen haben über die erforderlichen fachlichen Fähigkeiten zu verfügen und in persönlicher Hinsicht Gewähr für eine einwandfreie Aufgabenerfüllung zu bieten. Das Amt kann sie einer Sicherheitsüberprüfung durch die Kantonspolizei unterziehen lassen.
+3 Das Amt schliesst mit den zur Erfüllung öffentlicher Aufgaben beigezogenen privaten Personen im Rahmen seiner Finanzkompetenzen Leistungsvereinbarungen ab und legt darin deren Befugnisse und Pflichten fest. Bei beigezogenen privaten Personen mit Sicherheitsaufgaben sind insbesondere deren Befugnisse zur Anwendung von unmittelbarem Zwang gemäss § 25bis zu bestimmen.
