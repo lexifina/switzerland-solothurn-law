@@ -13,6 +13,8 @@
 #### 1.3.5. Zusammenarbeit
 ### 1.4. Finanzierung durch Kanton und Einwohnergemeinden
 ## 2. Prävention
+## 2.1 Grundsätze
+### 2.2. Freiwilliges Engagement
 ## 3. Sozialversicherungen und Ergänzungshilfen
 ### 3.1. Sozialversicherungen nach Bundesrecht
 ### 3.2. Familienzulagen
@@ -30,8 +32,8 @@
 #### 3.5.2. Inkassohilfe
 ## 4. Unterstützung und Hilfe in Lebens- und Problemlagen
 ### 4.1. Familie, Kinder, Jugend und Alter
-#### 4.1.1. Familie und Kinder
-#### 4.1.2. Jugend
+#### 4.1.1. Familie, Kinder und Jugend
+#### 4.1.2. …
 #### 4.1.3. Alter
 ### 4.2. Integration der ausländischen Wohnbevölkerung
 ### 4.3. Wohnen und Miete
@@ -41,6 +43,7 @@
 ### 4.7. Menschen mit einer Behinderung
 ### 4.8. Pflege
 ### 4.9. Bestattung
+#### 4.10 Budget- und Schuldenberatung
 ## 5. Sozialhilfe
 ### 5.1. Grundsätze
 ### 5.2. Massnahmen und Leistungen
