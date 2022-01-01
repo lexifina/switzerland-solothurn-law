@@ -1,0 +1,4 @@
+# § 5bis Orientierung von Angehörigen und der gesetzlichen Vertretung
+1 Die Gefangenen haben das Recht, Angehörige, nahestehende Bekannte und gegebenenfalls ihre gesetzliche Vertretung über die Einweisung in die Vollzugseinrichtung zu orientieren oder durch die Verfahrensleitung orientieren zu lassen. Bei ausländischen Gefangenen erfolgt die Benachrichtigung des Konsulats nur auf deren ausdrückliches Begehren hin.
+2 Bei Verlegung in eine andere Vollzugseinrichtung stellt das Gefängnis subsidiär sicher, dass die bisher involvierten Angehörigen und nahestehenden Bekannten sowie die gesetzliche Vertretung angemessen informiert werden.
+3 Bei der Untersuchungs- und Sicherheitshaft richtet sich die Orientierung nach den Bestimmungen der Schweizerischen Strafprozessordnung (Strafprozessordnung, StPO) vom 5. Oktober 2007.
