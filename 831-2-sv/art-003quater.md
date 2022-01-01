@@ -4,4 +4,4 @@
 3 Die SOdAS und das Departement können zur Überprüfung der Angaben der Betriebe insbesondere folgende Daten unentgeltlich beziehen:
 a) von den stationären Pflegeeinrichtungen und den Spitexorganisationen die Stellenpläne inklusive Ausbildungsstellen bzw. -wochen und die anonymisierten Belege über Praktikumszuteilungen von Lernenden bzw. Studierenden ausserkantonaler Bildungsinstitutionen;
 b) vom Berufsbildungszentrum pro Betrieb die Anzahl Lernender der Sekundarstufe II und die Anzahl Studierender der Tertiärstufe;
-c) vom Amt für Soziale Sicherheit die Erhebung der KLV-Stunden und die Daten aus den Qualitätsreportings.
+c) vom Amt die Erhebung der KLV-Stunden und die Daten aus den Qualitätsreportings.
