@@ -1,4 +1,4 @@
 ## A. Allgemeines
 ## B. Organisation
-## C. Finanzen und Personal
+## C. Finanzen
 ## D. Schlussbestimmungen
