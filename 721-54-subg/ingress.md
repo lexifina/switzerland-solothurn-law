@@ -1,7 +1,7 @@
-# Gesetz über öffentliche Beschaffungen
-(Submissionsgesetz)
-Vom 22.09.1996
+# Submissionsgesetz
+(SubG)
+Vom 31.08.2021
 Der Kantonsrat von Solothurn
-gestützt auf Artikel 71 der Kantonsverfassung vom 8. Juni 1986, in Ausführung des GATT-Übereinkommens vom 15. April 1994 über das öffentliche Beschaffungswesen
-nach Kenntnisnahme von Botschaft und Entwurf des Regierungsrates vom 12. Februar 1996
+gestützt auf Artikel 63 Absatz 4 der Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen (IVöB) vom 15. November 2019
+nach Kenntnisnahme von Botschaft und Entwurf des Regierungsrates vom 8. Juni 2021 (RRB Nr. 2021/788)
 beschliesst:
