@@ -1,5 +1,5 @@
 ## 1. Allgemeines
-## 2. Absenzen, Dispensationen, Entschuldigungen
-## 3. Verhalten auf dem Schulareal sowie bei schulischen Veranstaltungen
+## 2. Absenzen, Entschuldigungen, Dispensationen
+## 3. Verhaltensregeln
 ## 4. Massnahmen
-## 5. Rechtspflege
+## 5. Verfahren und Rechtsmittel

@@ -1,3 +1,3 @@
-Genehmigt vom Departement für Bildung und Kultur mit Verfügung vom 7. September 2012.
-Inkrafttreten am 1. August 2012.
-Publiziert im Amtsblatt vom 14. September 2012.
+Vom Departement für Bildung und Kultur genehmigt am 1. Juli 2022.
+Inkrafttreten am 1. August 2022.
+Publiziert im Amtsblatt vom 8. Juli 2022.
