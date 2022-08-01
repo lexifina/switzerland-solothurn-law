@@ -8,7 +8,7 @@
 ### 2.2. Stimm- und Wahlrecht
 ### 2.3. Petitionsrecht
 ### 2.4. Volkswahlen und Abberufung
-### 2.5. Volksbegehren (Initiative und Volksmotion)
+### 2.5. Volksbegehren (Initiative und Volksauftrag)
 ### 2.6. Volksabstimmung (Referendum)
 ### 2.7. Mitwirkung bei der Meinungsbildung
 ### 2.8. Sicherung der Volksrechte
