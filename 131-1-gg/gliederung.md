@@ -40,14 +40,16 @@
 ## 9. Veränderungen im Gemeindebestand und im Gemeindegebiet
 ### 9.1. Gleichartige Gemeinden
 ### 9.2. Vereinigung der Bürgergemeinde mit der Einwohnergemeinde
-## 10. Beschwerderecht
-### 10.1. Gemeindeinternes Beschwerderecht
-### 10.2. Beschwerden an den Regierungsrat und an das Departement
+## 10. Rechtsschutz
+### 10.1. Gemeindeinterner Rechtsschutz
+### 10.2. Beschwerden an das Departement
 ### 10.3. Beschwerdeverfahren
+### 10.4. Spezialgesetzgebung
 ## 11. Staatsaufsicht
 ## 12. Schlussbestimmungen
 ### 12.1. Änderung und Aufhebung bisherigen Rechts
 ### 12.2. Übergangsbestimmung zur Teilrevision vom 28. Juni 2006
 ### 12.3. Übergangsbestimmungen zur Teilrevision vom 5. November 2014
+### 12.3.bis Übergangsbestimmungen zur Teilrevision vom 28. Juni 2022
 ### 12.4. Vollzug
 ### 12.5. Inkrafttreten
