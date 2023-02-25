@@ -1,5 +1,5 @@
-Genehmigung Kanton Solothurn mit KRB Nr. RG 0126/2021 vom 7. Juli 2021.
+Genehmigung Kanton Solothurn mit KRB Nr. RG 0097/2022 vom 8. November 2022.
 Dieser Beschluss unterliegt dem fakultativen Referendum.
-Die Referendumsfrist ist am 22. Oktober 2021 unbenutzt abgelaufen.
-Publiziert im Amtsblatt vom 29. Oktober 2021.
-Inkrafttreten gemäss Schreiben der IPK NWCH vom 21. September 2021 am 1. Januar 2022.
+Die Referendumsfrist ist am 24. Februar 2023 unbenutzt abgelaufen.
+Inkrafttreten am 25. Februar 2023.
+Publiziert im Amtsblatt vom 19. Mai 2023.
