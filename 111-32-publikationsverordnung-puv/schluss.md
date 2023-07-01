@@ -1,4 +1,3 @@
-RRB Nr. 2018/1128 vom 3. Juli 2018.
-Die Einspruchsfrist ist am 12. September 2018 unbenutzt abgelaufen.
-Inkrafttreten am 1. Oktober 2018.
-Publiziert im Amtsblatt vom 21. September 2018.
+RRB Nr. 2023/721 vom 2. Mai 2023.
+Die Einspruchsfrist ist am 3. Juli 2023 unbenutzt abgelaufen.
+Publiziert im Amtsblatt vom 7. Juli 2023.
