@@ -6,6 +6,7 @@
 ### 3.1. Allgemeine Bestimmungen
 ### 3.2. Rechte und Pflichten bei der Berufsausübung
 ## 4. Einrichtungen des Gesundheitswesens
+## 4bis Zulassung von Leistungserbringern im ambulanten Bereich
 ## 5. Rechte und Pflichten der Patienten und Patientinnen
 ### 5.1. Allgemeine Bestimmungen
 ### 5.2. Zustimmung des Patienten oder der Patientin
