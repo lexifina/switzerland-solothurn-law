@@ -1,43 +1,40 @@
-## 1. Allgemeine Bestimmungen
-## 2. Schüler
-## 3. Schulangebote
-### 3.1. Regelschule
-#### 3.1.1. Kindergarten und Primarschule
-#### 3.1.2. Sekundarschule
-#### 3.1.3. Spezielle Förderung
-### 3.2. Kantonale Spezialangebote (SpezA)
-#### 3.2.1. Allgemeines
-#### 3.2.1.bis Zeitlich befristete Spezialangebote
-#### 3.2.1.ter Sonderschulische Angebote
-#### 3.2.2. Pädagogisch-therapeutische Angebote
-## 4. Schulträger und Finanzierung
-### 4.1. Schulträger
-### 4.2. Finanzierung
-#### 4.2.1. Grundsätze der Kostentragung
-#### 4.2.2. Beiträge des Kantons und der kommunalen Schulträger
-#### 4.2.3. Finanzplanung, Auszahlung und Abrechnung
-## 5. Lehrer
-### 5.1. Voraussetzungen für die Ausübung des Lehrberufes
-### 5.2. Anstellungsverhältnisse der Lehrer und der Schulhilfen
-### 5.3. …
-### 5.4. Pflichten und Rechte
-## 6. Behörden und Rechtspflege
-### 6.1. Behörden der Einwohnergemeinden
-#### 6.1.1. Kommunale Aufsichtsbehörde
-#### 6.1.2. …
-#### 6.1.3. …
-#### 6.1.4. …
-#### 6.1.5. Schulleiter
-### 6.2. Behörden des Kantons
-#### 6.2.1. Regierungsrat
-#### 6.2.2. Departement für Bildung und Kultur
-#### 6.2.3. Volksschulamt
-### 6.3. Rechtspflege
-## 7. Übergangs- und Schlussbestimmungen
-### 7.1. Übergangsbestimmungen der Teilrevision vom 24. April 2005
-### 7.2. Übergangs- und Schlussbestimmungen der Teilrevision vom 26. November 2006
-### 7.3. Übergangs- und Schlussbestimmungen der Teilrevision vom 16. Mai 2007
-### 7.4. Übergangsbestimmung zur Teilrevision vom 10. März 2010
-### 7.5. Übergangsbestimmung zur Teilrevision vom 4. September 2012
-### 7.6. Übergangsbestimmung zur Teilrevision vom 27. Februar 2013
-### 7.7. Übergangsbestimmungen zur Teilrevision vom 30. November 2014
+## 1. Grundlagen
+## 2. Öffentliche Volksschulen
+### 2.1. Schulträger
+### 2.2. Volksschulangebot
+#### 2.2.1. Allgemeines
+#### 2.2.2. Kommunale Volksschulangebote (Regelschule)
+#### 2.2.3. Kantonale Volksschulangebote (kantonale Spezialangebote)
+##### 2.2.3.1. Art und Zweck der kantonalen Spezialangebote
+##### 2.2.3.2. Zeitlich befristete Spezialangebote
+##### 2.2.3.3. Sonderschulische Angebote
+#### 2.2.4. Freiwillige Angebote der Schulträger
+#### 2.2.5. Angebote ausserschulischer Institutionen
+#### 2.2.6. Recht auf Schulbesuch, Schulpflicht und Schulort
+### 2.3. Schuldienste
+### 2.4. Schulorganisation
+### 2.5. Schüler und Schülerinnen sowie Eltern bzw. Erziehungsberechtigte
+#### 2.5.1. Rechte und Pflichten
+#### 2.5.2. Absenzen und Dispensationen
+#### 2.5.3. Disziplinarwesen
+### 2.6. Lehrpersonen und übriges Schulpersonal
+#### 2.6.1. Ausübung pädagogischer Tätigkeiten
+#### 2.6.2. Meldepflichten
+#### 2.6.3. Personalrechtliche Bestimmungen
+### 2.7. Zuständigkeiten und Aufgaben der Behörden
+#### 2.7.1. Kommunale Behörden
+#### 2.7.2. Kantonale Behörden
+### 2.8. Finanzierung
+#### 2.8.1. Grundsätze der Kostentragung
+#### 2.8.2. Beiträge der Einwohnergemeinden
+#### 2.8.3. Beiträge des Kantons
+## 3. Privatschulen und Privatunterricht
+### 3.1. Privatschulen
+### 3.2. Privatunterricht
+### 3.3. Aufsicht und Staatsbeiträge
+## 4. Qualitätssicherung und Rechtsschutz
+### 4.1. Qualitätssicherung
+### 4.2. Rechtsschutz
+## 5. Übergangs- und Schlussbestimmungen
+### 5.1. Übergangsbestimmungen
+### 5.2. Schlussbestimmungen

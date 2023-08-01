@@ -1,4 +1,0 @@
-# § 36octies Klassen für Kinder aus Durchgangszentren (SpezA Sprache/Kultur)
-1 Bei Bedarf, insbesondere bei starker Zunahme von Flucht und Migration, kann der Kanton für die Phase der Unterbringung zusätzliche Klassen für Kinder aus Durchgangszentren (SpezA Sprache/Kultur) errichten.
-2 Der Aufenthalt dauert nicht länger als ein Jahr. In besonderen Fällen kann der Aufenthalt um höchstens ein weiteres Jahr verlängert werden.
-3 Bei Bedarf kann der Regierungsrat diese schulischen Angebote befristet mit spezialisierten unterstützenden Diensten wie interkulturelle Vermittlung, Behandlung von Traumata durch Schulpsychologie und Kinder- und Jugendpsychiatrie ausbauen.

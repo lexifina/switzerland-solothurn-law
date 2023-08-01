@@ -1,5 +1,0 @@
-# § 68bis Beiträge an die Tätigkeit von Organisationen des Bildungswesens
-1 Der Kanton kann die Tätigkeit von Organisationen, die im Bildungswesen tätig sind, in folgenden Bereichen mit Kantonsbeiträgen unterstützen:
-a) Beratung und Unterstützung von Schulleitungen und Lehrpersonen in schwierigen Schulsituationen;
-b) Erhaltung, Stärkung und Förderung der physischen und psychischen Gesundheit von Lehrpersonen;
-c) Organisation und Entwicklung innovativer Projekte.
