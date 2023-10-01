@@ -2,10 +2,10 @@
 ## 2. Arzneimittel und Betäubungsmittel
 ### 2.1. Arzneimittel
 ### 2.2. Betäubungsmittel
-### 2.3. Rezepte
-### 3. Detailhandelsgeschäfte
+### 2.3. Verschreibungen
+### 3. Abgabestellen
 ### 3.1. Allgemeine Bestimmungen
 ### 3.2. Öffentliche Apotheken und Drogerien
-### 3.3. Weitere Detailhandelsgeschäfte
+### 3.3. Weitere Abgabestellen
 ## 4. Blut und Blutprodukte
 ## 5. Übergangs- und Schlussbestimmungen
