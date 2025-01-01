@@ -1,0 +1,5 @@
+# § 148bis 4. Veranlagung mithilfe von algorithmischen Systemen
+1 Die Veranlagung kann auch mithilfe von algorithmischen Entscheid- und Unterstützungssystemen (algorithmische Systeme) erfolgen.
+2 Die eingesetzten algorithmischen Systeme können gestützt auf definierte Regeln und durch maschinelles Lernen die eingereichten Steuerunterlagen analysieren, mit anderen Steuerdaten vergleichen, daraus Muster erkennen und Berechnungen für die zu veranlagende Steuerperiode erstellen. Der Regierungsrat regelt den Funktionsumfang der algorithmischen Systeme in einer Verordnung.
+3 Die Steuerpflichtigen werden im Rahmen der Aufforderung zur Einreichung der Steuererklärung gemäss § 140 Absatz 1 über den möglichen Einsatz und die Funktionsweise der verwendeten algorithmischen Systeme informiert. Veranlagungsverfügungen, die mithilfe von algorithmischen Systemen erfolgen, werden entsprechend ausgewiesen.
+4 Das Steueramt stellt den Datenschutz und die Datensicherheit der eingesetzten algorithmischen Systeme durch angemessene technische und organisatorische Massnahmen und geeignete Kontrollen sicher. Der Regierungsrat regelt die Massnahmen in einer Verordnung.
