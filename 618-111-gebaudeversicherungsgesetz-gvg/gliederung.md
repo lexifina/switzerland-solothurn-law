@@ -1,17 +1,22 @@
-## 1. Gebäudeversicherung
-### 1.1. Zweck und Organisation
-### 1.2. Rechtsschutz und Aufsicht
-### 1.3. Versicherungsleistungen
-## 1.4. Versicherungspflicht
-### 1.5. Schätzung und Versicherung der Gebäude
-### 1.6. Prämien und Reservefonds
-### 1.7. Schadenermittlung
-### 1.8. Schadenvergütung
-### 1.9. Leistungen zur Schadenverhütung
-## 2. Brandverhütung und Feuerungsanlagen
-### 2.1. Brandverhütung
-### 2.2. Feuerungsanlagen
-## 3. Feuerwehrwesen
-## 4. Elementarschadenhilfe
-## 5. Strafbestimmungen
-## 6. Schlussbestimmungen
+## 1. Die Solothurnische Gebäudeversicherung
+### 1.1. Rechtsstellung, Aufgaben und Mittel
+### 1.2. Organisation und Aufsicht
+## 2. Gebäudeversicherung
+### 2.1. Versicherungspflicht
+### 2.2. Versicherte Gefahren
+### 2.3. Versicherungswerte
+### 2.4. Prämien
+### 2.5. Präventions- und Interventionsbeiträge
+### 2.6. Pflichten der Versicherten
+### 2.7. Schadenvergütung
+## 3. Brandschutz und Elementarschadenprävention
+### 3.1. Allgemeines
+### 3.2. Brandschutz
+### 3.3. Elementarschadenprävention
+## 4. Feuerwehrwesen
+### 4.1. Auftrag und Organisation der Feuerwehren
+### 4.2. Dienstpflicht
+### 4.3. Pflichten Dritter
+## 5. Elementarschadenfonds
+## 6. Rechtsschutz und Strafbestimmungen
+## 7. Übergangs- und Schlussbestimmungen

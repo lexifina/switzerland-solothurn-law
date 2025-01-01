@@ -1,5 +1,0 @@
-# § 81bis Beschaffung
-1 Die Gebäudeversicherung kann für die Feuerwehren
-a) die persönliche Ausrüstung der Feuerwehrleute beschaffen und zu diesem Zweck ein zentrales Lager betreiben;
-b) koordinierte Beschaffungen für Material, Gerätschaften und Fahrzeuge durchführen.
-2 Sie überwälzt ihre Aufwendungen für die Beschaffungen und die Lagerführung auf die Träger der Feuerwehren.
