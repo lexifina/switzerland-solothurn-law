@@ -1,0 +1,4 @@
+# § 121ter Integrationsbedarf und -gespräch
+1 Stellt die Ansprechstelle für Integrationsfragen bei der Erstinformation oder auf andere Weise fest, dass bei ausländischen Staatsangehörigen oder bei ihren minderjährigen Kindern ein Bedarf für Integrationsmassnahmen vorliegen könnte, bietet sie die Personen zu einem Integrationsgespräch auf und stellt durch geeignete Massnahmen sicher, dass die im Gespräch vermittelten Informationen von diesen richtig verstanden werden. Vorbehalten bleiben die Zuständigkeiten der Sozialhilfebehörden.
+2 Die aufgebotenen Personen sind verpflichtet, am Integrationsgespräch teilzunehmen.
+3 Für Staatsangehörige der Mitgliedstaaten der Europäischen Gemeinschaft und der Europäischen Freihandelsassoziation sowie für ausländische Familienangehörige von Schweizern und Schweizerinnen gilt das Aufgebot als Empfehlung.

@@ -35,7 +35,12 @@
 #### 4.1.1. Familie, Kinder und Jugend
 #### 4.1.2. …
 #### 4.1.3. Alter
-### 4.2. Integration der ausländischen Wohnbevölkerung
+### 4.1bis Chancengleichheit und Religion
+### 4.2. Integration der ausländischen Bevölkerung
+#### 4.2.1. Allgemeines
+#### 4.2.2. Aufgaben der Einwohnergemeinden
+#### 4.2.3. Aufgaben des Kantons
+#### 4.2.4. Amtshilfe
 ### 4.3. Wohnen und Miete
 ### 4.4. Arbeitslosenhilfe und Arbeitsvermittlung
 ### 4.5. Opferhilfe
