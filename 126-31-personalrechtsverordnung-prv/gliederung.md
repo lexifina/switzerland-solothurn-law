@@ -4,6 +4,7 @@
 ### 3.1. Allgemein
 ### 3.2. Verwaltung und kantonale Anstalten
 ### 3.3. Spitäler
+### 3.4. Solothurnische Gebäudeversicherung
 ## 4. Vermögensrechtliche Bestimmungen
 ## 5. Information und Organisation bei Ausserkrafttreten des GAV
 ### 5.1. Information

@@ -1,2 +1,0 @@
-# § 26bis ABC-Wehren
-1 Die Kosten für die ABC-Wehren werden gemäss der Verordnung über den kantonalen Schadendienst vom 31. Oktober 2000geregelt.
