@@ -42,6 +42,7 @@
 ### 6.1. Jugendanwalt
 ### 6.2. …
 ## 6bis. Personal
+## 6ter. Amtsperiode
 ## 7. Amtssitz
 ## 8. Wählbarkeitsbestimmungen
 ## 8bis. Nebenbeschäftigung

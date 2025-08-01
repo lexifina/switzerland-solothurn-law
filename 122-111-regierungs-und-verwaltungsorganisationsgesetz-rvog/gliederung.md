@@ -5,4 +5,5 @@
 ### 3.2. Zentralverwaltung
 ### 3.3. Amteiverwaltung
 ### 3.4. Mittelbare Verwaltung; Aufsicht
+## 3bis. Amtsperiode
 ## 4. Schlussbestimmungen
