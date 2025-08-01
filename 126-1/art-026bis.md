@@ -6,7 +6,7 @@ a) die Ratsleitung des Kantonsrates für
 3. die Beauftragte oder den Beauftragten für Information und Datenschutz;
 b) der Regierungsrat für
 1. die Mitglieder des Regierungsrates,
-2. den Staatsschreiber oder die Staatsschreiberin und dessen oder deren Stellvertreter oder Stellvertreterin,
+2. …
 3. den Oberstaatsanwalt oder die Oberstaatsanwältin und dessen oder deren Stellvertreter oder Stellvertreterin,
 4. die leitenden Staatsanwälte oder die leitenden Staatsanwältinnen, die Staatsanwälte oder die Staatsanwältinnen, die leitenden Jugendanwälte oder leitenden Jugendanwältinnen sowie die Jugendanwälte oder Jugendanwältinnen;
 c) die Gerichtsverwaltungskommission für alle Beamten oder Beamtinnen in richterlichen Funktionen.
