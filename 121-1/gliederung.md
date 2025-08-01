@@ -1,4 +1,5 @@
 ## 1. Wahl; Konstituierung
+## 1bis. Digitaler Ratsbetrieb
 ## 2. Sessionen
 ## 3. Organisation
 ## 4. Rechte und Pflichten der Ratsmitglieder
