@@ -2,9 +2,7 @@
 1 Als Ratssekretär ist wählbar, wer
 a) ein juristisches Universitätsstudium abgeschlossen hat, oder
 b) ein Universitätsstudium an einer philosophischen Fakultät oder ein Universitäts- oder Hochschulstudium an einer nationalökonomischen Fakultät abgeschlossen hat und sich über fundierte staats- und verwaltungsrechtliche Kenntnisse ausweist.
-2 Als Staatsschreiber oder Staatsschreiber-Stellvertreter ist wählbar, wer
-a) ein juristisches Universitätsstudium abgeschlossen hat oder
-b) ein Universitätsstudium an einer philosophischen Fakultät oder ein Universitäts- oder Hochschulstudium an einer nationalökonomischen Fakultät abgeschlossen hat und sich über fundierte staats- und verwaltungsrechtliche Kenntnisse ausweist.
+2 …
 3 Als Chef der kantonalen Finanzkontrolle ist wählbar, wer über die Zulassung als Revisionsexperte nach Artikel 4 des Bundesgesetzes über die Zulassung und Beaufsichtigung der Revisorinnen und Revisoren (Revisionsaufsichtsgesetz, RAG) vom 16. Dezember 2005 verfügt.
 a) …
 b) …
