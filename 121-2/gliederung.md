@@ -1,4 +1,5 @@
 ## 1. Konstituierung
+## 1bis. Digitaler Ratsbetrieb
 ## 2. Sessionen
 ### 2.1. Allgemeines
 ### 2.2. Verhältnis zur Öffentlichkeit
