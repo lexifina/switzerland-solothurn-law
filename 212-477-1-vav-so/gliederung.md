@@ -8,8 +8,8 @@
 ## 4. Finanzierung
 ### 4.1. Unterhalt
 ### 4.2. Laufende Nachführung
-### 4.3. Erneuerung und periodische Nachführung
+### 4.3. Ersterhebung, Erneuerung und periodische Nachführung
 ## 5. Verfahren
-### 5.1. Erneuerung, periodische Nachführung sowie Behebung von Fehlern und Widersprüchen
+### 5.1. Ersterhebung, Erneuerung, periodische Nachführung sowie Behebung von Fehlern und Widersprüchen
 ### 5.2. Laufende Nachführung
 ## 6. Übergangsbestimmungen
