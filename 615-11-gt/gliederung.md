@@ -11,6 +11,7 @@
 #### 2.2.7. Gemeinden
 #### 2.2.8. Gesundheit
 #### 2.2.9. Hochbau
+#### 2.2.9bis. Kindes- und Erwachsenenschutz
 #### 2.2.10. Landwirtschaft
 #### 2.2.11. Migration
 #### 2.2.12. Öffentliche Sicherheit

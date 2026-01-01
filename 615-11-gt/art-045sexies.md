@@ -1,0 +1,2 @@
+# § 45sexies Internationaler Kindes- und Erwachsenenschutz
+1 Für Entscheide, Bescheinigungen und Bestätigungen im Anwendungsbereich des Haager Kindesschutzübereinkommens (HKsÜ) vom 19. Oktober 1996, des Haager Erwachsenenschutzübereinkommens (HEsÜ) vom 13. Januar 2000 sowie des Haager Übereinkommens über den Schutz von Kindern und die Zusammenarbeit auf dem Gebiet der internationalen Adoption (HAÜ) vom 29. Mai 1993 betragen die Gebühren 50-2'000 Franken.
