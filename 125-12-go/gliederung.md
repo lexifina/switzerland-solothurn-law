@@ -25,6 +25,7 @@
 ### 3bis.2. Gerichtsverwalter
 ### 3bis.3. Verwaltung der Richterämter
 ### 3bis.4. Verwaltung der Spezialgerichte, des Jugendgerichts und Geschäftsführung der Haftrichter
+### 3bis.5. Archivierung der Gerichtsakten
 ## 4. Gerichtsschreiber, Aktuare und Kanzleipersonal
 ### 4.1. Amtsgerichtsschreiber und Gerichtsschreiber
 ### 4.2. Jugendgerichtsschreiber
