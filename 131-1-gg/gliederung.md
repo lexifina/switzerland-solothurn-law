@@ -24,12 +24,13 @@
 ### 5.1. Allgemeines
 ### 5.2. Behördemitglieder, Mandatsentzug
 ### 5.3. Beamte, Beamtinnen und Angestellte
-## 6. Finanzhaushalt
+## 6. Rechnungslegung und Finanzhaushalt
 ### 6.1. Grundsätze der Haushaltführung und des Rechnungswesens
 ### 6.2. Finanzplan
 ### 6.3. Budget
 ### 6.4. Jahresrechnung
 ### 6.5. Rechnungsprüfung und Finanzkontrolle
+### 6.6. Gemeindefinanzstatistik
 ## 7. Unternehmen
 ### 7.1. …
 ### 7.2. …
@@ -51,5 +52,6 @@
 ### 12.2. Übergangsbestimmung zur Teilrevision vom 28. Juni 2006
 ### 12.3. Übergangsbestimmungen zur Teilrevision vom 5. November 2014
 ### 12.3.bis Übergangsbestimmungen zur Teilrevision vom 28. Juni 2022
+### 12.3.ter Übergangsbestimmungen zur Teilrevision vom 6. November 2024
 ### 12.4. Vollzug
 ### 12.5. Inkrafttreten
