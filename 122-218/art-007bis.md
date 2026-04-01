@@ -12,3 +12,4 @@ c) In Rechtsanwalts- und Notariatssachen
 4. Verfügungen über die Entbindung von Notaren von der Schweigepflicht.
 d) Verfügungen nach der Verordnung über die juristische Grundausbildung;
 e) Verfügungen über Schadenersatzbegehren aus medizinischer Staatshaftung nach § 19ter Absatz 2 des Spitalgesetzes.
+3. Schlussbestimmungen

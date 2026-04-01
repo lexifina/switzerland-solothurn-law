@@ -9,3 +9,4 @@ b) sich die Personengemeinschaft, welche der Berechnung zugrunde gelegt wurde, v
 c) die gesetzlichen Berechnungsgrössen verändert wurden;
 d) eine voraussichtlich längere Zeit dauernde Verminderung oder Erhöhung der anrechenbaren Ausgaben und anrechenbaren Einnahmen oder des anrechenbaren Vermögens eintritt; massgebend sind die neuen, auf ein Jahr umgerechneten dauernden Ausgaben und Einnahmen oder das bei Eintritt der Veränderung anrechenbare Vermögen; macht die Änderung weniger als 500 Franken pro Monat aus, so wird auf eine Anpassung verzichtet.
 6 Es besteht kein Anspruch auf Vergütung von Krankheits- und Behinderungskosten.
+3.4. Prämienverbilligung

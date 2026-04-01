@@ -8,3 +8,4 @@ c) Adresse am Aufenthaltsort;
 cbis) AHV-Nummer;
 d) Zeitraum und voraussichtliche Dauer des Aufenthaltes;
 e) ambulanter Dienstleister am Aufenthaltsort.
+5. Sozialhilfe
