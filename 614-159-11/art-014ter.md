@@ -3,3 +3,4 @@
 2 Ihnen wird die Steuer erlassen, wenn ihr Reinvermögen im massgebenden Steuerjahr weniger als 40'000 Franken beträgt, wenn sie verheiratet sind, und weniger als 25'000 Franken in den übrigen Fällen.
 3 Personen, die durch die öffentliche Sozialhilfe finanzielle Unterstützung erhalten, werden die Steuern vollständig erlassen, wenn sie im massgebenden Steuerjahr während mindestens neun Monaten finanziell unterstützt worden sind und über kein Reinvermögen verfügen. Die Bevorschussung von Leistungen Dritter gemäss § 153 Absatz 2 Sozialgesetz gilt nicht als dauernde finanzielle Unterstützung.
 4 Bei Personen, die über Eigentum an Grundstücken verfügen oder daran nutzniessungsberechtigt sind, ist der Erlass im Veranlagungsverfahren in jedem Fall ausgeschlossen.
+3. Abschreibungen

@@ -28,3 +28,4 @@ l) die Kindes- und Erwachsenenschutzbehörde zur Abklärung der wirtschaftlichen
 m) das Bau- und Justizdepartement zur Berechnung und Plausibilisierung von Ausgleichsabgaben nach dem Gesetz über den Ausgleich raumplanungsbedingter Vor- und Nachteile vom 31. Januar 2018 sowie zur Kostenevaluation für Landkäufe des Kantons.
 2 Das Steueramt und die berechtigte Verwaltungsbehörde oder das berechtigte Gericht stellen sicher, dass die berechtigte Stelle nur auf jene Daten Zugriff erhält, die sie zur Erfüllung der in Absatz 1 genannten Aufgaben benötigt, und dass der Zugriff an nicht mehr Arbeitsplätzen als erforderlich ermöglicht wird. Die Zugriffe sind zu protokollieren.
 3 Die abgerufenen Daten dürfen nicht für andere als die in Absatz 1 genannten Zwecke verwendet oder an Dritte weiter gegeben werden, die nicht an diesen Verfahren beteiligt sind.
+4bis Meldungen an Verwaltungsbehörden

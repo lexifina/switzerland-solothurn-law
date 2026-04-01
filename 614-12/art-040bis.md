@@ -1,3 +1,4 @@
 # § 40bis Wechsel zwischen Quellensteuer und ordentlicher Veranlagung §§ 74 Abs. 3, 114, 114quinquies Abs. 1 und 2 und 114sexies Abs. 1 und 2
 1 Wird eine Person, die bisher an der Quelle besteuert worden ist, neu im ordentlichen Verfahren veranlagt, wird sie für das ganze Jahr im ordentlichen Verfahren veranlagt. Wenn sie von der ordentlichen Veranlagung zur Quellenbesteuerung wechselt, wird sie für das gesamte Jahr und bis zum Ende der Quellensteuerpflicht nachträglich ordentlich veranlagt.
 2 …
+1.3. Die direkte Staatssteuer der juristischen Personen
