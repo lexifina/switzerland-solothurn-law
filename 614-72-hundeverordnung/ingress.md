@@ -2,5 +2,5 @@
 (Hundeverordnung)
 Vom 06.03.2007
 Der Regierungsrat des Kantons Solothurn
-gestützt auf das Gesetz über das Halten von Hunden vom 7. November 2006, Artikel 30a-34d der eidgenössischen Tierschutzverordnung vom 27. Mai 1981 und Artikel 16-18 der eidgenössischen Tierseuchenverordnung vom 27. Juni 1995
+gestützt auf Artikel 69-79 der Tierschutzverordnung (TSchV) vom 23. April 2008, Artikel 16-18 der Tierseuchenverordnung (TSV) vom 27. Juni 1995 und auf das Gesetz über das Halten von Hunden (Hundegesetz) vom 7. November 2006,
 beschliesst:
