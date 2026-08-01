@@ -1,3 +1,3 @@
-RRB Nr. 2021/1014 vom 5. Juli 2021.
-Inkrafttreten am 1. August 2021.
-Publiziert im Amtsblatt vom 7. Januar 2022.
+RRB Nr. 2026/1365 vom 11. August 2026.
+Genehmigt von Regierungsrat des Kantons Basel-Landschaft am 10. Februar 2026.
+Publiziert im Amtsblatt vom 17. August 2026.
