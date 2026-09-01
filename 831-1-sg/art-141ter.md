@@ -3,3 +3,4 @@
 a) Projektbeiträge leistet;
 b) Dienstleistungen vergünstigt;
 c) Raum und Infrastruktur zur Verfügung stellt.
+4.8. Pflege

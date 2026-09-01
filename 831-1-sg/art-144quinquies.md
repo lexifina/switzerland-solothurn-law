@@ -4,3 +4,4 @@
 3 Wird von einem ambulanten Dienstleister ein Aufenthalt mit Pflegeversorgung ausserhalb des zivilrechtlichen Wohnsitzes für eine Person organisiert, ist dies der Einwohnergemeinde und dem Departement unverzüglich mitzuteilen. Die Einwohnergemeinde kann Ferienaufenthalte auf 6 Wochen pro Kalenderjahr beschränken.
 4 Der Regierungsrat regelt in einer Verordnung, welche Daten ambulante Dienstleister und Heime bei den Abrechnungen und welche Daten ambulante Dienstleister bei Mitteilungen über Aufenthalte mit Pflegeversorgung ausserhalb des zivilrechtlichen Wohnsitzes offenzulegen haben.
 5 Die Einwohnergemeinden vergüten dem Kanton die Vollzugsaufwendungen im ambulanten Bereich in Abhängigkeit der Anzahl Personen, die ambulante Pflegeleistungen bezogen haben, und im stationären Bereich nach der Einwohnerzahl.
+4.9. Bestattung

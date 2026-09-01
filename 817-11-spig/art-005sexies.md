@@ -10,3 +10,4 @@ f) die Ausübung des Rückgriffsrechts des Kantons gemäss Artikel 79a KVG.
 3 Betriebsbezogene Daten, wie insbesondere Angaben über Zusatzhonorare, Personalbestand und die fallbezogene Kostenträgerrechnung, dürfen ohne Anonymisierung bearbeitet werden.
 4 Spitäler und Geburtshäuser sind verpflichtet, dem Departement die betreffenden Daten innert der angesetzten, angemessenen Frist unentgeltlich zu liefern.
 5 Das Departement kann, unter Wahrung der Geschäftsgeheimnisse, betriebsbezogene Daten der Spitäler und Geburtshäuser in nicht anonymisierter Form veröffentlichen, sofern diese von öffentlichem Interesse sind. Patientenbezogene Daten dürfen nur in anonymisierter Form veröffentlicht werden. Es dürfen keine Rückschlüsse auf natürliche Personen möglich sein.
+2.2. Besondere Bestimmungen für das kantonale Spital

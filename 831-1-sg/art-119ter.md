@@ -6,3 +6,5 @@ b) den interreligiösen Dialog zu fördern, um das gegenseitige Verständnis zwi
 a) informiert die Bevölkerung;
 b) berät Behörden, öffentliche und private Institutionen sowie Privatpersonen;
 c) kann Projekte fördern und unterstützen.
+4.2. Integration der ausländischen Bevölkerung
+4.2.1. Allgemeines
