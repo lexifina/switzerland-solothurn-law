@@ -1,0 +1,11 @@
+{
+  "path": "ch-so",
+  "code": "CH-SO",
+  "name": "Solothurn",
+  "level": "canton",
+  "parent": "ch",
+  "repo": "https://github.com/lexifina/switzerland-solothurn-law",
+  "build": "built: constitution, cantonal laws and Verordnungen (291 acts, 933 versions) from the BGS",
+  "language": "de",
+  "sources": 1
+}

@@ -1,0 +1,782 @@
+day,kind,law,acts,files,branch
+1941-11-23,start,gs-gs-66-910,423-581-1,8,main
+1952-08-01,start,gs-gs-79-40,614-175-51,5,main
+1957-05-06,start,gs-gs-77-61,423-581-2,5,main
+1967-06-02,start,gs-gs-84-44,431-11,8,main
+1967-09-01,start,gs-gs-84-89,614-175-1,7,main
+1968-09-12,start,gs-gs-84-177,435-148-5,3,main
+1969-01-01,start,gs-gs-84-180,712-921,9,main
+1972-02-23,start,,435-146,16,main
+1977-05-01,start,,212-435-3,17,main
+1978-09-07,start,gs-gs-87-604,321-51-konfiskationsverordnung,15,main
+1978-11-02,start,gs-gs-87-603,812-72,6,main
+1979-07-01,start,gs-gs-88-43,711-31,31,main
+1979-12-13,start,,737-1,9,main
+1980-01-17,start,,212-478-41,51,main
+1981-01-01,start,gs-gs-88-464,614-81,17,main
+1982-01-01,start,,126-541,42,main
+1982-01-01,start,,739-1,10,main
+1982-09-26,start,gs-gs-89-193,614-51,5,main
+1984-01-01,start,,122-151-katastrophengesetz,25,main
+1984-05-24,start,,725-126,10,main
+1985-09-26,start,gs-gs-90-122,416-961,5,main
+1986-10-14,start,gs-gs-90-586,212-451,2,main
+1988-01-01,start,gs-gs-90-943,131-45,4,main
+1989-11-23,start,gs-gs-91-428,711-515,13,main
+1991-08-01,start,gs-gs-92-127,126-515-856-1,6,main
+1991-09-01,start,gs-gs-92-125,511-131,12,main
+1992-01-01,start,gs-gs-91-786,212-478-43,7,main
+1992-05-01,start,gs-gs-92-318,212-331-2,4,main
+1993-01-01,start,,212-478-42,44,main
+1993-01-01,start,,614-61,9,main
+1993-07-01,start,gs-gs-92-754,941-24-engvb,16,main
+1993-09-01,start,,122-152,26,main
+1994-01-01,start,gs-gs-92-994,812-53,9,main
+1994-07-01,start,,212-555,14,main
+1994-12-16,start,gs-gs-93-342,617-11,6,main
+1995-01-01,start,gs-gs-93-164,311-3,8,main
+1996-01-01,start,,212-471-1,163,main
+1996-01-01,start,,212-473-82,7,main
+1997-01-01,start,,711-25,17,main
+1997-01-01,start,,733-11,45,main
+1997-01-01,start,,931-72,13,main
+1998-01-01,start,,614-159-04,6,main
+1999-08-01,start,,122-131-delegationsgesetz,48,main
+1999-11-01,start,gs-gs-94-868,812-55,9,main
+2000-01-01,start,gs-gs-95-120,521-931,15,main
+2000-08-01,start,gs-gs-95-107,122-132,8,main
+2000-08-01,start,,212-431-eg-bewg,13,main
+2000-08-01,start,,725-21,28,main
+2000-11-01,start,gs-gs-95-271,712-922,26,main
+2001-01-01,start,,614-14,6,main
+2001-01-01,start,,614-159-12,11,main
+2001-01-01,start,,614-159-18,10,main
+2001-01-01,start,gs-gs-95-311,832-214,9,main
+2001-07-01,start,,837-531,9,main
+2002-06-01,start,gs-gs-97-96,832-215,10,main
+2002-06-05,start,gs-in-der-gs-nicht-publiziert,414-116-221,9,main
+2002-07-01,start,,711-15-vvk,21,main
+2002-09-01,start,gs-gs-97-185,812-61-lsv-so,25,main
+2003-01-01,start,,126-161,17,main
+2003-01-01,start,,416-353-652,9,main
+2003-01-01,start,,523-11-sportverordnung,11,main
+2003-01-01,start,gs-gs-97-197,725-112-kantonsstrassen-beitragsverordnung,18,main
+2003-08-01,start,gs-gs-98-82,511-13-poldavo,47,main
+2004-01-01,start,,614-159-02,7,main
+2004-01-01,start,,614-159-03,22,main
+2004-01-01,start,,836-11,11,main
+2004-01-01,start,gs-gs-98-323,837-532,12,main
+2004-04-01,start,,512-251-kantonale-sprengstoffverordnung,12,main
+2004-05-01,start,,212-477-1-vav-so,85,main
+2004-05-01,start,,721-54-subg,49,main
+2004-07-01,start,gs-gs-99-50,431-115,23,main
+2004-07-01,start,,431-117,9,main
+2004-08-01,start,,414-131,13,main
+2004-10-01,start,gs-gs-099-169,811-13,6,main
+2005-01-01,start,,212-432,7,main
+2005-01-01,start,,721-55-subv,52,main
+2005-05-03,start,,121-251,8,main
+2005-07-01,start,,941-21,30,main
+2005-08-01,start,,122-111-regierungs-und-verwaltungsorganisationsgesetz-rvog,34,main
+2005-08-01,start,,125-71,41,main
+2005-08-01,start,gs-gs-100-84,125-81,12,main
+2005-08-01,start,gs-gs-100-145,125-932,31,main
+2005-08-01,start,gs-gs-93-776,436-11-kulturdenkmaler-verordnung,45,main
+2005-11-01,start,,926-712-vhtss,27,main
+2006-01-01,start,gs-gs-101-233,112-12-burgerrechtsverordnung,16,main
+2006-01-01,start,gs-gs-100-159,128-121,17,main
+2006-01-01,start,gs-gs-100-188,128-221,28,main
+2006-01-01,start,gs-gs-100-75,531-1-eg-bzg,38,main
+2006-01-01,start,,613-41,35,main
+2006-01-01,start,,921-12-alv,91,main
+2006-01-01,start,,923-12-bodenverbesserungsverordnung-bovo,73,main
+2006-01-01,start,,924-12,20,main
+2006-08-01,start,,414-151-2,12,main
+2006-08-01,start,,626-12-jav,43,main
+2006-10-01,start,gs-gs-101-127,125-411,13,main
+2006-10-01,start,gs-gs-101-131,125-412,14,main
+2006-10-01,start,gs-gs-101-136,125-413,11,main
+2006-10-01,start,gs-gs-101-139,125-414,13,main
+2006-10-01,start,gs-gs-101-143,125-415,11,main
+2006-10-01,start,gs-gs-101-147,125-942,14,main
+2007-01-01,start,gs-gs-101-12,122-51,19,main
+2007-01-01,start,gs-gs-101-182,122-511-archivvo,19,main
+2007-01-01,start,gs-gs-101-244,212-11-vzd,24,main
+2007-01-01,start,,212-331-inventarisations-verordnung,69,main
+2007-01-01,start,gs-gs-101-84,413-614,12,main
+2007-01-01,start,,414-113,25,main
+2007-01-01,start,,614-159-15,11,main
+2007-01-01,start,,626-15-japv,21,main
+2007-07-01,start,,811-12-gesv,90,main
+2007-08-01,start,,126-371-2-lernendenverordnung,22,main
+2007-08-01,start,,414-441-5-promotionsreglement-maturitatsschulen,48,main
+2007-08-01,start,gs-gs-101-197,614-71-hundegesetz,21,main
+2007-08-01,start,gs-gs-102-72,614-72-hundeverordnung,10,main
+2007-09-01,start,gs-gs-102-133,126-31-personalrechtsverordnung-prv,38,main
+2007-09-01,start,,126-515-123-53,7,main
+2007-09-01,start,,511-12,34,main
+2007-09-01,start,,512-42-ruhetagsverordnung-rtv,12,main
+2007-09-01,start,,922-15,4,main
+2007-09-01,start,,925-12-vlb,114,main
+2008-01-01,start,,115-1-wov-g,89,main
+2008-01-01,start,,125-922,19,main
+2008-01-01,start,,531-2-bzvso,58,main
+2008-01-01,start,,614-136,8,main
+2008-01-01,start,,614-159-01,14,main
+2008-01-01,start,,614-159-05,7,main
+2008-01-01,start,,618-112-gebaudeversicherungsverordnung-gvv,144,main
+2008-01-01,start,,711-61-kbv,81,main
+2008-01-01,start,,725-11,40,main
+2008-01-01,start,,931-11,46,main
+2008-03-01,start,gs-gs-102-264,415-211-fhg,27,main
+2008-08-01,start,,419-11-stipendiengesetz,22,main
+2008-08-01,start,,419-12-stipendienverordnung,43,main
+2008-08-01,start,,931-12-wavso,74,main
+2008-09-01,start,gs-gs-103-23,131-51-regv,16,main
+2008-09-01,start,,812-41-lrv-so,21,main
+2008-11-01,start,,114-1-infodg,53,main
+2008-11-01,start,,512-211,35,main
+2009-01-01,start,,113-111-gpr,185,main
+2009-01-01,start,,126-1,82,main
+2009-01-01,start,,126-511-329-4,8,main
+2009-01-01,start,,212-152-vas,20,main
+2009-01-01,start,,413-111-vsg,137,main
+2009-01-01,start,,414-11,34,main
+2009-01-01,start,,414-116-22,9,main
+2009-01-01,start,,414-133,27,main
+2009-01-01,start,,414-135,17,main
+2009-01-01,start,gs-gs-103-97,416-111-gbb,73,main
+2009-01-01,start,gs-gs-103-136,416-112-vbb,68,main
+2009-01-01,start,,614-159-06,8,main
+2009-01-01,start,,614-159-13,13,main
+2009-01-01,start,,614-159-20,9,main
+2009-01-01,start,gs-gs-103-17,625-11-fig,29,main
+2009-01-01,start,,626-11-jag,49,main
+2009-01-01,start,,732-1-ovg,24,main
+2009-01-01,start,,921-11,85,main
+2009-03-01,start,,817-11-spig,30,main
+2009-05-01,start,,115-11-wov-vo,51,main
+2009-05-01,start,,123-21-amtschreibereiverordnung-asv,162,main
+2009-05-01,start,,212-472,35,main
+2009-08-01,start,,414-132-fachmittelschulverordnung,14,main
+2009-08-01,start,,414-134-prufungsverordnung-fur-die-abschlussprufungen-der-fachmittelschule-fms,27,main
+2009-09-01,start,gs-gs-104-127,837-534,11,main
+2010-01-01,start,,131-1-gg,227,main
+2010-01-01,start,gs-gs-104-174,416-112-1,12,main
+2010-01-01,start,,435-141,49,main
+2010-01-01,start,,614-159-08,7,main
+2010-01-01,start,,614-159-10,23,main
+2010-01-01,start,,711-1-pbg,188,main
+2010-01-01,start,gs-gs-104-34,712-15-gwba,182,main
+2010-01-01,start,,736-12,32,main
+2010-01-01,start,gs-gs-104-177,812-56-chemikalienverordnung-chemv-so,15,main
+2010-01-01,start,gs-gs-104-139,837-533,11,main
+2010-01-01,start,,926-712-1,5,main
+2010-02-01,start,,625-12-fivo,32,main
+2010-03-01,start,,112-11-burgerrechtsgesetz,40,main
+2010-03-01,start,,512-11-ausweisverordnung,12,main
+2010-04-01,start,,831-2-sv,112,main
+2010-05-01,start,,811-14,10,main
+2010-07-01,start,,113-112-vpr,57,main
+2010-07-01,start,,126-51-1,25,main
+2010-07-01,start,gs-gs-105,941-25-stromvg,17,main
+2010-08-01,start,,414-114-gymnasiumsverordnung-gymv,27,main
+2010-08-01,start,,414-471-12,26,main
+2010-08-01,start,,416-142,20,main
+2010-09-01,start,,711-41-gbv,59,main
+2010-09-03,start,,121-1,74,main
+2010-09-03,start,,121-2,117,main
+2010-10-01,start,,512-41-ruhetagsgesetz-rtg,16,main
+2010-10-01,start,gs-gs-104-183,712-16-vwba,55,main
+2010-12-01,start,,414-71,27,main
+2011-01-01,start,,111-1-kv,155,main
+2011-01-01,start,,122-112-rvov,29,main
+2011-01-01,start,,122-218,12,main
+2011-01-01,start,,123-321-ev-schkg,16,main
+2011-01-01,start,,124-11-verwaltungsrechtspflegegesetz,117,main
+2011-01-01,start,,124-21-verantwortlichkeitsgesetz,36,main
+2011-01-01,start,,125-12-go,159,main
+2011-01-01,start,,127-10-anwaltsgesetz-anwg,26,main
+2011-01-01,start,,127-11,14,main
+2011-01-01,start,,128-111,9,main
+2011-01-01,start,,128-213-jpv,32,main
+2011-01-01,start,,211-1,414,main
+2011-01-01,start,,311-1,95,main
+2011-01-01,start,,331-11-juvg,51,main
+2011-01-01,start,,413-121-1-vsv,142,main
+2011-01-01,start,,511-11,69,main
+2011-01-01,start,,614-11-steuergesetz,322,main
+2011-01-01,start,,614-12,86,main
+2011-01-01,start,,614-159-11,21,main
+2011-01-01,start,,614-159-16,14,main
+2011-01-01,start,,618-111-gebaudeversicherungsgesetz-gvg,100,main
+2011-01-01,start,,811-11-gesg,75,main
+2011-01-01,start,,821-51,13,main
+2011-01-01,start,,831-1-sg,189,main
+2011-01-01,start,,831-3-rkel,23,main
+2011-01-01,start,gs-gs-105-120,832-15-aup,8,main
+2011-01-01,start,gs-gs-105,941-22-envso,36,main
+2011-01-01,law,gs-gs-105,413-111-vsg 414-11 415-211-fhg 416-111-gbb,4,main
+2011-01-01,law,gs-gs-105-218,413-111-vsg,6,main
+2011-02-01,start,,129-11,77,main
+2011-02-01,start,,322-12,22,main
+2011-02-01,start,,328-13,16,main
+2011-02-01,start,,331-12-juvv,79,main
+2011-02-01,start,,613-31,25,main
+2011-02-01,start,,614-159-07,16,main
+2011-03-01,start,gs-beschluss-2010-09-28,415-215-1,12,main
+2011-04-01,start,,126-511-31,15,main
+2011-07-01,law,gs-gs-2011-6,122-218,3,main
+2011-07-01,law,gs-gs-2011-12,122-218 733-11,8,main
+2011-07-01,law,gs-gs-2011-15,125-411 125-412 125-413 125-414 125-415 125-942,13,main
+2011-07-01,law,gs-gs-2011-16,125-71,19,main
+2011-08-01,start,gs-gs-105-132,413-412-laufbahnreglement,40,main
+2011-08-01,law,gs-gs-101-227,413-111-vsg,5,main
+2011-08-01,law,gs-gs-102-124,413-111-vsg,13,main
+2011-08-01,law,gs-gs-105-177,413-614,2,main
+2011-08-01,law,gs-gs-2011-4,414-116-22,3,main
+2011-08-01,law,gs-gs-2011-5,414-116-221,16,main
+2011-08-01,law,gs-gs-2011-13,413-121-1-vsv,45,main
+2011-08-01,law,gs-gs-2011-18,125-81,2,main
+2011-08-01,law,gs-gs-2011-25,122-218 531-2-bzvso,8,main
+2011-09-01,start,gs-gs-2011-27,811-422-4,10,main
+2011-09-01,law,gs-gs-9-2011,121-1 125-12-go 126-1,5,main
+2011-11-01,law,gs-gs-2011-33,126-31-personalrechtsverordnung-prv,4,main
+2011-12-01,start,gs-gs-2011-37,614-175-611,13,main
+2012-01-01,start,gs-gs-2011-34,512-153-ev-aig-und-asylg,19,main
+2012-01-01,start,gs-gs-2011-47,817-116-spivo,15,main
+2012-01-01,start,gs-gs-2011-67,837-535,11,main
+2012-01-01,law,gs-gs-102-221,614-11-steuergesetz,2,main
+2012-01-01,law,gs-gs-2011-10,115-1-wov-g,11,main
+2012-01-01,law,gs-gs-2011-38,614-159-15,2,main
+2012-01-01,law,gs-gs-2011-39,614-12,1,main
+2012-01-01,law,gs-gs-2011-24,416-111-gbb,1,main
+2012-01-01,law,gs-gs-2011-19,125-12-go 211-1 614-11-steuergesetz 711-1-pbg,27,main
+2012-01-01,law,gs-gs-2011-20,711-41-gbv 711-61-kbv,6,main
+2012-01-01,law,gs-gs-2011-21,817-11-spig 831-1-sg,25,main
+2012-01-01,law,gs-gs-2011-43,817-11-spig,1,main
+2012-01-01,law,gs-gs-2011-54,831-2-sv,1,main
+2012-01-01,law,gs-gs-2011-55,115-11-wov-vo,8,main
+2012-01-01,law,gs-gs-2011-23,211-1,7,main
+2012-01-01,law,gs-gs-2011-29,831-1-sg,5,main
+2012-01-01,law,gs-gs-2011-30,831-1-sg,5,main
+2012-01-01,law,gs-gs-2012-14,212-152-vas,13,main
+2012-01-01,law,gs-gs-2013-13,122-218,2,main
+2012-02-01,law,gs-gs-2011-57,721-55-subv,1,main
+2012-03-01,law,gs-gs-2011-63,212-555,1,main
+2012-03-11,law,gs-gs-2012-15,111-1-kv,2,main
+2012-04-01,law,gs-gs-2011-31,811-11-gesg,9,main
+2012-04-01,law,gs-gs-2011-66,733-11,2,main
+2012-04-01,law,gs-gs-2012-1,122-218,1,main
+2012-05-01,law,gs-gs-2012-3,123-21-amtschreibereiverordnung-asv 129-11 212-472,27,main
+2012-05-01,law,gs-gs-2012-22,416-112-1,5,main
+2012-05-18,law,gs-gs-2012-6,121-1,4,main
+2012-05-18,law,gs-gs-2012-7,121-2,2,main
+2012-07-01,law,gs-gs-2012-16,511-11,1,main
+2012-08-01,law,gs-gs-105-49,413-111-vsg,7,main
+2012-08-01,law,gs-gs-105-196,111-1-kv,3,main
+2012-08-01,law,gs-gs-2011-42,414-113,20,main
+2012-08-01,law,gs-gs-2011-62,126-31-personalrechtsverordnung-prv 413-121-1-vsv,34,main
+2012-08-01,law,gs-gs-2012-5,126-1 413-111-vsg,23,main
+2012-08-01,law,gs-gs-2012-12,414-151-2,3,main
+2012-08-01,law,gs-gs-2012-33,413-412-laufbahnreglement 414-441-5-promotionsreglement-maturitatsschulen,14,main
+2012-10-01,law,gs-gs-2012-37,832-15-aup,4,main
+2012-11-01,law,gs-gs-2012-35,626-12-jav 626-15-japv,22,main
+2012-12-12,law,gs-gs-2012-83,121-1 121-2,12,main
+2013-01-01,start,gs-gs-2012-31,511-121-dienstaufsichtsverordnung,10,main
+2013-01-01,law,gs-gs-2012-8,112-11-burgerrechtsgesetz 113-111-gpr 122-111-regierungs-und-verwaltungsorganisationsgesetz-rvog 124-11-verwaltungsrechtspflegegesetz 125-12-go 211-1 331-11-juvg 413-111-vsg 511-11 811-11-gesg 831-1-sg,107,main
+2013-01-01,law,gs-gs-2012-50,331-12-juvv,1,main
+2013-01-01,law,gs-gs-2012-51,614-11-steuergesetz,24,main
+2013-01-01,law,gs-gs-2012-52,124-11-verwaltungsrechtspflegegesetz 124-21-verantwortlichkeitsgesetz 811-11-gesg 817-11-spig,11,main
+2013-01-01,law,gs-gs-2012-56,811-11-gesg,1,main
+2013-01-01,law,gs-gs-2012-54,416-112-vbb,8,main
+2013-01-01,law,gs-gs-2012-55,112-12-burgerrechtsverordnung 113-112-vpr 122-218 123-21-amtschreibereiverordnung-asv 212-11-vzd 212-331-inventarisations-verordnung 419-12-stipendienverordnung 614-12 614-159-07 811-13 831-2-sv,30,main
+2013-01-01,law,gs-gs-2012-66,811-12-gesv,6,main
+2013-01-01,law,gs-gs-2012-68,122-218 941-24-engvb,22,main
+2013-01-01,law,gs-gs-2012-69,129-11,5,main
+2013-01-01,law,gs-gs-2012-75,831-1-sg,11,main
+2013-01-01,law,gs-gs-2012-81,831-2-sv,4,main
+2013-01-01,law,gs-gs-2012-89,521-931,5,main
+2013-03-01,law,gs-gs-2012-61,711-61-kbv,56,main
+2013-03-01,law,gs-gs-2012-62,711-1-pbg,5,main
+2013-03-01,law,gs-gs-2012-65,711-41-gbv,10,main
+2013-04-01,law,gs-gs-2012-66,811-12-gesv,7,main
+2013-04-01,law,gs-gs-2012-87,122-218,1,main
+2013-04-01,law,gs-gs-2012-88,212-477-1-vav-so,86,main
+2013-05-01,law,gs-gs-2012-84,125-12-go 721-54-subg,3,main
+2013-05-07,law,gs-gs-2012-83,115-1-wov-g 121-1 121-2,26,main
+2013-06-01,law,gs-gs-2013-18,126-31-personalrechtsverordnung-prv,1,main
+2013-07-01,law,gs-gs-2013-4,127-11,1,main
+2013-08-01,start,gs-gs-2013-24,414-472,26,main
+2013-08-01,start,gs-gs-2013-17,416-144-abu-prufungsreglement,24,main
+2013-08-01,law,gs-gs-105-37,125-12-go,1,main
+2013-08-01,law,gs-gs-2012-33,414-441-5-promotionsreglement-maturitatsschulen,4,main
+2013-08-01,law,gs-gs-2012-64,414-135,24,main
+2013-08-01,law,gs-gs-2012-67,111-1-kv,3,main
+2013-08-01,law,gs-gs-2012-77,414-471-12,6,main
+2013-08-01,law,gs-gs-2012-84,125-12-go,5,main
+2013-08-01,law,gs-gs-2013-3,416-112-vbb,2,main
+2013-08-01,law,gs-gs-2013-5,414-113,7,main
+2013-08-01,law,gs-gs-2013-10,414-114-gymnasiumsverordnung-gymv,15,main
+2013-08-01,law,gs-gs-2013-14,413-121-1-vsv,4,main
+2013-08-01,law,gs-gs-2013-15,123-21-amtschreibereiverordnung-asv,163,main
+2013-08-01,law,gs-gs-2013-24,414-441-5-promotionsreglement-maturitatsschulen,3,main
+2013-11-01,law,gs-gs-2013-41,925-12-vlb,114,main
+2013-12-01,law,gs-gs-2013-35,125-414,1,main
+2014-01-01,start,gs-gs-2013-21,416-113-1,29,main
+2014-01-01,law,gs-gs-105-72,614-11-steuergesetz,1,main
+2014-01-01,law,gs-gs-2012-57,413-111-vsg,6,main
+2014-01-01,law,gs-gs-2012-72,625-12-fivo,3,main
+2014-01-01,law,gs-gs-2013-8,416-112-vbb,3,main
+2014-01-01,law,gs-gs-2013-11,111-1-kv,2,main
+2014-01-01,law,gs-gs-2013-16,614-159-03,8,main
+2014-01-01,law,gs-gs-2013-29,126-1,1,main
+2014-01-01,law,gs-gs-2013-33,614-12,3,main
+2014-01-01,law,gs-gs-2013-34,614-159-15,1,main
+2014-01-01,law,gs-gs-2013-36,311-1 511-11 811-11-gesg,31,main
+2014-01-01,law,gs-gs-2013-39,931-11,1,main
+2014-01-01,law,gs-gs-2013-40,811-12-gesv,20,main
+2014-01-01,law,gs-gs-2013-54,712-922,19,main
+2014-01-01,law,gs-gs-2013-59,811-11-gesg,1,main
+2014-01-01,law,gs-gs-2013-61,811-12-gesv,1,main
+2014-03-01,law,gs-gs-2013-47,121-2,1,main
+2014-04-01,start,gs-gs-2014-3,416-114-1-bvj-reglement,15,main
+2014-04-01,start,gs-gs-2013-28,711-27-geoig,18,main
+2014-04-01,law,gs-gs-2013-28,211-1 711-1-pbg,3,main
+2014-04-01,law,gs-gs-2014-1,122-218,5,main
+2014-04-01,law,gs-gs-2014-7,733-11 736-12,12,main
+2014-06-01,law,gs-gs-2014-5,126-161,15,main
+2014-07-01,law,gs-gs-2013-49,331-11-juvg,51,main
+2014-07-01,law,gs-gs-2014-12,126-1,1,main
+2014-07-01,law,gs-gs-2014-8,122-218 331-12-juvv,80,main
+2014-08-01,law,gs-gs-2013-7,413-111-vsg,3,main
+2014-08-01,law,gs-gs-2013-58,126-371-2-lernendenverordnung,22,main
+2014-08-01,law,gs-gs-2014-27,413-111-vsg,4,main
+2014-09-01,law,gs-gs-2014-22,512-41-ruhetagsgesetz-rtg,16,main
+2014-09-01,law,gs-gs-2014-31,512-42-ruhetagsverordnung-rtv,13,main
+2014-10-01,law,gs-gs-2014-6,614-159-01,1,main
+2014-12-01,law,gs-gs-2014-30,122-218,1,main
+2015-01-01,start,gs-gs-2014-59,114-3-gesp,18,main
+2015-01-01,start,gs-gs-2014-47,126-581-pkg,30,main
+2015-01-01,start,gs-gs-2014-46,414-118-passerelleverordnung,21,main
+2015-01-01,law,gs-gs-2014-26,831-1-sg,2,main
+2015-01-01,law,gs-gs-2014-32,831-2-sv,4,main
+2015-01-01,law,gs-gs-2014-33,614-11-steuergesetz,1,main
+2015-01-01,law,gs-gs-2014-35,531-1-eg-bzg,19,main
+2015-01-01,law,gs-gs-2014-40,121-1 121-2,3,main
+2015-01-01,law,gs-gs-2014-41,831-2-sv,1,main
+2015-01-01,law,gs-gs-2014-43,831-2-sv,3,main
+2015-01-01,law,gs-gs-2014-47,115-1-wov-g,1,main
+2015-01-01,law,gs-gs-2014-48,127-11 129-11,2,main
+2015-01-01,law,gs-gs-2014-55,112-11-burgerrechtsgesetz,1,main
+2015-01-01,law,gs-gs-2014-59,114-1-infodg,2,main
+2015-01-01,law,gs-gs-2014-60,131-51-regv,1,main
+2015-01-01,law,gs-gs-2014-62,131-1-gg,1,main
+2015-01-01,law,gs-gs-2014-50,614-12,1,main
+2015-01-01,law,gs-gs-2014-69,941-21,5,main
+2015-01-01,law,gs-gs-2014-71,414-11,9,main
+2015-01-01,law,gs-gs-2015-8,618-112-gebaudeversicherungsverordnung-gvv,5,main
+2015-02-01,start,gs-gs-2015-1,416-145-hf-pflege,20,main
+2015-02-01,law,gs-gs-2014-49,212-471-1,19,main
+2015-03-01,law,gs-gs-2014-63,124-11-verwaltungsrechtspflegegesetz 125-12-go 127-10-anwaltsgesetz-anwg 211-1 721-54-subg 831-1-sg,14,main
+2015-03-01,law,gs-gs-2014-65,125-922,1,main
+2015-03-01,law,gs-gs-2014-67,413-111-vsg,2,main
+2015-04-01,law,gs-gs-2014-45,123-21-amtschreibereiverordnung-asv 129-11 212-472,7,main
+2015-07-01,law,gs-gs-2014-21,111-1-kv,2,main
+2015-07-01,law,gs-gs-2015-12,115-11-wov-vo,1,main
+2015-08-01,law,gs-gs-2014-25,414-114-gymnasiumsverordnung-gymv,1,main
+2015-08-01,law,gs-gs-2015-2,113-111-gpr,20,main
+2015-08-01,law,gs-gs-2015-3,113-111-gpr,9,main
+2015-08-01,law,gs-gs-2015-9,414-441-5-promotionsreglement-maturitatsschulen,5,main
+2015-08-01,law,gs-gs-2015-10,113-112-vpr,3,main
+2015-08-01,law,gs-gs-2015-14,416-113-1,2,main
+2015-08-01,law,gs-gs-2015-15,414-135,2,main
+2015-08-01,law,gs-gs-2015-16,416-142,20,main
+2015-08-01,law,gs-gs-2015-17,414-116-22,6,main
+2015-08-01,law,gs-gs-2015-21,126-371-2-lernendenverordnung,3,main
+2015-08-01,law,gs-gs-2015-23,413-412-laufbahnreglement,23,main
+2015-08-01,law,gs-gs-2015-25,414-116-221,13,main
+2015-09-01,start,gs-gs-2015-24,113-114,11,main
+2015-09-01,law,gs-gs-2015-22,922-15,5,main
+2015-10-01,law,gs-gs-2015-32,521-931 837-531 837-532 837-535,4,main
+2015-12-01,law,gs-gs-2015-47,212-472,1,main
+2015-12-18,law,gs-gs-92-101,121-2,1,main
+2015-12-18,law,gs-gs-2015-45,121-2,2,main
+2016-01-01,start,gs-gs-2015-58,126-583-rrg,17,main
+2016-01-01,start,,131-73-finanz-und-lastenausgleichsgesetz-filag-eg,40,main
+2016-01-01,start,gs-gs-2014-70,131-731-finanz-und-lastenausgleichsverordnung-filav-eg,26,main
+2016-01-01,start,gs-gs-2015-57,940-11-wag,109,main
+2016-01-01,start,gs-gs-2015-48,940-12-vwag,45,main
+2016-01-01,law,gs-gs-2014-61,131-1-gg,40,main
+2016-01-01,law,gs-gs-2014-67,131-1-gg 413-111-vsg,53,main
+2016-01-01,law,gs-gs-2014-70,413-121-1-vsv 413-614,40,main
+2016-01-01,law,gs-gs-2015-19,211-1,8,main
+2016-01-01,law,gs-gs-2015-27,614-11-steuergesetz,24,main
+2016-01-01,law,gs-gs-2015-31,122-112-rvov 128-221,3,main
+2016-01-01,law,gs-gs-2015-33,831-2-sv,1,main
+2016-01-01,law,gs-gs-2015-34,614-159-02,1,main
+2016-01-01,law,gs-gs-2015-35,614-159-03,2,main
+2016-01-01,law,gs-gs-2015-36,614-159-04,3,main
+2016-01-01,law,gs-gs-2015-37,614-159-05,1,main
+2016-01-01,law,gs-gs-2015-38,614-159-07,4,main
+2016-01-01,law,gs-gs-2015-39,614-159-13,5,main
+2016-01-01,law,gs-gs-2015-40,614-159-18,11,main
+2016-01-01,law,gs-gs-2015-41,613-31,5,main
+2016-01-01,law,gs-gs-2015-42,614-12,1,main
+2016-01-01,law,gs-gs-2015-48,122-218,1,main
+2016-01-01,law,gs-gs-2015-49,123-21-amtschreibereiverordnung-asv 129-11,11,main
+2016-01-01,law,gs-gs-2015-51,511-13-poldavo,29,main
+2016-01-01,law,gs-gs-2015-58,126-1,1,main
+2016-01-01,law,gs-gs-2016-4,521-931 837-531 837-532 837-535,14,main
+2016-03-01,start,gs-gs-2015-55,114-4-vesp,19,main
+2016-03-01,start,gs-gs-2015-54,711-271-geoiv,8,main
+2016-03-01,law,gs-gs-2015-61,122-218,2,main
+2016-04-01,law,gs-gs-2016-14,126-515-123-53,3,main
+2016-06-01,law,gs-gs-2016-5,125-411,13,main
+2016-06-01,law,gs-gs-2016-3,126-1,9,main
+2016-07-01,start,gs-gs-2015-60,323-1-eg-zeugsg,8,main
+2016-07-01,law,gs-gs-2015-62,111-1-kv,2,main
+2016-07-01,law,gs-gs-2015-60,125-12-go,2,main
+2016-07-01,law,gs-gs-2016-22,414-118-passerelleverordnung,1,main
+2016-08-01,law,gs-gs-2015-46,414-151-2,1,main
+2016-08-01,law,gs-gs-2016-6,413-412-laufbahnreglement,67,main
+2016-08-01,law,gs-gs-2016-12,817-116-spivo,2,main
+2016-09-01,law,gs-gs-2016-13,212-472,2,main
+2016-09-01,law,gs-gs-2016-20,125-71,2,main
+2016-10-01,law,gs-gs-2016-23,126-31-personalrechtsverordnung-prv,6,main
+2017-01-01,start,gs-gs-2016-33,311-4-kov,9,main
+2017-01-01,start,gs-gs-2015-65,411-254-nareg-vo,17,main
+2017-01-01,law,gs-gs-2015-27,614-11-steuergesetz,4,main
+2017-01-01,law,gs-gs-2016-16,431-11,10,main
+2017-01-01,law,gs-gs-2016-17,115-1-wov-g 121-1 131-1-gg,3,main
+2017-01-01,law,gs-gs-2016-25,941-24-engvb,7,main
+2017-01-01,law,gs-gs-2016-27,512-11-ausweisverordnung 512-153-ev-aig-und-asylg,5,main
+2017-01-01,law,gs-gs-2016-30,122-218,3,main
+2017-01-01,law,gs-gs-2016-31,614-159-15,3,main
+2017-01-01,law,gs-gs-2016-41,817-11-spig,4,main
+2017-01-01,law,gs-gs-2016-33,712-16-vwba,1,main
+2017-03-31,law,gs-gs-2017-9,414-118-passerelleverordnung,6,main
+2017-05-01,law,gs-gs-2017-3,416-112-vbb,1,main
+2017-05-01,law,gs-gs-2017-4,414-113,1,main
+2017-06-01,law,gs-gs-2017-10,126-371-2-lernendenverordnung,14,main
+2017-06-01,law,gs-gs-2017-11,122-218 331-12-juvv,6,main
+2017-07-01,law,gs-gs-2017-14,212-11-vzd,2,main
+2017-08-01,start,gs-gs-2017-32,414-116-3,12,main
+2017-08-01,start,gs-gs-2016-33,414-116-4,12,main
+2017-08-01,law,gs-gs-2017-1,113-111-gpr,1,main
+2017-08-01,law,gs-gs-2017-8,419-11-stipendiengesetz,7,main
+2017-08-01,law,gs-gs-2017-15,419-12-stipendienverordnung,15,main
+2017-08-01,law,gs-gs-2017-28,414-441-5-promotionsreglement-maturitatsschulen,6,main
+2017-08-01,law,gs-gs-2017-29,414-116-221,1,main
+2017-08-01,law,gs-gs-2017-31,125-932,12,main
+2017-10-01,law,gs-gs-2017-19,115-1-wov-g 121-1 122-111-regierungs-und-verwaltungsorganisationsgesetz-rvog 124-21-verantwortlichkeitsgesetz 126-1 126-581-pkg,26,main
+2017-10-01,law,gs-gs-2017-20,126-581-pkg,1,main
+2017-10-01,law,gs-gs-2017-25,125-12-go 211-1,5,main
+2017-12-01,start,gs-gs-2017-54,416-114-2-invol-reglement,14,main
+2018-01-01,start,gs-gs-2017-34,812-1-eg-usg,6,main
+2018-01-01,law,gs-gs-2016-24,831-1-sg,1,main
+2018-01-01,law,gs-gs-2016-38,625-11-fig 626-11-jag,54,main
+2018-01-01,law,gs-gs-2016-42,831-1-sg,3,main
+2018-01-01,law,gs-gs-2017-11,331-12-juvv,3,main
+2018-01-01,law,gs-gs-2017-12,626-15-japv,22,main
+2018-01-01,law,gs-gs-2017-21,614-11-steuergesetz,2,main
+2018-01-01,law,gs-gs-2017-22,618-111-gebaudeversicherungsgesetz-gvg,6,main
+2018-01-01,law,gs-gs-2017-24,112-11-burgerrechtsgesetz,6,main
+2018-01-01,law,gs-gs-2017-34,712-15-gwba,1,main
+2018-01-01,law,gs-gs-2017-35,817-11-spig 831-1-sg,9,main
+2018-01-01,law,gs-gs-2017-36,124-11-verwaltungsrechtspflegegesetz 125-12-go 311-1 817-11-spig,12,main
+2018-01-01,law,gs-gs-2017-39,531-2-bzvso,35,main
+2018-01-01,law,gs-gs-2017-40,712-15-gwba,63,main
+2018-01-01,law,gs-gs-2017-43,817-116-spivo 831-2-sv,7,main
+2018-01-01,law,gs-gs-2017-45,711-15-vvk,10,main
+2018-01-01,law,gs-gs-2017-46,614-72-hundeverordnung 626-12-jav 931-12-wavso,75,main
+2018-01-01,law,gs-gs-2017-47,416-112-vbb,6,main
+2018-01-01,law,gs-gs-2017-48,112-12-burgerrechtsverordnung,5,main
+2018-01-01,law,gs-gs-2017-59,122-218 212-152-vas,13,main
+2018-01-01,law,gs-gs-2017-62,211-1,7,main
+2018-03-01,law,gs-gs-2017-53,736-12,3,main
+2018-03-01,law,gs-gs-2017-58,126-31-personalrechtsverordnung-prv,1,main
+2018-03-01,law,gs-gs-2017-60,122-218,1,main
+2018-05-01,law,gs-gs-2017-61,115-1-wov-g,2,main
+2018-06-01,law,gs-gs-2018-10,711-61-kbv,7,main
+2018-06-28,law,gs-gs-2018-39,411-254-nareg-vo,1,main
+2018-07-01,start,gs-gs-2018-8,124-12-v-elub,18,main
+2018-07-01,start,gs-gs-2018-3,711-18-planungsausgleichsgesetz-pag,19,main
+2018-07-01,law,gs-gs-2017-18,126-1,5,main
+2018-07-01,law,gs-gs-2018-2,812-41-lrv-so,21,main
+2018-07-01,law,gs-gs-2018-3,614-11-steuergesetz 711-1-pbg,4,main
+2018-07-01,law,gs-gs-2018-8,129-11,1,main
+2018-08-01,law,gs-gs-2017-51,414-114-gymnasiumsverordnung-gymv,1,main
+2018-08-01,law,gs-gs-2017-52,416-144-abu-prufungsreglement,2,main
+2018-08-01,law,gs-gs-2018-6,414-472,6,main
+2018-08-01,law,gs-gs-2018-7,413-111-vsg,24,main
+2018-08-01,law,gs-gs-2018-9,414-132-fachmittelschulverordnung 414-151-2,14,main
+2018-08-01,law,gs-gs-2018-16,413-412-laufbahnreglement,10,main
+2018-10-01,start,gs-gs-2018-4,111-31-publikationsgesetz-pug,21,main
+2018-10-01,start,gs-gs-2018-15,111-32-publikationsverordnung-puv,13,main
+2018-11-01,law,gs-gs-2018-17,712-16-vwba,11,main
+2018-11-01,law,gs-gs-2018-18,413-121-1-vsv,1,main
+2019-01-01,law,gs-gs-2017-53,625-12-fivo,1,main
+2019-01-01,law,gs-gs-2018-11,831-1-sg,6,main
+2019-01-01,law,gs-gs-2018-21,115-11-wov-vo,3,main
+2019-01-01,law,gs-gs-2018-20,131-1-gg,1,main
+2019-01-01,law,gs-gs-2018-27,831-2-sv,3,main
+2019-01-01,law,gs-gs-2019-2,831-3-rkel,6,main
+2019-01-01,law,gs-gs-2018-33,725-11,1,main
+2019-02-01,law,gs-gs-2018-26,126-371-2-lernendenverordnung,4,main
+2019-04-01,law,gs-gs-2019-7,618-111-gebaudeversicherungsgesetz-gvg,8,main
+2019-06-01,law,gs-gs-2018-36,115-1-wov-g 126-1,19,main
+2019-07-01,law,gs-gs-2019-13,122-218,1,main
+2019-08-01,law,gs-gs-2018-31,414-441-5-promotionsreglement-maturitatsschulen,6,main
+2019-08-01,law,gs-gs-2018-22,414-118-passerelleverordnung,22,main
+2019-08-01,law,gs-gs-2019-23,413-412-laufbahnreglement,3,main
+2019-08-01,law,gs-gs-2019-14,125-71,4,main
+2019-08-01,law,gs-gs-2019-3,414-114-gymnasiumsverordnung-gymv,2,main
+2019-09-01,start,gs-gs-2019-12,811-16-kantonale-epidemienverordnung-v-epg,11,main
+2019-09-01,start,gs-gs-2019-11,813-14-heilmittel-und-betaubungsmittelverordnung-hbv,31,main
+2019-09-01,law,gs-gs-2018-34,211-1 413-111-vsg 511-11 811-11-gesg 817-11-spig 831-1-sg,94,main
+2019-09-01,law,gs-gs-2019-8,122-218 811-12-gesv 811-13 811-14 817-116-spivo,117,main
+2019-09-01,law,gs-gs-2019-18,113-111-gpr,5,main
+2019-10-01,law,gs-gs-2019-20,212-152-vas,1,main
+2020-01-01,start,gs-gs-2019-4,131-74-fiag-kg,44,main
+2020-01-01,start,gs-gs-2019-39,131-741-fiav-kg,25,main
+2020-01-01,start,gs-gs-2019-42,614-159-21,14,main
+2020-01-01,law,gs-gs-2019-4,614-11-steuergesetz,2,main
+2020-01-01,law,gs-gs-2019-32,831-1-sg,13,main
+2020-01-01,law,gs-gs-2019-33,831-1-sg,8,main
+2020-01-01,law,gs-gs-2019-34,831-1-sg,1,main
+2020-01-01,law,gs-gs-2019-24,131-731-finanz-und-lastenausgleichsverordnung-filav-eg,7,main
+2020-01-01,law,gs-gs-2019-26,941-24-engvb,3,main
+2020-01-01,law,gs-gs-2019-36,817-116-spivo 831-2-sv,2,main
+2020-01-01,law,gs-gs-2019-38,129-11,2,main
+2020-01-01,law,gs-gs-2019-30,614-11-steuergesetz,5,main
+2020-01-01,law,gs-gs-2019-40,614-12 614-14 614-159-03 614-159-07 614-159-10,12,main
+2020-01-01,law,gs-gs-2019-41,614-159-16,6,main
+2020-01-01,law,gs-gs-2020-5,131-73-finanz-und-lastenausgleichsgesetz-filag-eg 614-11-steuergesetz,58,main
+2020-01-01,law,gs-gs-2020-2,131-731-finanz-und-lastenausgleichsverordnung-filav-eg,4,main
+2020-01-01,law,gs-gs-2020-26,614-12,28,main
+2020-03-01,start,gs-gs-2019-47,812-2-biosv,11,main
+2020-03-01,law,gs-gs-2019-47,711-15-vvk,1,main
+2020-03-01,law,gs-gs-2019-50,711-271-geoiv,6,main
+2020-03-01,law,gs-gs-2019-45,125-12-go 211-1,4,main
+2020-03-01,law,gs-gs-2020-1,122-511-archivvo,1,main
+2020-05-01,law,gs-gs-2020-17,413-412-laufbahnreglement,2,main
+2020-05-18,law,gs-gs-2020-23,416-113-1,2,main
+2020-05-18,law,gs-gs-2020-24,414-472,3,main
+2020-05-18,law,gs-gs-2020-25,414-471-12,2,main
+2020-07-01,law,gs-gs-2020-4,732-1-ovg,2,main
+2020-08-01,law,gs-gs-2020-17,413-412-laufbahnreglement,2,main
+2020-08-21,law,gs-gs-2020-43,831-3-rkel,2,main
+2020-09-01,start,gs-gs-2020-3,521-1-eg-mw,16,main
+2020-09-01,start,gs-gs-2020-32,521-11-vbsa,11,main
+2020-09-01,law,gs-gs-2020-23,416-113-1,2,main
+2020-09-01,law,gs-gs-2020-24,414-472,3,main
+2020-09-01,law,gs-gs-2020-25,414-471-12,4,main
+2020-09-01,law,gs-gs-2020-3,125-12-go,1,main
+2020-10-19,law,gs-gs-2020-59,122-218 811-16-kantonale-epidemienverordnung-v-epg,4,main
+2020-11-01,start,gs-gs-2020-20,116-1-behopg,30,main
+2020-11-01,start,gs-gs-2020-44,116-2-behopv,13,main
+2020-11-01,law,gs-gs-2020-20,114-3-gesp,1,main
+2020-11-01,law,gs-gs-2020-44,124-12-v-elub,5,main
+2020-11-13,law,gs-gs-2020-70,414-133 414-441-5-promotionsreglement-maturitatsschulen,2,main
+2021-01-01,start,gs-gs-2020-53,837-536-1-slfg,18,main
+2021-01-01,start,gs-gs-2020-82,837-536-2-slfv,33,main
+2021-01-01,law,gs-gs-2020-5,614-11-steuergesetz 831-1-sg,4,main
+2021-01-01,law,gs-gs-2020-37,940-11-wag,15,main
+2021-01-01,law,gs-gs-2020-57,131-1-gg,2,main
+2021-01-01,law,gs-gs-2020-36,614-61 725-11,19,main
+2021-01-01,law,gs-gs-2010-62,811-16-kantonale-epidemienverordnung-v-epg,1,main
+2021-01-01,law,gs-gs-2020-55,126-511-329-4,8,main
+2021-01-01,law,gs-gs-2020-56,614-159-10,6,main
+2021-01-01,law,gs-gs-2020-46,614-11-steuergesetz,23,main
+2021-01-01,law,gs-gs-2020-47,614-11-steuergesetz,3,main
+2021-01-01,law,gs-gs-2020-48,614-11-steuergesetz,3,main
+2021-01-01,law,gs-gs-2020-53,211-1,2,main
+2021-01-01,law,gs-gs-2020-62,811-13,6,main
+2021-01-01,law,gs-gs-2020-63,614-159-03,17,main
+2021-01-01,law,gs-gs-2020-64,614-12,2,main
+2021-01-01,law,gs-gs-2020-65,212-478-41 212-478-42 614-159-15,7,main
+2021-01-01,law,gs-gs-2020-66,618-112-gebaudeversicherungsverordnung-gvv,39,main
+2021-01-01,law,gs-gs-2020-69,831-2-sv,1,main
+2021-01-01,law,gs-gs-2020-78,924-12,6,main
+2021-01-01,law,gs-gs-2020-92,614-159-03,1,main
+2021-03-01,law,gs-gs-2020-21,311-1 511-11,23,main
+2021-03-01,law,gs-gs-2020-75,940-12-vwag,6,main
+2021-04-01,law,gs-gs-2021-4,431-115,3,main
+2021-05-01,law,gs-gs-2021-9,122-218,1,main
+2021-06-01,law,gs-gs-2021-11,811-12-gesv,1,main
+2021-07-07,law,gs-gs-2021-28,711-61-kbv,3,main
+2021-08-01,start,gs-gs-2021-20,614-159-22,13,main
+2021-08-01,law,gs-gs-2020-49,125-12-go 127-10-anwaltsgesetz-anwg,10,main
+2021-08-01,law,gs-gs-2021-6,416-114-1-bvj-reglement,2,main
+2021-08-01,law,gs-gs-2021-14,414-133,15,main
+2021-08-01,law,gs-gs-2021-15,414-134-prufungsverordnung-fur-die-abschlussprufungen-der-fachmittelschule-fms,10,main
+2021-08-01,law,gs-gs-2021-34,414-133,1,main
+2021-08-01,law,gs-gs-2021-35,414-134-prufungsverordnung-fur-die-abschlussprufungen-der-fachmittelschule-fms,1,main
+2021-08-20,law,gs-gs-2021-19,311-4-kov,3,main
+2021-10-01,law,gs-gs-2021-24,831-2-sv,1,main
+2021-11-01,law,gs-gs-2020-73,125-12-go 311-1 331-11-juvg 511-11,63,main
+2021-11-01,law,gs-gs-2020-31,122-218,1,main
+2021-11-01,law,gs-gs-2021-31,331-12-juvv,54,main
+2021-11-01,law,gs-gs-2021-30,122-218,1,main
+2021-11-01,law,gs-gs-2021-49,416-113-1,5,main
+2021-11-01,law,gs-gs-2021-51,416-113-1,1,main
+2022-01-01,start,gs-gs-2022-1,940-20-covid-19-hartefallgesetz,16,main
+2022-01-01,law,gs-gs-2021-67,121-2,2,main
+2022-01-01,law,gs-gs-2020-41,131-1-gg,1,main
+2022-01-01,law,gs-gs-2020-72,126-581-pkg,10,main
+2022-01-01,law,gs-gs-2021-41,416-112-vbb,1,main
+2022-01-01,law,gs-gs-2021-42,626-15-japv,8,main
+2022-01-01,law,gs-gs-2021-43,921-12-alv,3,main
+2022-01-01,law,gs-gs-2021-44,614-159-13,1,main
+2022-01-01,law,gs-gs-2021-36,811-11-gesg 831-1-sg,23,main
+2022-01-01,law,gs-gs-2021-47,122-218 811-16-kantonale-epidemienverordnung-v-epg 831-2-sv,13,main
+2022-01-01,law,gs-gs-2021-61,618-111-gebaudeversicherungsgesetz-gvg,1,main
+2022-01-01,law,gs-gs-2021-66,121-1,3,main
+2022-01-01,law,gs-gs-2021-68,121-251,3,main
+2022-01-01,law,gs-gs-2022-2,614-11-steuergesetz,3,main
+2022-02-01,law,gs-gs-2021-69,411-254-nareg-vo,11,main
+2022-04-01,law,gs-gs-2022-8,414-472,1,main
+2022-06-01,law,gs-gs-2021-62,115-1-wov-g,1,main
+2022-07-01,start,gs-gs-2021-59,124-13,5,main
+2022-07-01,law,gs-gs-2021-38,124-11-verwaltungsrechtspflegegesetz 124-21-verantwortlichkeitsgesetz 125-12-go 721-54-subg,53,main
+2022-07-01,law,gs-gs-2021-60,721-55-subv,52,main
+2022-07-01,law,gs-gs-2021-27,124-11-verwaltungsrechtspflegegesetz 614-11-steuergesetz,2,main
+2022-07-01,law,gs-gs-2021-59,614-12,1,main
+2022-07-01,law,gs-gs-2022-9,115-11-wov-vo,1,main
+2022-08-01,law,gs-gs-2022-7,419-12-stipendienverordnung,4,main
+2022-08-01,law,gs-gs-2021-54,419-11-stipendiengesetz,2,main
+2022-08-01,law,gs-gs-2022-14,111-1-kv,3,main
+2022-09-01,start,gs-gs-2022-26,614-159-23,27,main
+2022-09-01,law,gs-gs-2022-23,121-1,3,main
+2022-10-01,law,gs-gs-2022-27,831-2-sv,1,main
+2022-11-01,law,gs-gs-2022-29,414-118-passerelleverordnung,1,main
+2023-01-01,start,gs-gs-2023-2,732-11-ovv,18,main
+2023-01-01,start,gs-gs-2022-47,941-26,4,main
+2023-01-01,law,gs-gs-2021-67,121-2,2,main
+2023-01-01,law,gs-gs-2022-2,614-11-steuergesetz,4,main
+2023-01-01,law,gs-gs-2022-21,614-61 732-1-ovg,25,main
+2023-01-01,law,gs-gs-2022-15,614-11-steuergesetz,5,main
+2023-01-01,law,gs-gs-2022-22,124-11-verwaltungsrechtspflegegesetz 131-1-gg,16,main
+2023-01-01,law,gs-gs-2022-34,435-141,1,main
+2023-02-23,law,gs-gs-2022-45,940-20-covid-19-hartefallgesetz,2,main
+2023-03-01,law,gs-gs-2023-6,416-112-vbb,9,main
+2023-05-01,law,gs-gs-2023-8,131-1-gg,1,main
+2023-05-01,law,gs-gs-2023-3,212-472,2,main
+2023-06-01,law,gs-gs-2023-7,511-12,23,main
+2023-07-01,law,gs-gs-2022-24,111-31-publikationsgesetz-pug 940-11-wag,8,main
+2023-07-01,law,gs-gs-2023-11,212-331-2,3,main
+2023-07-01,law,gs-gs-2023-26,811-11-gesg,5,main
+2023-07-01,law,gs-gs-2023-12,111-32-publikationsverordnung-puv 126-31-personalrechtsverordnung-prv 212-432,24,main
+2023-08-01,law,gs-gs-2022-3,413-111-vsg 414-11 415-211-fhg 416-111-gbb 811-11-gesg 831-1-sg,197,main
+2023-08-01,law,gs-gs-2022-33,122-218 126-161 413-121-1-vsv 413-614,165,main
+2023-08-01,law,gs-gs-2023-28,414-135,1,main
+2023-08-01,law,gs-gs-2023-34,414-471-12,15,main
+2023-08-01,law,gs-gs-2023-35,413-412-laufbahnreglement,66,main
+2023-08-01,law,gs-gs-2023-19,414-134-prufungsverordnung-fur-die-abschlussprufungen-der-fachmittelschule-fms,2,main
+2023-08-01,unexplained,,115-1-wov-g,1,main
+2023-09-01,law,gs-gs-2023-18,416-145-hf-pflege,16,main
+2023-09-01,law,gs-gs-2023-10,512-153-ev-aig-und-asylg,10,main
+2023-09-01,law,gs-gs-2023-25,113-114,5,main
+2023-10-01,law,gs-gs-2023-21,837-533,3,main
+2023-10-01,law,gs-gs-2023-20,122-218 811-12-gesv 811-13 813-14-heilmittel-und-betaubungsmittelverordnung-hbv 817-116-spivo 831-2-sv,27,main
+2024-01-01,start,gs-gs-2023-42,212-436,5,main
+2024-01-01,law,gs-gs-2022-35,112-11-burgerrechtsgesetz 113-111-gpr 131-1-gg,10,main
+2024-01-01,law,gs-gs-2022-36,131-51-regv,1,main
+2024-01-01,law,gs-gs-2023-1,112-12-burgerrechtsverordnung 113-112-vpr 127-11,7,main
+2024-01-01,law,gs-gs-2023-13,614-159-10 614-159-11,6,main
+2024-01-01,law,gs-gs-2023-31,122-112-rvov,1,main
+2024-01-01,law,gs-gs-2023-16,423-581-1 423-581-2,5,main
+2024-01-01,law,gs-gs-2023-43,113-112-vpr 122-218 811-16-kantonale-epidemienverordnung-v-epg,4,main
+2024-01-01,law,gs-gs-2023-36,831-1-sg,7,main
+2024-01-01,law,gs-gs-2023-37,211-1,2,main
+2024-01-01,law,gs-gs-2023-44,614-159-20,4,main
+2024-01-01,law,gs-gs-2024-26,614-11-steuergesetz,6,main
+2024-03-01,law,gs-gs-2024-26,614-11-steuergesetz,1,main
+2024-04-01,law,gs-gs-2023-48,331-11-juvg 511-11,8,main
+2024-07-01,start,gs-gs-2024-13,811-17-eg-ausbildungsfordergesetz-pflege,19,main
+2024-07-01,start,gs-gs-2024-15,811-18-v-eg-ausbildungsfordergesetz-pflege,22,main
+2024-07-01,law,gs-gs-2024-2,112-12-burgerrechtsverordnung,1,main
+2024-07-01,law,gs-gs-2024-15,122-218 811-12-gesv 811-422-4 817-116-spivo 831-2-sv,14,main
+2024-07-01,law,gs-gs-2024-13,811-11-gesg 817-11-spig 831-1-sg,27,main
+2024-08-01,law,gs-gs-2023-51,831-1-sg,5,main
+2024-08-01,law,gs-gs-2024-14,122-218 831-2-sv,7,main
+2024-10-01,start,gs-gs-2024-16,711-65-v-elbau,18,main
+2024-10-01,law,gs-gs-2024-4,711-1-pbg,6,main
+2024-10-01,law,gs-gs-2024-5,711-61-kbv,11,main
+2024-12-01,start,gs-gs-2024-24,811-121-zulassungsverordnung-zulav,11,main
+2025-01-01,start,gs-gs-2024-39,614-159-24,10,main
+2025-01-01,law,gs-gs-2024-8,126-1 211-1 618-111-gebaudeversicherungsgesetz-gvg,112,main
+2025-01-01,law,gs-gs-2024-33,111-1-kv,2,main
+2025-01-01,law,gs-gs-2024-19,125-12-go 211-1,3,main
+2025-01-01,law,gs-gs-2024-21,115-1-wov-g,1,main
+2025-01-01,law,gs-gs-2024-23,941-24-engvb,2,main
+2025-01-01,law,gs-gs-2024-17,831-1-sg,16,main
+2025-01-01,law,gs-gs-2024-31,831-2-sv,14,main
+2025-01-01,law,gs-gs-2024-18,831-1-sg,4,main
+2025-01-01,law,gs-gs-2024-26,614-11-steuergesetz,11,main
+2025-01-01,law,gs-gs-2024-35,837-536-2-slfv,24,main
+2025-01-01,law,gs-gs-2024-38,931-12-wavso,2,main
+2025-01-01,law,gs-gs-2025-5,614-159-22,1,main
+2025-01-01,law,gs-gs-2025-6,614-159-03,1,main
+2025-03-01,law,gs-gs-2024-46,122-218,2,main
+2025-03-15,law,gs-gs-2025-4,416-114-2-invol-reglement,3,main
+2025-04-01,start,gs-gs-2025-16,618-114,10,main
+2025-04-01,law,gs-gs-2025-1,126-31-personalrechtsverordnung-prv 212-478-41 212-478-42 614-159-23 618-112-gebaudeversicherungsverordnung-gvv,161,main
+2025-04-01,law,gs-gs-2025-8,614-159-21,1,main
+2025-05-01,start,gs-gs-2025-3,114-5-auslagerungsgesetz-ausg,12,main
+2025-05-01,law,gs-gs-2025-13,614-159-07,2,main
+2025-06-01,law,gs-gs-2025-9,128-213-jpv,3,main
+2025-08-01,law,gs-gs-2024-6,122-111-regierungs-und-verwaltungsorganisationsgesetz-rvog 124-21-verantwortlichkeitsgesetz 126-1,6,main
+2025-08-01,law,gs-gs-2024-7,121-2,1,main
+2025-08-01,law,gs-gs-2024-34,111-1-kv,2,main
+2025-08-01,law,gs-gs-2024-10,113-111-gpr 122-111-regierungs-und-verwaltungsorganisationsgesetz-rvog 124-11-verwaltungsrechtspflegegesetz 125-12-go,12,main
+2025-08-01,law,gs-gs-2025-19,416-113-1,2,main
+2025-08-01,law,gs-gs-2024-41,121-1,12,main
+2025-08-01,law,gs-gs-2024-42,121-2,21,main
+2025-09-01,law,gs-gs-2025-17,831-2-sv,2,main
+2025-09-01,law,gs-gs-2025-10,940-11-wag,2,main
+2025-10-01,start,gs-gs-2025-22,618-112-24-schatzungsreglement,17,main
+2025-10-01,start,gs-gs-2025-27,618-517-feuerwehrwesen-reglement,59,main
+2025-10-01,start,gs-gs-2025-23,618-56-beitragsreglement-pravention,36,main
+2026-01-01,start,gs-gs-2024-49,125-121-vaga,19,main
+2026-01-01,law,gs-gs-2024-49,128-111 128-213-jpv 322-12,9,main
+2026-01-01,law,gs-gs-2024-43,131-1-gg,16,main
+2026-01-01,law,gs-gs-2024-10,125-12-go,2,main
+2026-01-01,law,gs-gs-2025-7,112-12-burgerrechtsverordnung,1,main
+2026-01-01,law,gs-gs-2025-14,212-472 212-477-1-vav-so,23,main
+2026-01-01,law,gs-gs-2025-15,831-1-sg,1,main
+2026-01-01,law,gs-gs-2025-44,614-71-hundegesetz,11,main
+2026-01-01,law,gs-gs-2025-40,614-12 614-159-13 614-159-20,9,main
+2026-01-01,law,gs-gs-2025-41,831-2-sv,2,main
+2026-01-01,law,gs-gs-2025-42,212-152-vas,1,main
+2026-01-01,law,gs-gs-2025-43,125-71,1,main
+2026-01-01,law,gs-gs-2025-31,831-1-sg,1,main
+2026-01-01,law,gs-gs-2025-34,831-1-sg,7,main
+2026-01-01,law,gs-gs-2025-60,614-159-06,2,main
+2026-03-01,law,gs-gs-2025-46,128-213-jpv,1,main
+2026-03-01,law,gs-gs-2025-24,625-11-fig,14,main
+2026-03-01,law,gs-gs-2025-53,625-12-fivo,20,main
+2026-04-01,start,gs-gs-2026-1,811-19-aus-und-weiterbildungsverpflichtungsverordnung-gesundheitsberufe,15,main
+2026-04-01,law,gs-gs-2026-1,122-218 811-12-gesv 811-18-v-eg-ausbildungsfordergesetz-pflege 817-116-spivo 831-2-sv,62,main
+2026-04-01,law,gs-gs-2025-61,926-712-1,1,main
+2026-04-01,law,gs-gs-2026-2,613-31 613-41 614-12 614-159-01 614-159-02 614-159-04 614-159-07 614-159-08 614-159-11 614-159-15 614-159-24 614-175-611,77,main
+2026-06-01,law,gs-gs-2026-6,311-4-kov 614-72-hundeverordnung,13,main
+2026-07-01,law,gs-gs-2026-13,435-141,10,main
+2026-08-01,law,gs-gs-2026-3,414-116-3 414-116-4 414-116-221 414-135 414-441-5-promotionsreglement-maturitatsschulen 416-113-1,27,main
+2026-08-01,law,gs-gs-2026-4,416-142,6,main
+2026-08-01,law,gs-gs-2026-5,416-144-abu-prufungsreglement,21,main
+2026-08-01,law,gs-gs-2026-11,414-471-12,13,main
+2026-08-01,law,gs-gs-2026-12,414-472,10,main
+2026-08-01,law,gs-gs-2026-8,414-134-prufungsverordnung-fur-die-abschlussprufungen-der-fachmittelschule-fms,8,main
+2026-09-01,law,gs-gs-2026-16,811-17-eg-ausbildungsfordergesetz-pflege 817-11-spig 831-1-sg,72,main
+2026-09-01,law,gs-gs-2026-21,940-12-vwag,21,main
+2026-10-01,law,gs-gs-2026-20,122-112-rvov,6,main
+2027-01-01,law,gs-gs-2025-51,121-2,23,zukunft
+2027-01-01,law,gs-gs-2026-23,111-1-kv,35,zukunft
+2027-01-01,law,gs-gs-2026-24,121-1,14,zukunft
+2027-01-01,law,gs-gs-2025-11,940-11-wag,37,zukunft
+2027-01-01,law,gs-gs-2026-15,811-11-gesg 831-1-sg,6,zukunft
+2027-01-01,law,gs-gs-2025-37,831-1-sg,1,zukunft
+2027-08-01,law,gs-gs-2026-27,414-114-gymnasiumsverordnung-gymv,29,zukunft
+2028-01-01,law,gs-gs-2026-14,614-159-23,10,zukunft
