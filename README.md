@@ -8,7 +8,7 @@ The text is in German, the canton's official language, exactly as the canton pub
 
 ## What this repository holds
 
-291 acts with 933 versions so far: the cantonal constitution, the cantonal laws (Gesetze) in force and 218 Verordnungen and Reglemente in force, in the order of the systematic collection, added in parts. Other decrees and decisions, intercantonal agreements and repealed acts are not included yet.
+291 selected acts with dated BGS source versions: the cantonal constitution, the cantonal laws (Gesetze) in force and 218 Verordnungen and Reglemente in force, in the order of the systematic collection, added in parts. Other decrees and decisions, intercantonal agreements and repealed acts are not included yet.
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
@@ -92,9 +92,9 @@ The text is in German, the canton's official language, exactly as the canton pub
 | `114-4-vesp/` | Verordnung zum Gesetz über die Einwohnerregister- und die Stimmregisterplattform (BGS 114.4) | 1 | as enacted, 1 March 2016 |
 | `115-11-wov-vo/` | Verordnung zum Gesetz über die wirkungsorientierte Verwaltungsführung (BGS 115.11) | 5 | oldest version available, then each consolidated version: 1 May 2009 to 1 July 2022 |
 | `116-2-behopv/` | Verordnung über das Behördenportal (BGS 116.2) | 1 | as enacted, 1 November 2020 |
-| `121-2/` | Geschäftsreglement des Kantonsrates von Solothurn (BGS 121.2) | 11 | oldest version available, then each consolidated version: 3 September 2010 to 1 January 2027 |
+| `121-2/` | Geschäftsreglement des Kantonsrates von Solothurn (BGS 121.2) | [Version record](121-2/README.md) | Dated source versions; see the version record |
 | `121-251/` | Verordnung über die Fraktionsbeiträge (BGS 121.251) | 2 | oldest version available, then each consolidated version: 3 May 2005 to 1 January 2022 |
-| `122-112-rvov/` | Verordnung über die Organisation des Regierungsrates und der Verwaltung (BGS 122.112) | 4 | oldest version available, then each consolidated version: 1 January 2011 to 1 October 2026 |
+| `122-112-rvov/` | Verordnung über die Organisation des Regierungsrates und der Verwaltung (BGS 122.112) | [Version record](122-112-rvov/README.md) | Dated source versions; see the version record |
 | `122-132/` | Verordnung über die Delegation von Verwaltungsbefugnissen (BGS 122.132) | 1 | as enacted, 1 August 2000 |
 | `122-152/` | Verordnung zum Katastrophengesetz (BGS 122.152) | 1 | one version (the oldest available), 1 September 1993 |
 | `122-218/` | Verordnung über die Delegation der Unterschriftsberechtigung in den Departementen (BGS 122.218) | 29 | oldest version available, then each consolidated version: 1 January 2011 to 1 April 2026 |
@@ -118,7 +118,7 @@ The text is in German, the canton's official language, exactly as the canton pub
 | `126-51-1/` | Verordnung über die Besoldungen und die Arbeitszeit des Staatspersonals und der Lehrkräfte an kantonalen Schulen (BGS 126.51.1) | 1 | one version (the oldest available), 1 July 2010 |
 | `126-161/` | Verordnung über die Bearbeitung von Personendaten des Staatspersonals (BGS 126.161) | 3 | oldest version available, then each consolidated version: 1 January 2003 to 1 August 2023 |
 | `126-371-2-lernendenverordnung/` | Verordnung für Lernende der beruflichen Grundbildung (BGS 126.371.2) | 5 | oldest version available, then each consolidated version: 1 August 2007 to 1 February 2019 |
-| `126-511-31/` | Verordnung über die Sitzungsgelder und die Sitzungspauschalen (BGS 126.511.31) | 1 | one version (the oldest available), 1 April 2011 |
+| `126-511-31/` | Verordnung über die Sitzungsgelder und die Sitzungspauschalen (BGS 126.511.31) | [Version record](126-511-31/README.md) | Dated source versions; see the version record |
 | `126-511-329-4/` | Verordnung über die Entschädigung der für die Sportfachstelle tätigen Personen, insbesondere im Bereich Jugend+Sport (J+S) (BGS 126.511.329.4) | 2 | oldest version available, then each consolidated version: 1 January 2009 to 1 January 2021 |
 | `126-515-123-53/` | Verordnung über die Entschädigung der Experten bei den Schüler-Radfahrerprüfungen (BGS 126.515.123.53) | 2 | oldest version available, then each consolidated version: 1 September 2007 to 1 April 2016 |
 | `126-515-856-1/` | Verordnung über die Entschädigung von Kursleitern und Referenten an Jungbürger- und Neubürgerkursen (BGS 126.515.856.1) | 1 | as enacted, 1 August 1991 |
@@ -129,11 +129,11 @@ The text is in German, the canton's official language, exactly as the canton pub
 | `128-213-jpv/` | Juristische Prüfungsverordnung (BGS 128.213) | 4 | oldest version available, then each consolidated version: 1 January 2011 to 1 March 2026 |
 | `128-221/` | Verordnung über die Ausbildung von Fachpersonen der Amtschreiberei (BGS 128.221) | 2 | as enacted, then each consolidated version: 1 January 2006 to 1 January 2016 |
 | `129-11/` | Notariatsverordnung (BGS 129.11) | 8 | oldest version available, then each consolidated version: 1 February 2011 to 1 January 2020 |
-| `131-45/` | Verordnung über das Leumundszeugnis (BGS 131.45) | 1 | as enacted, 1 January 1988 |
+| `131-45/` | Verordnung über das Leumundszeugnis (BGS 131.45) | [Version record](131-45/README.md) | Dated source versions; see the version record |
 | `131-51-regv/` | Verordnung über die Harmonisierung amtlicher Register (BGS 131.51) | 3 | as enacted, then each consolidated version: 1 September 2008 to 1 January 2024 |
 | `131-731-finanz-und-lastenausgleichsverordnung-filav-eg/` | Verordnung über den Finanz- und Lastenausgleich der Einwohnergemeinden (BGS 131.731) | 2 | as enacted, then each consolidated version: 1 January 2016 to 1 January 2020 |
 | `131-741-fiav-kg/` | Verordnung über den Finanzausgleich der Kirchgemeinden (BGS 131.741) | 1 | as enacted, 1 January 2020 |
-| `212-11-vzd/` | Verordnung über den Zivilstandsdienst (BGS 212.11) | 3 | as enacted, then each consolidated version: 1 January 2007 to 1 July 2017 |
+| `212-11-vzd/` | Verordnung über den Zivilstandsdienst (BGS 212.11) | [Version record](212-11-vzd/README.md) | Dated source versions; see the version record |
 | `212-152-vas/` | Verordnung über die Aufsicht über Stiftungen (BGS 212.152) | 5 | oldest version available, then each consolidated version: 1 January 2009 to 1 January 2026 |
 | `212-331-inventarisations-verordnung/` | Verordnung über die Inventaraufnahme und Schätzung im Erbgang (BGS 212.331) | 2 | oldest version available, then each consolidated version: 1 January 2007 to 1 January 2013 |
 | `212-331-2/` | Verordnung über die Entschädigung der Inventurbeamten (BGS 212.331.2) | 2 | as enacted, then each consolidated version: 1 May 1992 to 1 July 2023 |
@@ -157,9 +157,9 @@ The text is in German, the canton's official language, exactly as the canton pub
 | `331-12-juvv/` | Verordnung über den Justizvollzug (BGS 331.12) | 6 | oldest version available, then each consolidated version: 1 February 2011 to 1 November 2021 |
 | `411-254-nareg-vo/` | Verordnung zum Register über die Gesundheitsfachpersonen NAREG (BGS 411.254) | 3 | as enacted, then each consolidated version: 1 January 2017 to 1 February 2022 |
 | `413-121-1-vsv/` | Volksschulverordnung (BGS 413.121.1) | 7 | oldest version available, then each consolidated version: 1 January 2011 to 1 August 2023 |
-| `413-412-laufbahnreglement/` | Laufbahnreglement für die Volksschule (BGS 413.412) | 9 | as enacted, then each consolidated version: 1 August 2011 to 1 August 2023 |
+| `413-412-laufbahnreglement/` | Laufbahnreglement für die Volksschule (BGS 413.412) | [Version record](413-412-laufbahnreglement/README.md) | Dated source versions; see the version record |
 | `413-614/` | Verordnung über die Gemeindebeiträge an die Kosten der gymnasialen Ausbildung während der obligatorischen Schulzeit (BGS 413.614) | 4 | as enacted, then each consolidated version: 1 January 2007 to 1 August 2023 |
-| `414-71/` | Verordnung über die Benützung von Schulräumen und Schulanlagen der Kantons- und Berufsschulen (BGS 414.71) | 1 | one version (the oldest available), 1 December 2010 |
+| `414-71/` | Verordnung über die Benützung von Schulräumen und Schulanlagen der Kantons- und Berufsschulen (BGS 414.71) | [Version record](414-71/README.md) | Dated source versions; see the version record |
 | `414-113/` | Mittelschulverordnung (BGS 414.113) | 4 | oldest version available, then each consolidated version: 1 January 2007 to 1 May 2017 |
 | `414-114-gymnasiumsverordnung-gymv/` | Verordnung über die gymnasialen Maturitätsschulen (BGS 414.114) | 6 | oldest version available, then each consolidated version: 1 August 2010 to 1 August 2027 |
 | `414-116-3/` | Reglement über die Übertrittsbedingungen von Schülerinnen und Schülern der Sekundarstufe I aus den Bezirken Dorneck und Thierstein in die allgemeinbildenden Schulen der Sekundarstufe II des Kantons Basel-Landschaft (BGS 414.116.3) | 2 | as enacted, then each consolidated version: 1 August 2017 to 1 August 2026 |
@@ -185,13 +185,13 @@ The text is in German, the canton's official language, exactly as the canton pub
 | `416-144-abu-prufungsreglement/` | Reglement über das Qualifikationsverfahren im Fach Allgemeinbildung in der beruflichen Grundbildung (BGS 416.144) | 3 | as enacted, then each consolidated version: 1 August 2013 to 1 August 2026 |
 | `416-145-hf-pflege/` | Studienreglement der Höheren Fachschule Pflege (BGS 416.145) | 2 | as enacted, then each consolidated version: 1 February 2015 to 1 September 2023 |
 | `416-353-652/` | Verordnung über den Einsatz und die Entschädigung von Expertinnen und Experten an den Berufsmaturitätsprüfungen (BGS 416.353.652) | 1 | one version (the oldest available), 1 January 2003 |
-| `419-12-stipendienverordnung/` | Vollzugsverordnung zum Gesetz über Ausbildungsbeiträge (BGS 419.12) | 4 | oldest version available, then each consolidated version: 1 August 2008 to 1 August 2022 |
+| `419-12-stipendienverordnung/` | Vollzugsverordnung zum Gesetz über Ausbildungsbeiträge (BGS 419.12) | [Version record](419-12-stipendienverordnung/README.md) | Dated source versions; see the version record |
 | `431-115/` | Verordnung über das Kuratorium für Kulturförderung (BGS 431.115) | 2 | as enacted, then each consolidated version: 1 July 2004 to 1 April 2021 |
 | `431-117/` | Verordnung über die künstlerische Ausschmückung staatlicher Bauten (BGS 431.117) | 1 | one version (the oldest available), 1 July 2004 |
 | `435-141/` | Verordnung über den Natur- und Heimatschutz (BGS 435.141) | 3 | oldest version available, then each consolidated version: 1 January 2010 to 1 July 2026 |
 | `435-146/` | Verordnung über den Pflanzenschutz (BGS 435.146) | 1 | one version (the oldest available), 23 February 1972 |
 | `435-148-5/` | Verordnung über den Schutz der Weinbergschnecke (BGS 435.148.5) | 1 | as enacted, 12 September 1968 |
-| `436-11-kulturdenkmaler-verordnung/` | Verordnung über den Schutz der historischen Kulturdenkmäler (BGS 436.11) | 1 | as enacted, 1 August 2005 |
+| `436-11-kulturdenkmaler-verordnung/` | Verordnung über den Schutz der historischen Kulturdenkmäler (BGS 436.11) | [Version record](436-11-kulturdenkmaler-verordnung/README.md) | Dated source versions; see the version record |
 | `511-12/` | Dienstreglement für die Kantonspolizei (BGS 511.12) | 2 | oldest version available, then each consolidated version: 1 September 2007 to 1 June 2023 |
 | `511-13-poldavo/` | Verordnung über die polizeiliche Datenerhebung, -bearbeitung und –speicherung (BGS 511.13) | 2 | as enacted, then each consolidated version: 1 August 2003 to 1 January 2016 |
 | `511-121-dienstaufsichtsverordnung/` | Verordnung über die Dienstaufsicht und Kontrolle der Tätigkeiten der Polizei Kanton Solothurn zur Wahrung der inneren Sicherheit (BGS 511.121) | 1 | as enacted, 1 January 2013 |
@@ -213,7 +213,7 @@ The text is in German, the canton's official language, exactly as the canton pub
 | `614-136/` | Verordnung über die Entschädigung der Staatssteuerregisterführer und Staatssteuerregisterführerinnen (BGS 614.136) | 1 | one version (the oldest available), 1 January 2008 |
 | `614-159-01/` | Steuerverordnung Nr. 1: Organisation des kantonalen Steuerwesens für die Veranlagung der Haupt- und Nebensteuern des Staates und der direkten Bundessteuer (BGS 614.159.01) | 3 | oldest version available, then each consolidated version: 1 January 2008 to 1 April 2026 |
 | `614-159-02/` | Steuerverordnung Nr. 2: Organisation des kantonalen Steuerwesens für die Veranlagung der Grundstückgewinnsteuer (BGS 614.159.02) | 3 | oldest version available, then each consolidated version: 1 January 2004 to 1 April 2026 |
-| `614-159-03/` | Steuerverordnung Nr. 3: Erhebung der Quellensteuer (BGS 614.159.03) | 6 | oldest version available, then each consolidated version: 1 January 2004 to 1 January 2025 |
+| `614-159-03/` | Steuerverordnung Nr. 3: Erhebung der Quellensteuer (BGS 614.159.03) | [Version record](614-159-03/README.md) | Dated source versions; see the version record |
 | `614-159-04/` | Steuerverordnung Nr. 4: Organisation des kantonalen Steuerwesens für die Veranlagung der Nebensteuern (Handänderungssteuer, Nachlasstaxe, Erbschafts- und Schenkungssteuer) (BGS 614.159.04) | 3 | oldest version available, then each consolidated version: 1 January 1998 to 1 April 2026 |
 | `614-159-05/` | Steuerverordnung Nr. 5: Organisation des Steuerbezuges für die Haupt- und Nebensteuern des Staates (BGS 614.159.05) | 2 | oldest version available, then each consolidated version: 1 January 2008 to 1 January 2016 |
 | `614-159-06/` | Steuerverordnung Nr. 6: Meldewesen und Amtshilfe im Steuerverfahren (BGS 614.159.06) | 2 | oldest version available, then each consolidated version: 1 January 2009 to 1 January 2026 |
@@ -238,24 +238,24 @@ The text is in German, the canton's official language, exactly as the canton pub
 | `618-112-gebaudeversicherungsverordnung-gvv/` | Vollzugsverordnung zum Gesetz über die Gebäudeversicherung, den Brandschutz und die Elementarschadenprävention, die Feuerwehr und den Elementarschadenfonds (BGS 618.112) | 4 | oldest version available, then each consolidated version: 1 January 2008 to 1 April 2025 |
 | `618-112-24-schatzungsreglement/` | Reglement über die Schätzung von Versicherungswert und Schäden (BGS 618.112.24) | 1 | as enacted, 1 October 2025 |
 | `618-114/` | Verordnung über die Entschädigung des Verwaltungsrates der Solothurnischen Gebäudeversicherung (BGS 618.114) | 1 | as enacted, 1 April 2025 |
-| `618-517-feuerwehrwesen-reglement/` | Reglement betreffend Feuerwehren und Löschwasserversorgung (BGS 618.517) | 1 | as enacted, 1 October 2025 |
+| `618-517-feuerwehrwesen-reglement/` | Reglement betreffend Feuerwehren und Löschwasserversorgung (BGS 618.517) | [Version record](618-517-feuerwehrwesen-reglement/README.md) | Dated source versions; see the version record |
 | `625-12-fivo/` | Fischereiverordnung (BGS 625.12) | 4 | oldest version available, then each consolidated version: 1 February 2010 to 1 March 2026 |
-| `626-12-jav/` | Jagdverordnung (BGS 626.12) | 3 | oldest version available, then each consolidated version: 1 August 2006 to 1 January 2018 |
+| `626-12-jav/` | Jagdverordnung (BGS 626.12) | [Version record](626-12-jav/README.md) | Dated source versions; see the version record |
 | `626-15-japv/` | Jagdprüfungsverordnung (BGS 626.15) | 4 | oldest version available, then each consolidated version: 1 January 2007 to 1 January 2022 |
-| `711-15-vvk/` | Verordnung über Verfahrenskoordination und Umweltverträglichkeitsprüfung (BGS 711.15) | 3 | oldest version available, then each consolidated version: 1 July 2002 to 1 March 2020 |
+| `711-15-vvk/` | Verordnung über Verfahrenskoordination und Umweltverträglichkeitsprüfung (BGS 711.15) | [Version record](711-15-vvk/README.md) | Dated source versions; see the version record |
 | `711-25/` | Verordnung über Staatsbeiträge an die Kosten der Orts- und Regionalplanung (BGS 711.25) | 1 | one version (the oldest available), 1 January 1997 |
 | `711-31/` | Verordnung über Baulandumlegung und Grenzbereinigung (BGS 711.31) | 1 | as enacted, 1 July 1979 |
 | `711-41-gbv/` | Kantonale Verordnung über Grundeigentümerbeiträge und -gebühren (BGS 711.41) | 3 | oldest version available, then each consolidated version: 1 September 2010 to 1 March 2013 |
-| `711-61-kbv/` | Kantonale Bauverordnung (BGS 711.61) | 6 | oldest version available, then each consolidated version: 1 January 2008 to 1 October 2024 |
+| `711-61-kbv/` | Kantonale Bauverordnung (BGS 711.61) | [Version record](711-61-kbv/README.md) | Dated source versions; see the version record |
 | `711-65-v-elbau/` | Verordnung über das elektronische Baugesuchsverfahren (BGS 711.65) | 1 | as enacted, 1 October 2024 |
 | `711-271-geoiv/` | Geoinformationsverordnung (BGS 711.271) | 2 | as enacted, then each consolidated version: 1 March 2016 to 1 March 2020 |
 | `711-515/` | Verordnung über den Schutz von Fossilien und Mineralien (BGS 711.515) | 1 | as enacted, 23 November 1989 |
-| `712-16-vwba/` | Verordnung über Wasser, Boden und Abfall (BGS 712.16) | 3 | as enacted, then each consolidated version: 1 October 2010 to 1 November 2018 |
-| `712-922/` | Verordnung über den kantonalen Schadendienst (BGS 712.922) | 2 | as enacted, then each consolidated version: 1 November 2000 to 1 January 2014 |
-| `721-55-subv/` | Submissionsverordnung (BGS 721.55) | 3 | oldest version available, then each consolidated version: 1 January 2005 to 1 July 2022 |
+| `712-16-vwba/` | Verordnung über Wasser, Boden und Abfall (BGS 712.16) | [Version record](712-16-vwba/README.md) | Dated source versions; see the version record |
+| `712-922/` | Verordnung über den kantonalen Schadendienst (BGS 712.922) | [Version record](712-922/README.md) | Dated source versions; see the version record |
+| `721-55-subv/` | Submissionsverordnung (BGS 721.55) | [Version record](721-55-subv/README.md) | Dated source versions; see the version record |
 | `725-112-kantonsstrassen-beitragsverordnung/` | Verordnung über die Festsetzung der Beiträge der Einwohnergemeinden an den Bau von Kantonsstrassen (BGS 725.112) | 1 | as enacted, 1 January 2003 |
 | `725-126/` | Verordnung über den Unterhalt und den Ausbau von Strassen im Berggebiet sowie von einfachen Parkplätzen im Erholungsgebiet aus den zweckgebundenen Mitteln der Motorfahrzeugsteuer (BGS 725.126) | 1 | one version (the oldest available), 24 May 1984 |
-| `732-11-ovv/` | Verordnung über den öffentlichen Verkehr (BGS 732.11) | 1 | as enacted, 1 January 2023 |
+| `732-11-ovv/` | Verordnung über den öffentlichen Verkehr (BGS 732.11) | [Version record](732-11-ovv/README.md) | Dated source versions; see the version record |
 | `733-11/` | Verordnung über den Strassenverkehr (BGS 733.11) | 4 | oldest version available, then each consolidated version: 1 January 1997 to 1 April 2014 |
 | `736-12/` | Verordnung über die Schifffahrt (BGS 736.12) | 3 | oldest version available, then each consolidated version: 1 January 2010 to 1 March 2018 |
 | `737-1/` | Verordnung über die Einführung des Bundesgesetzes über die Luftfahrt (Luftfahrtsgesetz) (BGS 737.1) | 1 | one version (the oldest available), 13 December 1979 |
@@ -264,9 +264,9 @@ The text is in German, the canton's official language, exactly as the canton pub
 | `811-13/` | Verordnung über die Amteiärzte und Amteiärztinnen sowie die Infektionsärzte und Infektionsärztinnen (BGS 811.13) | 5 | as enacted, then each consolidated version: 1 October 2004 to 1 October 2023 |
 | `811-14/` | Verordnung zum Schutz vor Passivrauchen (BGS 811.14) | 2 | oldest version available, then each consolidated version: 1 May 2010 to 1 September 2019 |
 | `811-16-kantonale-epidemienverordnung-v-epg/` | Verordnung über den Vollzug der eidgenössischen Epidemiengesetzgebung (BGS 811.16) | 5 | as enacted, then each consolidated version: 1 September 2019 to 1 January 2024 |
-| `811-18-v-eg-ausbildungsfordergesetz-pflege/` | Verordnung zum Einführungsgesetz zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege (BGS 811.18) | 2 | as enacted, then each consolidated version: 1 July 2024 to 1 April 2026 |
-| `811-19-aus-und-weiterbildungsverpflichtungsverordnung-gesundheitsberufe/` | Verordnung über die Aus- und Weiterbildung in nicht-universitären Gesundheitsberufen (BGS 811.19) | 1 | as enacted, 1 April 2026 |
-| `811-121-zulassungsverordnung-zulav/` | Verordnung über die Zulassung von Leistungserbringern im ambulanten Bereich zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung (BGS 811.121) | 1 | as enacted, 1 December 2024 |
+| `811-18-v-eg-ausbildungsfordergesetz-pflege/` | Verordnung zum Einführungsgesetz zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege (BGS 811.18) | [Version record](811-18-v-eg-ausbildungsfordergesetz-pflege/README.md) | Dated source versions; see the version record |
+| `811-19-aus-und-weiterbildungsverpflichtungsverordnung-gesundheitsberufe/` | Verordnung über die Aus- und Weiterbildung in nicht-universitären Gesundheitsberufen (BGS 811.19) | [Version record](811-19-aus-und-weiterbildungsverpflichtungsverordnung-gesundheitsberufe/README.md) | Dated source versions; see the version record |
+| `811-121-zulassungsverordnung-zulav/` | Verordnung über die Zulassung von Leistungserbringern im ambulanten Bereich zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung (BGS 811.121) | [Version record](811-121-zulassungsverordnung-zulav/README.md) | Dated source versions; see the version record |
 | `811-422-4/` | Verordnung über den Lohn und die Entschädigung der Studierenden der höheren Berufsbildung (Diplompflege HF) bei der Solothurner Spitäler AG (BGS 811.422.4) | 2 | as enacted, then each consolidated version: 1 September 2011 to 1 July 2024 |
 | `812-2-biosv/` | Biosicherheitsverordnung (BGS 812.2) | 1 | as enacted, 1 March 2020 |
 | `812-41-lrv-so/` | Luftreinhalte-Verordnung (BGS 812.41) | 2 | oldest version available, then each consolidated version: 1 September 2008 to 1 July 2018 |
@@ -279,7 +279,7 @@ The text is in German, the canton's official language, exactly as the canton pub
 | `817-116-spivo/` | Verordnung über die Spitalliste (BGS 817.116) | 8 | as enacted, then each consolidated version: 1 January 2012 to 1 April 2026 |
 | `821-51/` | Verordnung zur Einführung des Gleichstellungsgesetzes (BGS 821.51) | 1 | one version (the oldest available), 1 January 2011 |
 | `831-2-sv/` | Sozialverordnung (BGS 831.2) | 19 | oldest version available, then each consolidated version: 1 April 2010 to 1 April 2026 |
-| `831-3-rkel/` | Reglement über die Vergütung von Krankheits- und Behinderungskosten bei den Ergänzungsleistungen (BGS 831.3) | 3 | oldest version available, then each consolidated version: 1 January 2011 to 21 August 2020 |
+| `831-3-rkel/` | Reglement über die Vergütung von Krankheits- und Behinderungskosten bei den Ergänzungsleistungen (BGS 831.3) | [Version record](831-3-rkel/README.md) | Dated source versions; see the version record |
 | `832-15-aup/` | Verordnung über die Akut- und Übergangspflege (BGS 832.15) | 2 | as enacted, then each consolidated version: 1 January 2011 to 1 October 2012 |
 | `832-214/` | Reglement über die Prämienverbilligung in Härtefällen (BGS 832.214) | 1 | as enacted, 1 January 2001 |
 | `832-215/` | Reglement über die Prämienverbilligung für Personen, die an der Quelle besteuert werden (BGS 832.215) | 1 | as enacted, 1 June 2002 |
@@ -299,14 +299,14 @@ The text is in German, the canton's official language, exactly as the canton pub
 | `931-12-wavso/` | Waldverordnung (BGS 931.12) | 3 | oldest version available, then each consolidated version: 1 August 2008 to 1 January 2025 |
 | `931-72/` | Verordnung über Waldfeststellung und Waldabstand (BGS 931.72) | 1 | one version (the oldest available), 1 January 1997 |
 | `940-12-vwag/` | Verordnung zum Wirtschafts- und Arbeitsgesetz (BGS 940.12) | 3 | as enacted, then each consolidated version: 1 January 2016 to 1 September 2026 |
-| `941-22-envso/` | Verordnung zum Energiegesetz (BGS 941.22) | 1 | as enacted, 1 January 2011 |
-| `941-24-engvb/` | Verordnung zum Energiegesetz über Staatsbeiträge (BGS 941.24) | 5 | as enacted, then each consolidated version: 1 July 1993 to 1 January 2025 |
+| `941-22-envso/` | Verordnung zum Energiegesetz (BGS 941.22) | [Version record](941-22-envso/README.md) | Dated source versions; see the version record |
+| `941-24-engvb/` | Verordnung zum Energiegesetz über Staatsbeiträge (BGS 941.24) | [Version record](941-24-engvb/README.md) | Dated source versions; see the version record |
 | `941-25-stromvg/` | Einführungsverordnung zum Bundesgesetz über die Stromversorgung (BGS 941.25) | 1 | as enacted, 1 July 2010 |
 | `941-26/` | Einführungsverordnung zum Bundesgesetz über dringliche Massnahmen zur kurzfristigen Bereitstellung einer sicheren Stromversorgung im Winter (BGS 941.26) | 1 | as enacted, 1 January 2023 |
 
 ## Source
 
-The BGS (systematic collection) of the canton, published by the canton at <https://bgs.so.ch/>. For each act it gives every consolidated version it holds, with the day each version took effect, and a change table listing each amendment: its decision date, the day it took effect, the provision it touched and its entry in the chronological collection (GS). Annexes the collection publishes only as separate PDF files are not included.
+The BGS (systematic collection) of the canton, published by the canton at <https://bgs.so.ch/>. For each act it gives every consolidated version it holds, with the day each version took effect, and a change table listing each amendment: its decision date, the day it took effect, the provision it touched and its entry in the chronological collection (GS). Separate PDF annexes and normative diagrams are part of the official law. This selected corpus remains incomplete where those documents are absent. Each act’s files and version record identify the text included.
 
 ## Dates
 

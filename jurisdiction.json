@@ -5,7 +5,7 @@
   "level": "canton",
   "parent": "ch",
   "repo": "https://github.com/lexifina/switzerland-solothurn-law",
-  "build": "built: constitution, cantonal laws and Verordnungen (291 acts, 933 versions) from the BGS",
+  "build": "selected acts: constitution, cantonal laws and Verordnungen (291 acts) with dated BGS source versions; separate annexes and normative diagrams remain incomplete; see per-act version records",
   "language": "de",
   "sources": 1
 }
