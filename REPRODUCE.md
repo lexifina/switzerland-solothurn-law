@@ -1,6 +1,6 @@
 # How this repository was made (Solothurn)
 
-This file is written by the build on 2026-10-30, the day the source data was retrieved.
+This file is written by the build on 2026-11-24, the day the source data was retrieved.
 
 ## Sources
 
@@ -305,20 +305,80 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `941-24-engvb` | Verordnung zum Energiegesetz über Staatsbeiträge | 5 | 1993-07-01 to 2025-01-01 |
 | `941-25-stromvg` | Einführungsverordnung zum Bundesgesetz über die Stromversorgung | 1 | 2010-07-01 to 2010-07-01 |
 | `941-26` | Einführungsverordnung zum Bundesgesetz über dringliche Massnahmen zur kurzfristigen Bereitstellung einer sicheren Stromversorgung im Winter | 1 | 2023-01-01 to 2023-01-01 |
+| `111-23` | Bereinigung der Wappen der Bezirke des Kantons Solothurn | 1 | 1988-01-01 to 1988-01-01 |
+| `114-2-infodv` | Informations- und Datenschutzverordnung | 2 | 2004-07-01 to 2023-07-01 |
+| `121-27-ipk` | Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz | 2 | 2022-01-01 to 2023-02-25 |
+| `121-211` | Pflichtenheft für die Sachkommissionen des Kantonsrates von Solothurn | 1 | 2001-12-18 to 2001-12-18 |
+| `121-212` | Pflichtenheft für die Geschäftsprüfungskommission (GPK) des Kantonsrates von Solothurn | 1 | 2001-01-01 to 2001-01-01 |
+| `121-213` | Pflichtenheft für die Finanzkommission (FIKO) des Kantonsrates von Solothurn | 1 | 2001-12-18 to 2001-12-18 |
+| `121-214` | Pflichtenheft für die Justizkommission (JUKO) des Kantonsrates von Solothurn | 1 | 2001-12-18 to 2001-12-18 |
+| `122-171` | Vereinbarung über die Nordwestschweizer Regierungskonferenz | 4 | 2004-07-01 to 2025-07-01 |
+| `124-121` | Entschädigungen für Einvernahmen bei Administrativ-Untersuchungen | 1 | 1943-06-12 to 1943-06-12 |
+| `125-432-2` | Doppelbesetzung des Amtsgerichtspräsidiums von Bucheggberg-Wasseramt | 1 | 1988-01-01 to 1988-01-01 |
+| `125-434-1` | Definitive Schaffung der Stelle eines dritten Amtsgerichtspräsidenten auf dem Richteramt Olten-Gösgen | 1 | 1988-10-19 to 1988-10-19 |
+| `125-946-1` | Vereinigung des Sekretariats des Kantonalen Steuergerichtes mit dem Sekretariat der Kantonalen Schätzungskommission | 1 | 1967-02-21 to 1967-02-21 |
+| `131-3` | Verzeichnis der solothurnischen Gemeinden | 15 | 2010-01-01 to 2026-01-01 |
+| `131-732` | Steuerungsgrössen im Finanz- und Lastenausgleich der Einwohnergemeinden für das Jahr 2026 | 11 | 2016-01-01 to 2026-01-01 |
+| `212-15` | Vereinbarung der Kantone Aargau und Solothurn über die BVG-Aufsicht | 1 | 2018-01-01 to 2018-01-01 |
+| `212-473-91` | Gebührentarif für die Nachführung der Vermessungswerke | 1 | 1975-01-01 to 1975-01-01 |
+| `212-477-2` | Amtliche Vermessung: Unterteilung des Kantonsgebietes in Nachführungskreise | 1 | 1997-03-04 to 1997-03-04 |
+| `212-478-3` | Allgemeine Revision der Katasterschätzung | 1 | 1982-01-01 to 1982-01-01 |
+| `212-478-31` | Inkraftsetzung der allgemeinen Revision der Katasterschätzung | 1 | 1982-01-01 to 1982-01-01 |
+| `221-2-eg-zpo` | Einführungsgesetz zur Schweizerischen Zivilprozessordnung | 5 | 2011-01-01 to 2025-01-01 |
+| `321-3-eg-stpo` | Einführungsgesetz zur Schweizerischen Strafprozessordnung und zur Schweizerischen Jugendstrafprozessordnung | 11 | 2011-01-01 to 2024-01-01 |
+| `326-1` | Übernahme der Schutzaufsicht durch den Kanton | 1 | 1993-06-01 to 1993-06-01 |
+| `331-16-ho-jva` | Hausordnung für die Justizvollzugsanstalt des Kantons Solothurn | 2 | 2014-07-01 to 2022-01-01 |
+| `331-17-ho-g` | Hausordnung für die Gefängnisse des Kantons Solothurn | 2 | 2014-07-01 to 2022-01-01 |
+| `411-29-interkantonale-spitalschulvereinbarung-isv` | Interkantonale Vereinbarung für schulische Angebote in Spitälern | 1 | 2026-01-01 to 2026-01-01 |
+| `411-214-1-harmos-konkordat` | Interkantonale Vereinbarung über die Harmonisierung der obligatorischen Schule | 1 | 2009-08-01 to 2009-08-01 |
+| `411-251` | Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen | 1 | 2017-01-01 to 2017-01-01 |
+| `411-261-interkantonale-universitatsvereinbarung-iuv` | Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen | 3 | 1999-01-01 to 2022-01-01 |
+| `411-263-2-hfsv` | Interkantonale Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen | 1 | 2014-01-01 to 2014-01-01 |
+| `411-265-hochschulkonkordat` | Interkantonale Vereinbarung über den schweizerischen Hochschulbereich | 1 | 2015-01-01 to 2015-01-01 |
+| `411-271-ilz-statut` | Statut der Interkantonalen Lehrmittelzentrale ilz | 2 | 2014-01-01 to 2022-01-01 |
+| `413-414` | Vertrag zwischen den Kantonen Basel-Landschaft und Solothurn über die Abgeltung von Schulbesuchen von Schülerinnen und Schülern aus Dornach an der Sekundarschule, Anforderungsniveau P, in den Sekundarschulkreisen Birseck und Laufental des Kantons Basel-Landschaft | 3 | 2016-08-01 to 2026-08-01 |
+| `414-116-2` | Errichtung und Betrieb des Regionalen Gymnasiums Laufental-Thierstein in Laufen | 1 | 1975-10-02 to 1975-10-02 |
+| `414-116-21` | Vertrag über das Regionale Gymnasium Laufental-Thierstein | 2 | 2006-07-01 to 2014-08-01 |
+| `414-481-ado-mittelschulen` | Absenzen- und Disziplinarordnung der kantonalen Mittelschulen | 4 | 2009-01-01 to 2022-08-01 |
+| `416-211` | Einführung der Akademischen Berufsberatung | 1 | 1968-12-12 to 1968-12-12 |
+| `416-327` | Führung eines Lehrateliers für Damenschneiderinnen im Neubau des Berufsbildungszentrums Olten | 1 | 1980-04-01 to 1980-04-01 |
+| `416-353-13` | Absenzen- und Disziplinarordnung der kantonalen Berufsfachschulen | 4 | 2010-08-01 to 2024-02-01 |
+| `416-962` | Beitritt zur revidierten Interkantonalen Vereinbarung über die Hochschule für Heilpädagogik Zürich | 1 | 2001-02-07 to 2001-02-07 |
+| `423-71` | Wiedereinsetzung der Klöster in die Selbstverwaltung ihrer Güter | 1 | 1969-01-31 to 1969-01-31 |
+| `423-541` | Gesetz über die Prüfungen der Pfarrgeistlichen | 1 | 1926-05-07 to 1926-05-07 |
+| `423-582-1` | Änderung der versicherten Besoldung in der Alters, und Invalidenversicherung der römisch, katholischen Weltgeistlichen | 1 | 1991-01-01 to 1991-01-01 |
+| `423-751` | Novizenaufnahme für Frauenklöster | 1 | 1970-09-08 to 1970-09-08 |
+| `423-761` | Wiedereröffnung des Kapuzinernoviziats | 1 | 1803-10-29 to 1803-10-29 |
+| `423-772` | Volksbeschluss über das Kloster Mariastein | 1 | 1971-01-01 to 1971-01-01 |
+| `424-581-1` | Errichtung einer Pensionskasse für die christkatholischen und evangelisch-reformierten Geistlichen des Kantons Solothurn | 2 | 1963-06-26 to 2024-01-01 |
+| `434-311` | Errichtung einer öffentlich-rechtlichen Stiftung für die Zentralbibliothek Solothurn | 1 | 1929-10-29 to 1929-10-29 |
+| `434-313` | Statuten der Stiftung der Zentralbibliothek Solothurn | 2 | 1995-11-21 to 2013-08-01 |
+| `435-145` | Unterschutzstellung der erratischen Blöcke | 1 | 1971-12-16 to 1971-12-16 |
+| `511-155-1` | Vereinbarung über die Zusammenarbeit und die Kompetenzabgrenzung zwischen der Polizei Kanton Solothurn und den Stadtpolizeien Grenchen und Solothurn | 1 | 2020-01-01 to 2020-01-01 |
+| `511-511-ikapol` | Vereinbarung über die interkantonalen Polizeieinsätze | 2 | 2006-11-09 to 2024-04-12 |
+| `511-513` | Verwaltungsvereinbarung zwischen dem Kanton Solothurn und der Schweizerischen Eidgenossenschaft, vertreten durch das Finanzdepartement, über die Zusammenarbeit zwischen der Polizei Kanton Solothurn und dem Grenzwachtkorps bzw. der Eidgenössischen Zollverwaltung | 1 | 2013-10-14 to 2013-10-14 |
+| `511-514` | Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen | 2 | 2010-01-01 to 2014-05-30 |
+| `511-551-2` | Vereinbarung zwischen den Kantonen Aargau und Solothurn über die Autobahnpolizei auf der N1 | 2 | 1988-01-01 to 2013-02-01 |
+| `511-553` | Interkantonale bzw. interbehördliche Vereinbarung über den Datenaustausch zum Betrieb von Lage- und Analysesystemen im Bereich der seriellen Kriminalität | 1 | 2023-05-01 to 2023-05-01 |
+| `512-354` | Abteilung Administrativmassnahmen im Strassenverkehr | 1 | 1983-01-18 to 1983-01-18 |
+| `513-633-1-ikv-2020` | Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen | 1 | 2021-01-01 to 2021-01-01 |
+| `513-633-5-gsk` | Gesamtschweizerisches Geldspielkonkordat | 1 | 2021-01-01 to 2021-01-01 |
 
-The build made 781 commits:
+The build made 902 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 291 | first version of an act |
-| 489 | one law on its in-force day |
+| 167 | baseline texts where the record starts |
+| 734 | named laws, court decisions and treaties |
 | 1 | changes no amendment note explains, credited to the publisher |
+| 0 | corrections to the existing record |
+| 0 | printing or layout changes |
 
 Other counts:
-- 8 commits on the branch `zukunft`: laws not yet in force on 2026-10-30.
-- 7 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1068 laws in the record.
-- 1516 tags.
+- 8 commits on the branch `zukunft`: laws not yet in force on 2026-11-24.
+- 15 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 1207 laws in the record.
+- 1730 tags.
 
 ## Dates
 
@@ -330,13 +390,13 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `13916a432b8a3ff54d177a26ee5fa52e88e36865d8876d199e9df92b3b804a40` (9682363 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
-- Python 3.14.4; git version 2.53.0.
+- Corpus: sha256 `b76a9975eb775a51c5094f5a4e134cba3bc2a8ce44395cae35368ca9f43ccf68` (10674695 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
+- Python 3.14.0; git version 2.52.0.windows.1.
 
 ## Checks
 
-933 versions of 291 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -350,7 +410,7 @@ No second build of this corpus has been compared yet.
 
 ## What AI did and did not do
 
-The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+The source readers and builders were developed under Lexifina's direction with coding assistants, including Claude Code and Codex.
 
 No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
 
