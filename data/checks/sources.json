@@ -1,0 +1,27 @@
+{
+ "sources": [
+  {
+   "id": "lexwork-solothurn",
+   "kind": "legislation",
+   "name": {
+    "en": "Solothurn: systematic collection (bgs.so.ch)",
+    "de": "Solothurn: Systematische Sammlung (bgs.so.ch)"
+   },
+   "url": "https://bgs.so.ch/",
+   "reads": {
+    "en": "the collection's index of acts in force each check, the act document (every consolidated version, its change table) of new acts and of a seventh of the held acts, version documents once",
+    "de": "jeden Tag das Verzeichnis der geltenden Erlasse, das Dokument (alle konsolidierten Fassungen, Änderungstabelle) neuer Erlasse und eines Siebtels der gehaltenen Erlasse, Fassungen einmal"
+   },
+   "folders": [
+    "<act>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "switzerland/solothurn/acts"
+   ],
+   "interval": 1.0,
+   "repo": "switzerland-solothurn-law"
+  }
+ ]
+}
