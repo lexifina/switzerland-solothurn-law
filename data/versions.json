@@ -12269,6 +12269,960 @@
      "sha256": "1a22201c33b9c373d923afd5dc9520162fea2c519b4c5dd98a9f77adb846d585"
     }
    ]
+  },
+  {
+   "slug": "614-171-2",
+   "short": "BGS 614.171.2",
+   "title": "Beitritt des Kantons Solothurn zum Konkordat über den Ausschluss von Steuerabkommen vom 10. Dezember 1948",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/614.171.2",
+   "versions": [
+    {
+     "from": "1949-11-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/614.171.2",
+     "sha256": "ea9a12827e9553e83e485bbdcc968f02c8169c7fc0e029390ddea512721508f3"
+    }
+   ]
+  },
+  {
+   "slug": "614-175-62",
+   "short": "BGS 614.175.62",
+   "title": "Genehmigung der Schweizerisch-französischen Vereinbarung über die Besteuerung der Erwerbseinkünfte von Grenzgängern",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/614.175.62",
+   "versions": [
+    {
+     "from": "1986-12-18",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/614.175.62",
+     "sha256": "aa04ffb38230b2092ee5c838a6131bd4ca068302d431cf0e1e80904be2adf33f"
+    }
+   ]
+  },
+  {
+   "slug": "614-352-103",
+   "short": "BGS 614.352.103",
+   "title": "Gegenrechtsvereinbarung zwischen den Kantonen Solothurn und Waadt über die Befreiung von der Erbschafts- und Schenkungssteuer",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/614.352.103",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/614.352.103",
+     "sha256": "85120a4d8668aa4def375024ea1abeba963949325734c5122a0cbe77bc813f09"
+    }
+   ]
+  },
+  {
+   "slug": "615-11-gt",
+   "short": "GT",
+   "title": "Gebührentarif",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/615.11",
+   "versions": [
+    {
+     "from": "2016-07-15",
+     "to": "2017-09-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 165,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/615.11/versions/4550",
+     "sha256": "54d81b5bb4978e74e02593746c467b80e9e2185b6b2eb1624b67e5ea76b47ca9"
+    },
+    {
+     "from": "2017-10-01",
+     "to": "2017-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 166,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/615.11/versions/4637",
+     "sha256": "3eb78f6b1064fb836a21db5f902c9c71de7dd3357cbc8cbd58ab2e95e018c332"
+    },
+    {
+     "from": "2018-01-01",
+     "to": "2019-08-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 169,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/615.11/versions/4716",
+     "sha256": "1f18c933b3841718faee18b1a6efd57162a0b92c0f84a59809e45a20715cee24"
+    },
+    {
+     "from": "2019-09-01",
+     "to": "2019-09-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 170,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/615.11/versions/4838",
+     "sha256": "349d70070edbf109331b77cb32ec05866a696a0820ccbec12fcc606560f1d0b0"
+    },
+    {
+     "from": "2019-10-01",
+     "to": "2020-02-29",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 171,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/615.11/versions/4860",
+     "sha256": "32fceaa0df9e9050e1d86b916c0119be172901532f9f6215355bad41d03aac11"
+    },
+    {
+     "from": "2020-03-01",
+     "to": "2021-02-28",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 172,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/615.11/versions/4897",
+     "sha256": "641c8525c0d12b779d638f662051525eb371ebbdfed425af3f0541d3bd877217"
+    },
+    {
+     "from": "2021-03-01",
+     "to": "2021-07-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 174,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/615.11/versions/5048",
+     "sha256": "b9aac8b2b3fc516b0c48892b1912a7a452495844edc08de1ca7d46f7788f1080"
+    },
+    {
+     "from": "2021-08-01",
+     "to": "2022-06-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 174,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/615.11/versions/5089",
+     "sha256": "acc032642086743c9cd19e036b42a5bde5b3aa7e4998434104ff40043978c280"
+    },
+    {
+     "from": "2022-07-01",
+     "to": "2023-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 175,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/615.11/versions/5186",
+     "sha256": "36b080b248f3d249eebf2fd7b2f1385f2188c37a957f48f294174d8481d3bc4f"
+    },
+    {
+     "from": "2024-01-01",
+     "to": "2024-03-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 175,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/615.11/versions/5315",
+     "sha256": "fdd71b4d9337f8df6c5e666ef3a86fb7506fa3917a36a63566135bd4900d752a"
+    },
+    {
+     "from": "2024-04-01",
+     "to": "2024-06-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 175,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/615.11/versions/5431",
+     "sha256": "87959287ae66346f2aab2e1c13f293050983b58aef131a7ce352e6cd3f4a9864"
+    },
+    {
+     "from": "2024-07-01",
+     "to": "2024-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 176,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/615.11/versions/5434",
+     "sha256": "aa56d3a0ad037a2f74cf271fe075a046899722603eb8b62f16c2f8e0b91d907d"
+    },
+    {
+     "from": "2025-01-01",
+     "to": "2025-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 176,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/615.11/versions/5527",
+     "sha256": "54d69ed5fa38cae5d5560d09c9758cdbf512554664b5b89353e052fcce72beb6"
+    },
+    {
+     "from": "2026-01-01",
+     "to": "2026-02-28",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 182,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/615.11/versions/5605",
+     "sha256": "87acd8d3722dc3c6b656073884f1ca0a05269ff9e2fca2256618ac1b0866baff"
+    },
+    {
+     "from": "2026-03-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 183,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/615.11",
+     "sha256": "8579d9f4fe9cdf6abd4c2baf892795304619c2d7ff16830586285d97b6d25004"
+    }
+   ]
+  },
+  {
+   "slug": "618-112-21",
+   "short": "BGS 618.112.21",
+   "title": "Änderung der einheitlichen Grundlage für die Gebäudeversicherungswerte",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/618.112.21",
+   "versions": [
+    {
+     "from": "1991-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/618.112.21",
+     "sha256": "4c96a5aaf4f9ebfc40a4530828025709875794f07a3f08ca6773c79486449c74"
+    }
+   ]
+  },
+  {
+   "slug": "618-112-23",
+   "short": "BGS 618.112.23",
+   "title": "Anpassung der Versicherungswerte an die Baukosten: Index für 2025",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/618.112.23",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "to": "2011-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/618.112.23/versions/3724",
+     "sha256": "cb4851bbcc307f6966da16d20b6584e3d8fcc3c88101c9c00e540ebd7e3adf19"
+    },
+    {
+     "from": "2012-01-01",
+     "to": "2012-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/618.112.23/versions/3872",
+     "sha256": "cbebd7d57290eafee197de9296f9a98fa0663764375e3ac3ca69da2f7175fa08"
+    },
+    {
+     "from": "2013-01-01",
+     "to": "2013-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/618.112.23/versions/4053",
+     "sha256": "83e7cc0ab873604f6275c848b9c7aa023445cedcabb195d46946b3500f7f4bfa"
+    },
+    {
+     "from": "2014-01-01",
+     "to": "2014-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/618.112.23/versions/4213",
+     "sha256": "b6f030179f7c139f9964554f4d8a7cea1b9e83397a255a646a475f3d2bd4ac6e"
+    },
+    {
+     "from": "2015-01-01",
+     "to": "2015-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/618.112.23/versions/4329",
+     "sha256": "ef445a0ecba5d0ddaf99cac49f66d89c0a1addd0779d3e17694d058b0c5d5792"
+    },
+    {
+     "from": "2016-01-01",
+     "to": "2016-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/618.112.23/versions/4421",
+     "sha256": "f53c146dc924d32c7270fc0518b730bee7b86e5327c57c8f8722120b93eb6231"
+    },
+    {
+     "from": "2017-01-01",
+     "to": "2017-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/618.112.23/versions/4568",
+     "sha256": "6d514252fab1e526af0534f1684a6200ecdca1e2618d38183ea2bf90bfcea258"
+    },
+    {
+     "from": "2018-01-01",
+     "to": "2018-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/618.112.23/versions/4661",
+     "sha256": "5530a3ab6d08cc9245df6cc9ad25f3e80747a4a7d995796a1c353f4c55313b59"
+    },
+    {
+     "from": "2019-01-01",
+     "to": "2019-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/618.112.23/versions/4759",
+     "sha256": "5c4fcb74b3afb774213eef90c6730a26c8894f6f8d68746293bac5b7cbd4db35"
+    },
+    {
+     "from": "2020-01-01",
+     "to": "2020-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/618.112.23/versions/4873",
+     "sha256": "d7de9fe63cc65cac1cbdb5f6c423f95733200ae23291799604f4b11ee16d72c8"
+    },
+    {
+     "from": "2021-01-01",
+     "to": "2021-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/618.112.23/versions/5006",
+     "sha256": "0842b2348abb79786a96a118db7cde6c525ba3108fa503d563455c546d732dbf"
+    },
+    {
+     "from": "2022-01-01",
+     "to": "2022-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/618.112.23/versions/5147",
+     "sha256": "d0dcaa822ab83b41b459dcbb9607d9896eda65a60fa1572e644f115f04d7a4d9"
+    },
+    {
+     "from": "2023-01-01",
+     "to": "2023-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/618.112.23/versions/5279",
+     "sha256": "3b6e21a67ce9f20c4bcd27a0b8445046db4247353e689859d6872c330cdfcc30"
+    },
+    {
+     "from": "2024-01-01",
+     "to": "2024-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/618.112.23/versions/5415",
+     "sha256": "3b4d5b2a9819c21b0214a1fe6d17d1929cd04bd3d869965710227577a6a1e46c"
+    },
+    {
+     "from": "2025-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/618.112.23",
+     "sha256": "b26e349f7e0e8757339389b46cb80a6430ba5a6cd4ecfaa4fedf8af55b2c6ee0"
+    }
+   ]
+  },
+  {
+   "slug": "618-115-1",
+   "short": "BGS 618.115.1",
+   "title": "Beitritt der Solothurnischen Gebäudeversicherung zum Schweizerischen Pool für Erdbebenversicherung",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/618.115.1",
+   "versions": [
+    {
+     "from": "1978-10-25",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/618.115.1",
+     "sha256": "ac1a90599fb6573398d2e09b92c96b05f08ac88a70d6009382940a294005e1f2"
+    }
+   ]
+  },
+  {
+   "slug": "618-181",
+   "short": "BGS 618.181",
+   "title": "Prämientarif der Solothurnischen Gebäudeversicherung",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/618.181",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "to": "2019-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 13,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/618.181/versions/4351",
+     "sha256": "c1851171cbba80d9ad1742599031286e5cbfc415abe809ccf9ed5cf8ecb13cbd"
+    },
+    {
+     "from": "2020-01-01",
+     "to": "2020-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 12,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/618.181/versions/4918",
+     "sha256": "d9c5f72aa025926aab8c805a0418f0aef29d6e2f38035ada33834b979bee5b7d"
+    },
+    {
+     "from": "2021-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 12,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/618.181",
+     "sha256": "b66ef4dd5b74f6972ab58052cd9eda17da961d7a4985848f3a375bd805a93a0d"
+    }
+   ]
+  },
+  {
+   "slug": "624-122",
+   "short": "BGS 624.122",
+   "title": "Gesetz über das Salzregal und den Beitritt zur Interkantonalen Vereinbarung über den Salzverkauf in der Schweiz",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/624.122",
+   "versions": [
+    {
+     "from": "1975-10-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/624.122",
+     "sha256": "6c5e401d54aad4485e2dbd6dbdd15defdbdbafcfdad4eddb756f4476eb34df55"
+    }
+   ]
+  },
+  {
+   "slug": "624-512",
+   "short": "BGS 624.512",
+   "title": "Beteiligung des Kantons an der Aktiengesellschaft Vereinigte Schweizerische Rheinsalinen",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/624.512",
+   "versions": [
+    {
+     "from": "1909-10-04",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/624.512",
+     "sha256": "6f3a5ebb7cd1d7458405064af093d49eb2afeb9035b7abfb43af4b56c5c6771e"
+    }
+   ]
+  },
+  {
+   "slug": "625-711",
+   "short": "BGS 625.711",
+   "title": "Vereinbarung zwischen den Kantonen Bern und Solothurn betreffend die Fischerei in den Grenzgewässern der Aare",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/625.711",
+   "versions": [
+    {
+     "from": "1996-01-01",
+     "to": "2008-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 15,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/625.711/versions/5571",
+     "sha256": "9cc3644ba69630bdd2b66c491795ce12e0046a8cd7939fb4453e7d8502debe19"
+    },
+    {
+     "from": "2009-01-01",
+     "to": "2025-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/625.711/versions/5572",
+     "sha256": "4c11421ad101c8946e366553785ca18ebd4bfd31aa54bc704c25a2ef672757c7"
+    },
+    {
+     "from": "2026-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/625.711",
+     "sha256": "be05bc6e17583ef4f488e52e17e9a6f190a7e1769d57b92e015b113701148ebe"
+    }
+   ]
+  },
+  {
+   "slug": "625-721",
+   "short": "BGS 625.721",
+   "title": "Übereinkunft über die Ausübung der Fischerei in der Aare, soweit diese die Grenze zwischen den Kantonen Aargau und Solothurn bildet",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/625.721",
+   "versions": [
+    {
+     "from": "1977-01-01",
+     "to": "2009-03-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/625.721/versions/5659",
+     "sha256": "37cdb8cc6fa3e178f42ce6766eb0459047911fd8309561ad8ae0f345dfee4993"
+    },
+    {
+     "from": "2009-04-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 13,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/625.721",
+     "sha256": "4cacab2381c5e2a9494de960e9b3660e69283995945112e4f8c982ede3788506"
+    }
+   ]
+  },
+  {
+   "slug": "711-64-ivhb",
+   "short": "IVHB",
+   "title": "Interkantonale Vereinbarung über die Harmonisierung der Baubegriffe",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/711.64",
+   "versions": [
+    {
+     "from": "2010-11-26",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 10,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/711.64",
+     "sha256": "f975277865e94f2a478b7d8902e6aafe398b6f9beff6648645822bb38674eae3"
+    }
+   ]
+  },
+  {
+   "slug": "711-181",
+   "short": "BGS 711.181",
+   "title": "Übergangsverordnung zu Artikel 5a des Bundesgesetzes über die Raumplanung (Abbruchprämie)",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/711.181",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 14,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/711.181",
+     "sha256": "000ce08d58dd1e2cf0460c2eecfdd76c65891c143e0bc853e3af1505802120ce"
+    }
+   ]
+  },
+  {
+   "slug": "721-532-ivob",
+   "short": "IVöB",
+   "title": "Interkantonale Vereinbarung über das öffentliche Beschaffungswesen",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/721.532",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 68,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/721.532",
+     "sha256": "08d49667b76da6fab4cee70c999e78a0287ab2cfd56c5086527051cf5d71f472"
+    }
+   ]
+  },
+  {
+   "slug": "728-121",
+   "short": "BGS 728.121",
+   "title": "Korrektion der Dünnern zwischen Oensingen und Olten",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/728.121",
+   "versions": [
+    {
+     "from": "1932-09-16",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 16,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/728.121",
+     "sha256": "9ca871638a4f43f76f0f659a44f888b76a43370a48403e992c0020d31cff1d59"
+    }
+   ]
+  },
+  {
+   "slug": "734-411",
+   "short": "BGS 734.411",
+   "title": "Ausbau des Autokurses Solothurn-Wasseramt (ASW) mit neuer staatlicher Kapitalbeteiligung",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/734.411",
+   "versions": [
+    {
+     "from": "1963-12-13",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/734.411",
+     "sha256": "597affdf948cdc82221f4c85eb3f5d8d34364a0b07c2d758ef54bc21ff1e8826"
+    }
+   ]
+  },
+  {
+   "slug": "734-421",
+   "short": "BGS 734.421",
+   "title": "Staatliche Beteiligung an der Automobilverbindung Olten-Lostorf-Stüsslingen",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/734.421",
+   "versions": [
+    {
+     "from": "1923-03-08",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/734.421",
+     "sha256": "7096cd0bdea62849aa903fc78ff514dd8bf25b57260b385c1a451ce37920f57c"
+    }
+   ]
+  },
+  {
+   "slug": "734-431",
+   "short": "BGS 734.431",
+   "title": "Staatliche Beteiligung an der Stadtomnibus Olten AG",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/734.431",
+   "versions": [
+    {
+     "from": "1973-03-08",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/734.431",
+     "sha256": "7160fdbcadeb2b64734fa53750b335d9833bf4376e2de18eb95a64bb016b8599"
+    }
+   ]
+  },
+  {
+   "slug": "734-432",
+   "short": "BGS 734.432",
+   "title": "Zustimmung zur Fusion der Automobilgesellschaft Gösgeramt (AGO) und der Stadtomnibus Olten (SOO)",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/734.432",
+   "versions": [
+    {
+     "from": "1998-10-02",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/734.432",
+     "sha256": "1e72db114080ef12e79d479efe8fed535ca6b5f441d04d0c0e332ad0a93fb9b5"
+    }
+   ]
+  },
+  {
+   "slug": "734-441",
+   "short": "BGS 734.441",
+   "title": "Staatliche Beteiligung am Busbetrieb Grenchen und Umgebung",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/734.441",
+   "versions": [
+    {
+     "from": "1975-01-21",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/734.441",
+     "sha256": "5e62687c0c35baa4f96c55facf434165151749be2e8753151b6c842d56705bdc"
+    }
+   ]
+  },
+  {
+   "slug": "734-451",
+   "short": "BGS 734.451",
+   "title": "Staatliche Beteiligung am Busbetrieb Aarau (BBA)",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/734.451",
+   "versions": [
+    {
+     "from": "1975-06-25",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 6,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/734.451",
+     "sha256": "73d3bf7278099c9209fb5544e1c4e8049829e3e5dfc811e1b879745886e7a1b6"
+    }
+   ]
+  },
+  {
+   "slug": "735-411",
+   "short": "BGS 735.411",
+   "title": "Staatliche Beteiligung an der Elektrifikation der Solothurn-Münster-Bahn und der Emmental-Bahn",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/735.411",
+   "versions": [
+    {
+     "from": "1931-06-26",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/735.411",
+     "sha256": "f6a7bc8c8091dbd8c55289011160863ec6f3772d7f89b313008098a9835d5eed"
+    }
+   ]
+  },
+  {
+   "slug": "735-441",
+   "short": "BGS 735.441",
+   "title": "Staatliche Beteiligung an der Strassenbahn Niederbipp-Solothurn",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/735.441",
+   "versions": [
+    {
+     "from": "1908-10-31",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 9,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/735.441",
+     "sha256": "6ba5c16ecd82d54d4ddec7e47ded65efc20d6597685ff9705bc8392b0f8658a3"
+    }
+   ]
+  },
+  {
+   "slug": "735-451",
+   "short": "BGS 735.451",
+   "title": "Staatliche Beteiligung an der Weiterführung der Birsigtalbahn von Flüh bis Rodersdorf",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/735.451",
+   "versions": [
+    {
+     "from": "1909-09-04",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/735.451",
+     "sha256": "ed859708071d6f7741f7c14bd03b4c868ee602750ba65bd172d33ac11ca18f86"
+    }
+   ]
+  },
+  {
+   "slug": "735-452",
+   "short": "BGS 735.452",
+   "title": "Zustimmung zur Fusion von 4 basellandschaftlichen Vorortsbahngesellschaften und Gründung der Baselland Transport AG (BLT)",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/735.452",
+   "versions": [
+    {
+     "from": "1975-03-24",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 4,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/735.452",
+     "sha256": "4e4389af24f95332fa76712a72828879a7d4f823f7b3818835fff12eecf542f2"
+    }
+   ]
+  },
+  {
+   "slug": "735-453",
+   "short": "BGS 735.453",
+   "title": "Technische und finanzielle Sanierung der ehemaligen Birseckbahn (Linie 10 der Baselland Transport AG), 2. Etappe",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/735.453",
+   "versions": [
+    {
+     "from": "1978-11-27",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 5,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/735.453",
+     "sha256": "97c705fd9623b39bc155cd964c1bea18e6df6a9fe8ec6dd9d109e02d38119cc2"
+    }
+   ]
+  },
+  {
+   "slug": "737-121",
+   "short": "BGS 737.121",
+   "title": "Staatliche Beteiligung am Regionalflugplatz Jura in Grenchen",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/737.121",
+   "versions": [
+    {
+     "from": "1947-04-02",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 3,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/737.121",
+     "sha256": "d69c2fd8d9b3cf9a4b782c5900a8b9e109708cddadf9a29d5066a54143e10337"
+    }
+   ]
+  },
+  {
+   "slug": "813-161-vereinbarung-ethikkommission-nordwest-und-zentralschweiz-eknz",
+   "short": "Vereinbarung Ethikkommission Nordwest- und Zentralschweiz - EKNZ",
+   "title": "Vereinbarung über die Einsetzung einer gemeinsamen Ethikkommission Nordwest- und Zentralschweiz",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/813.161",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 20,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/813.161",
+     "sha256": "7b735c65544dd686bcb1246db3800e1d359fceee57f62f14383e346df2055213"
+    }
+   ]
+  },
+  {
+   "slug": "821-321-nav-hauswirtschaft",
+   "short": "NAV Hauswirtschaft",
+   "title": "Normalarbeitsvertrag für Arbeitnehmer und Arbeitnehmerinnen in der Hauswirtschaft",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/821.321",
+   "versions": [
+    {
+     "from": "2011-02-01",
+     "to": "2020-01-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 34,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/821.321/versions/3597",
+     "sha256": "779d4937935fe9ec4fe3a725878091ba99f5811636d0e1f81feaeeaf219c4a7e"
+    },
+    {
+     "from": "2020-02-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 42,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/821.321",
+     "sha256": "93458e999d38b1418d50ee625aea484f614e8027381a646a66e7839054d68f6d"
+    }
+   ]
+  },
+  {
+   "slug": "821-322",
+   "short": "BGS 821.322",
+   "title": "Normalarbeitsvertrag für Arbeitnehmer in der Landwirtschaft",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/821.322",
+   "versions": [
+    {
+     "from": "2011-02-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 23,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/821.322",
+     "sha256": "8848e68ec119493e09e7f9a9ceb569e420498870e852044a2542be2ecfd75337"
+    }
+   ]
+  },
+  {
+   "slug": "835-1",
+   "short": "BGS 835.1",
+   "title": "Verwaltungskostenbeiträge der Ausgleichskasse des Kantons Solothurn (AKSO)",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/835.1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "to": "2011-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/835.1/versions/3735",
+     "sha256": "2b63b8b729f41fa6753cf567091e296416b9d2e18d0eb68b9abb87ecfc864b4f"
+    },
+    {
+     "from": "2012-01-01",
+     "to": "2012-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/835.1/versions/3870",
+     "sha256": "d8de8d6be631de1225ef262aa390da704f655b533d3082d48962be10008d60df"
+    },
+    {
+     "from": "2013-01-01",
+     "to": "2015-12-31",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/835.1/versions/4059",
+     "sha256": "140276130772476ba7c8d600101d1252578c77a3505b6f8db2350ed3f94a4a4b"
+    },
+    {
+     "from": "2016-01-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/835.1",
+     "sha256": "175e90d66b5934b99debc07efb1dab1ffb46d95688b487bb64acedbb10ca8081"
+    }
+   ]
+  },
+  {
+   "slug": "837-33-ivse",
+   "short": "IVSE",
+   "title": "Interkantonale Vereinbarung für soziale Einrichtungen",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/837.33",
+   "versions": [
+    {
+     "from": "2020-06-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 49,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/837.33",
+     "sha256": "cb5625722ca904241efd78bbcf6249bfdeaee8251364d72b72434aacb41fb47b"
+    }
+   ]
+  },
+  {
+   "slug": "926-21",
+   "short": "BGS 926.21",
+   "title": "Vereinbarung über die Zusammenarbeit zwischen dem Kanton Solothurn und dem Kanton Basel-Landschaft betreffend den Vollzug von Massnahmen im Rebbau",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/926.21",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 8,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/926.21",
+     "sha256": "00923e6ab6be3884c5c373262dd281d8d319154ff07c7333dfb7467d0e2330de"
+    }
+   ]
+  },
+  {
+   "slug": "926-711-tssv",
+   "short": "TSSV",
+   "title": "Tierseuchen- und Tierschutz-Verordnung",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/926.711",
+   "versions": [
+    {
+     "from": "2007-08-01",
+     "to": "2017-09-30",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 111,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/926.711/versions/4025",
+     "sha256": "882965e3f85cb4bb51fe9bdca20aa192a3ebb8e7b3f93eef743e3018572aaaa0"
+    },
+    {
+     "from": "2017-10-01",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 111,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/926.711",
+     "sha256": "bacf030af251a0ac0162dc2b40a0b5945fc54285649065162543a071f681ba1b"
+    }
+   ]
+  },
+  {
+   "slug": "943-11-ivth",
+   "short": "IVTH",
+   "title": "Interkantonale Vereinbarung zum Abbau technischer Handelshemmnisse",
+   "url": "https://bgs.so.ch/app/de/texts_of_law/943.11",
+   "versions": [
+    {
+     "from": "2003-02-04",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 16,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/943.11",
+     "sha256": "55ec8b35b8af467e465e424ac17fc76748fd1654cb7f4f1f157abf3c88c7a94b"
+    }
+   ]
   }
  ]
 }

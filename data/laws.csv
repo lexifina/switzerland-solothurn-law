@@ -2,16 +2,23 @@ key,label,kind,law_kind,title,enacted,published,in_force_days,commits,url
 gs-beschluss-1009-10-26,"GS, Beschluss vom 1009-10-26",law,act,"Änderung vom 26.10.1009 (GS, Beschluss vom 1009-10-26)",1009-10-26,,,0,
 gs-gs-1-556,"GS GS 1, 556",law,act,Wiedereröffnung des Kapuzinernoviziats,1803-10-29,,1803-10-29 1969-01-31,2,
 gs-gs-1-557,"GS GS 1, 557",law,act,Novizenaufnahme für Frauenklöster,1803-10-29,,1970-09-08,1,
+gs-gs-64-357,"GS GS 64, 357",law,act,Staatliche Beteiligung an der Strassenbahn Niederbipp-Solothurn,1908-10-25,,1908-10-31,1,
+gs-gs-64-514,"GS GS 64, 514",law,act,Staatliche Beteiligung an der Weiterführung der Birsigtalbahn von Flüh bis Rodersdorf,1909-08-29,,1909-09-04,1,
 gs-gs-66-910,"GS GS 66, 910",law,act,Gesetz über die staatliche Besoldungsreform,1918-02-17,,1941-11-23,1,
 gs-gs-67-766,"GS GS 67, 766",law,act,Errichtung einer Pensionskasse für die christkatholischen und evangelisch-reformierten Geistlichen des Kantons Solothurn,1920-10-20,,,0,
+gs-gs-69-39,"GS GS 69, 39",law,act,Staatliche Beteiligung an der Automobilverbindung Olten-Lostorf-Stüsslingen,1923-03-08,,1923-03-08,1,
 gs-gs-2023-21,"GS GS 2023, 21",law,act,Änderung des Verwaltungsreglements Verwendung Alkoholzehntel,2023-06-06,1923-06-10,2023-10-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1538/pdf_file
 gs-gs-70-245,"GS GS 70, 245",law,act,Gesetz über die Prüfungen der Pfarrgeistlichen,1926-05-02,,1926-05-07,1,
 gs-gs-71-338,"GS GS 71, 338",law,act,Errichtung einer öffentlich-rechtlichen Stiftung für die Zentralbibliothek Solothurn,1929-10-29,,1929-10-29,1,
+gs-gs-72-68,"GS GS 72, 68",law,act,Staatliche Beteiligung an der Elektrifikation der Solothurn-Münster-Bahn und der Emmental-Bahn,1931-06-21,,1931-06-26,1,
+gs-gs-72-401,"GS GS 72, 401",law,act,Korrektion der Dünnern zwischen Oensingen und Olten,1932-09-11,,1932-09-16,1,
 gs-gs-75-152,"GS GS 75, 152",law,act,Verordnung über die Anlage des eidgenössischen Grundbuches,1940-12-03,,,0,
 gs-gs-75-214,"GS GS 75, 214",law,act,Bereinigung der Wappen der Bezirke des Kantons Solothurn,1941-03-28,,,0,
 gs-gs-75-300,"GS GS 75, 300",law,act,Gesetz über das kantonale Strafrecht und die Einführung des Schweizerischen Strafgesetzbuches,1941-09-14,,,0,
 gs-gs-76-70,"GS GS 76, 70",law,act,Entschädigungen für Einvernahmen bei Administrativ-Untersuchungen,1943-06-12,,1943-06-12,1,
 gs-gs-77-61,"GS GS 77, 61",law,act,"Gesetz über die Änderung des Gesetzes vom 29. März 1925 über die Beteiligung des Staates an der Roth-Stiftung des Kantons Solothurn und des Gesetzes vom 29. August 1909 über die Kantonsschule, die landwirtschaftliche Winterschule und die Fortbildungsschulen",1946-03-31,,1957-05-06,1,
+gs-gs-77-178,"GS GS 77, 178",law,act,Staatliche Beteiligung am Regionalflugplatz Jura in Grenchen,1947-04-02,,1947-04-02,1,
+gs-gs-78-31,"GS GS 78, 31",law,act,Beitritt des Kantons Solothurn zum Konkordat über den Ausschluss von Steuerabkommen vom 10. Dezember 1948,1949-04-27,,1949-11-03,1,
 gs-gs-78-156,"GS GS 78, 156",law,act,Verordnung über die Einführung des Bundesgesetzes über die Luftfahrt (Luftfahrtsgesetz),1951-01-30,,,0,
 gs-gs-79-40,"GS GS 79, 40",law,act,Vollzugsverordnung zum Bundesratsbeschluss über den zusätzlichen Steuerrückbehalt USA,1952-07-25,,1952-08-01,1,
 gs-gs-79-125,"GS GS 79, 125",law,act,Verordnung über die Katasterschätzung,1953-09-01,,,0,
@@ -27,6 +34,7 @@ gs-gs-82-55,"GS GS 82, 55",law,act,Einführungsgesetz zum Bundesgesetz über die
 gs-gs-82-115,"GS GS 82, 115",law,act,Gesetz über die Steuern und Gebühren für Motorfahrzeuge und Fahrräder,1961-07-23,,,0,
 gs-gs-82-134,"GS GS 82, 134",law,act,Verordnung über den Pflanzenschutz,1961-10-20,,,0,
 gs-beschluss-1963-06-26,"GS, Beschluss vom 1963-06-26",law,act,"Änderung vom 26.06.1963 (GS, Beschluss vom 1963-06-26)",1963-06-26,,,0,
+gs-gs-82-470,"GS GS 82, 470",law,act,Ausbau des Autokurses Solothurn-Wasseramt (ASW) mit neuer staatlicher Kapitalbeteiligung,1963-12-08,,1963-12-13,1,
 gs-gs-83-54,"GS GS 83, 54",law,act,Gesetz über die öffentlichen Ruhetage,1964-05-24,,,0,
 gs-gs-83-78,"GS GS 83, 78",law,act,Verordnung zum Gesetz über die öffentlichen Ruhetage,1964-10-06,,,0,
 gs-beschluss-1965-12-12,"GS, Beschluss vom 1965-12-12",law,act,"Änderung vom 12.12.1965 (GS, Beschluss vom 1965-12-12)",1965-12-12,,,0,
@@ -57,12 +65,17 @@ gs-gs-85-745,"GS GS 85, 745",law,act,Unterschutzstellung der erratischen Blöcke
 gs-beschluss-1972-02-23,"GS, Beschluss vom 1972-02-23",law,act,"Änderung vom 23.02.1972 (GS, Beschluss vom 1972-02-23)",1972-02-23,,,0,
 gs-gs-85-821,"GS GS 85, 821",law,act,Gesetz über Massnahmen für den Fall von Katastrophen und kriegerischen Ereignissen,1972-03-05,,,0,
 gs-gs-85-945,"GS GS 85, 945",law,act,"Gesetz über die Gebäudeversicherung, den Brandschutz und die Elementarschadenprävention, die Feuerwehr und den Elementarschadenfonds",1972-09-24,,,0,
+gs-gs-85-1053,"GS GS 85, 1053",law,act,Normalarbeitsvertrag für Arbeitnehmer in der Landwirtschaft,1972-11-10,,,0,
 gs-gs-85-1141,"GS GS 85, 1141",law,act,Verordnung über die Begnadigung,1972-12-22,,,0,
 gs-beschluss-1973-03-04,"GS, Beschluss vom 1973-03-04",law,act,"Änderung vom 04.03.1973 (GS, Beschluss vom 1973-03-04)",1973-03-04,,,0,
+gs-gs-86-65,"GS GS 86, 65",law,act,Staatliche Beteiligung an der Stadtomnibus Olten AG,1973-03-04,,1973-03-08,1,
 gs-beschluss-1973-10-30,"GS, Beschluss vom 1973-10-30",law,act,"Änderung vom 30.10.1973 (GS, Beschluss vom 1973-10-30)",1973-10-30,,,0,
 gs-beschluss-1973-11-21,"GS, Beschluss vom 1973-11-21",law,act,"Änderung vom 21.11.1973 (GS, Beschluss vom 1973-11-21)",1973-11-21,,,0,
 gs-gs-86-309,"GS GS 86, 309",law,act,Verordnung über den Unterhalt und den Ausbau von Strassen im Berggebiet sowie von einfachen Parkplätzen im Erholungsgebiet aus den zweckgebundenen Mitteln der Motorfahrzeugsteuer,1974-02-22,,,0,
 gs-gs-86-455,"GS GS 86,455",law,act,Gebührentarif für die Nachführung der Vermessungswerke,1974-10-11,,1975-01-01,1,
+gs-gs-86-457,"GS GS 86, 457",law,act,Gesetz über das Salzregal und den Beitritt zur Interkantonalen Vereinbarung über den Salzverkauf in der Schweiz,1974-10-20,,1975-10-01,1,
+gs-gs-86-560,"GS GS 86, 560",law,act,Staatliche Beteiligung am Busbetrieb Grenchen und Umgebung,1975-01-21,,1975-01-21,1,
+gs-gs-86-669,"GS GS 86, 669",law,act,Staatliche Beteiligung am Busbetrieb Aarau (BBA),1975-06-25,,1975-06-25,1,
 gs-gs-86-694,"GS GS 86, 694",law,act,Errichtung und Betrieb des Regionalen Gymnasiums Laufental-Thierstein in Laufen,1975-09-28,,1975-10-02,1,
 gs-beschluss-1977-03-13,"GS, Beschluss vom 1977-03-13",law,act,"Änderung vom 13.03.1977 (GS, Beschluss vom 1977-03-13)",1977-03-13,,,0,
 gs-gs-87-195,"GS GS 87, 195",law,act,Gesetz über die Gerichtsorganisation,1977-03-13,,,0,
@@ -76,6 +89,8 @@ gs-gs-87-603,"GS GS 87, 603",law,act,Vollzugsverordnung zur Verordnung des Schwe
 gs-gs-87-604,"GS GS 87, 604",law,act,"Verordnung über die Aufbewahrung, Vernichtung und Verwertung eingezogener Gegenstände",1978-08-29,,1978-09-07,1,
 gs-beschluss-1978-09-19,"GS, Beschluss vom 1978-09-19",law,act,"Änderung vom 19.09.1978 (GS, Beschluss vom 1978-09-19)",1978-09-19,,,0,
 gs-beschluss-1978-09-24,"GS, Beschluss vom 1978-09-24",law,act,"Änderung vom 24.09.1978 (GS, Beschluss vom 1978-09-24)",1978-09-24,,,0,
+gs-gs-87-633,"GS GS 87, 633",law,act,Beitritt der Solothurnischen Gebäudeversicherung zum Schweizerischen Pool für Erdbebenversicherung,1978-10-25,,1978-10-25,1,
+gs-unbekannt,GS [unbekannt],law,act,"Technische und finanzielle Sanierung der ehemaligen Birseckbahn (Linie 10 der Baselland Transport AG), 2. Etappe",1978-11-27,,1909-10-04 1975-03-24 1978-11-27 1991-01-01,4,
 gs-beschluss-1978-12-03,"GS, Beschluss vom 1978-12-03",law,act,"Änderung vom 03.12.1978 (GS, Beschluss vom 1978-12-03)",1978-12-03,,,0,
 gs-gs-87-644,"GS GS 87, 644",law,act,Planungs- und Baugesetz,1978-12-03,,,0,
 gs-gs-88-43,"GS GS 88, 43",law,act,Verordnung über Baulandumlegung und Grenzbereinigung,1979-04-10,,1979-07-01,1,
@@ -101,6 +116,7 @@ gs-beschluss-1983-10-18,"GS, Beschluss vom 1983-10-18",law,act,"Änderung vom 18
 gs-gs-89-402,"GS GS 89, 402",law,act,Verordnung zum Katastrophengesetz,1983-12-13,,,0,
 gs-gs-89-474,"GS GS 89, 474",law,act,Vollzugsverordnung zur Bundesgesetzgebung über explosionsgefährliche Stoffe,1984-05-01,,,0,
 gs-beschluss-1984-05-21,"GS, Beschluss vom 1984-05-21",law,act,"Änderung vom 21.05.1984 (GS, Beschluss vom 1984-05-21)",1984-05-21,,,0,
+gs-gs-90-452,"GS GS 90, 452",law,act,Genehmigung der Schweizerisch-französischen Vereinbarung über die Besteuerung der Erwerbseinkünfte von Grenzgängern,1984-06-27,,1986-12-18,1,
 gs-beschluss-1984-12-02,"GS, Beschluss vom 1984-12-02",law,act,"Änderung vom 02.12.1984 (GS, Beschluss vom 1984-12-02)",1984-12-02,,,0,
 gs-beschluss-1985-04-29,"GS, Beschluss vom 1985-04-29",law,act,"Änderung vom 29.04.1985 (GS, Beschluss vom 1985-04-29)",1985-04-29,,,0,
 gs-gs-90-81,"GS GS 90, 81",law,act,Gesetz über Ausbildungsbeiträge,1985-06-30,,,0,
@@ -114,8 +130,10 @@ gs-beschluss-1986-01-28,"GS, Beschluss vom 1986-01-28",law,act,"Änderung vom 28
 gs-gs-90-355,"GS GS 90, 355",law,act,Vollzugsverordnung zum Gesetz über die Staats- und Gemeindesteuern,1986-01-28,,,0,
 gs-gs-90-384,"GS GS 90, 384",law,act,Steuerverordnung Nr. 15: Bemessung des Mietwertes der eigenen Wohnung,1986-01-28,,,0,
 gs-gs-90-388,"GS GS 90, 388",law,act,"Steuerverordnung Nr. 16: Unterhalts-, Betriebs- und Verwaltungskosten von Liegenschaften im Privatvermögen",1986-01-28,,,0,
+gs-gs-90-404,"GS GS 90, 404",law,act,Normalarbeitsvertrag für Arbeitnehmer und Arbeitnehmerinnen in der Hauswirtschaft,1986-03-11,,,0,
 gs-beschluss-1986-05-06,"GS, Beschluss vom 1986-05-06",law,act,"Änderung vom 06.05.1986 (GS, Beschluss vom 1986-05-06)",1986-05-06,,,0,
 gs-gs-90-438,"GS GS 90, 438",law,act,"Steuerverordnung Nr. 11: Zahlungserleichterungen, Erlass und Abschreibungen",1986-05-13,,,0,
+gs-beschluss-1986-05-20,"GS, Beschluss vom 1986-05-20",law,act,"Änderung vom 20.05.1986 (GS, Beschluss vom 1986-05-20)",1986-05-20,,,0,
 gs-beschluss-1986-06-08,"GS, Beschluss vom 1986-06-08",law,act,"Änderung vom 08.06.1986 (GS, Beschluss vom 1986-06-08)",1986-06-08,,,0,
 gs-gs-90-453,"GS GS 90, 453",law,act,Verfassung des Kantons Solothurn,1986-06-08,,,0,
 gs-beschluss-1986-07-01,"GS, Beschluss vom 1986-07-01",law,act,"Änderung vom 01.07.1986 (GS, Beschluss vom 1986-07-01)",1986-07-01,,,0,
@@ -251,6 +269,7 @@ gs-beschluss-1995-12-05,"GS, Beschluss vom 1995-12-05",law,act,"Änderung vom 05
 gs-gs-93-776,"GS GS 93, 776",law,act,Verordnung über den Schutz der historischen Kulturdenkmäler,1995-12-19,,2005-08-01,1,
 gs-beschluss-1996-01-23,"GS, Beschluss vom 1996-01-23",law,act,"Änderung vom 23.01.1996 (GS, Beschluss vom 1996-01-23)",1996-01-23,,,0,
 gs-gs-93-815,"GS GS 93, 815",law,act,Allgemeine Landwirtschaftsverordnung,1996-01-23,,,0,
+gs-gs-93-835,"GS GS 93, 835",law,act,Tierseuchen- und Tierschutz-Verordnung,1996-01-23,,,0,
 gs-gs-93-856,"GS GS 93, 856",law,act,Verordnung über die Honorare und Entschädigungen im Bereich Tierseuchen und Tierschutz,1996-01-23,,,0,
 gs-gs-93-870,"GS GS 93, 870",law,act,"Steuerverordnung Nr. 20: Anpassung von Tarifstufen, allgemeinen Abzügen und Sozialabzügen an die Teuerung",1996-02-12,,,0,
 gs-beschluss-1996-04-03,"GS, Beschluss vom 1996-04-03",law,act,"Änderung vom 03.04.1996 (GS, Beschluss vom 1996-04-03)",1996-04-03,,,0,
@@ -268,6 +287,7 @@ gs-gs-93-1060,"GS GS 93, 1060",law,act,Gesetz über die politischen Rechte,1996-
 gs-gs-93-1110,"GS GS 93, 1110",law,act,Submissionsgesetz,1996-09-22,,,0,
 gs-gs-93-1205,"GS GS 93, 1205",law,act,Verordnung über die politischen Rechte,1996-10-28,,,0,
 gs-beschluss-1996-10-30,"GS, Beschluss vom 1996-10-30",law,act,"Änderung vom 30.10.1996 (GS, Beschluss vom 1996-10-30)",1996-10-30,,,0,
+gs-beschluss-1996-12-09,"GS, Beschluss vom 1996-12-09",law,act,"Änderung vom 09.12.1996 (GS, Beschluss vom 1996-12-09)",1996-12-09,,,0,
 gs-beschluss-1996-12-17,"GS, Beschluss vom 1996-12-17",law,act,"Änderung vom 17.12.1996 (GS, Beschluss vom 1996-12-17)",1996-12-17,,,0,
 gs-gs-93-1307,"GS GS 93, 1307",law,act,Submissionsverordnung,1996-12-17,,,0,
 gs-gs-94-523,"GS GS 94, 523",law,act,Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen,1997-02-20,,1999-01-01,1,
@@ -283,6 +303,7 @@ gs-beschluss-1997-09-23,"GS, Beschluss vom 1997-09-23",law,act,"Änderung vom 23
 gs-gs-94-269,"GS GS 94, 269",law,act,Verzeichnis der solothurnischen Gemeinden,1997-10-28,,,0,
 gs-gs-94-440,"GS GS 94, 440",law,act,"Reglement über Aufnahme, Zeugnisse, Promotion und Entlassung für die Maturitätsschulen des Kantons Solothurn",1998-03-30,,,0,
 gs-beschluss-1998-04-21,"GS, Beschluss vom 1998-04-21",law,act,"Änderung vom 21.04.1998 (GS, Beschluss vom 1998-04-21)",1998-04-21,,,0,
+gs-gs-94-470,"GS GS 94, 470",law,act,Zustimmung zur Fusion der Automobilgesellschaft Gösgeramt (AGO) und der Stadtomnibus Olten (SOO),1998-05-26,,1998-10-02,1,
 gs-beschluss-1998-06-07,"GS, Beschluss vom 1998-06-07",law,act,"Änderung vom 07.06.1998 (GS, Beschluss vom 1998-06-07)",1998-06-07,,,0,
 gs-beschluss-1998-06-29,"GS, Beschluss vom 1998-06-29",law,act,"Änderung vom 29.06.1998 (GS, Beschluss vom 1998-06-29)",1998-06-29,,,0,
 gs-beschluss-1998-06-30,"GS, Beschluss vom 1998-06-30",law,act,"Änderung vom 30.06.1998 (GS, Beschluss vom 1998-06-30)",1998-06-30,,,0,
@@ -293,6 +314,7 @@ gs-beschluss-1998-09-27,"GS, Beschluss vom 1998-09-27",law,act,"Änderung vom 27
 gs-beschluss-1998-09-28,"GS, Beschluss vom 1998-09-28",law,act,"Änderung vom 28.09.1998 (GS, Beschluss vom 1998-09-28)",1998-09-28,,,0,
 gs-beschluss-1998-10-19,"GS, Beschluss vom 1998-10-19",law,act,"Änderung vom 19.10.1998 (GS, Beschluss vom 1998-10-19)",1998-10-19,,,0,
 gs-gs-94-589,"GS GS 94, 589",law,act,Verordnung über die Aufsicht über Stiftungen,1998-10-19,,,0,
+gs-gs-95-247,"GS GS 95, 247",law,act,Interkantonale Vereinbarung zum Abbau technischer Handelshemmnisse,1998-10-23,,2003-02-04,1,
 gs-beschluss-1998-11-02,"GS, Beschluss vom 1998-11-02",law,act,"Änderung vom 02.11.1998 (GS, Beschluss vom 1998-11-02)",1998-11-02,,,0,
 gs-beschluss-1998-11-11,"GS, Beschluss vom 1998-11-11",law,act,"Änderung vom 11.11.1998 (GS, Beschluss vom 1998-11-11)",1998-11-11,,,0,
 gs-beschluss-1998-11-29,"GS, Beschluss vom 1998-11-29",law,act,"Änderung vom 29.11.1998 (GS, Beschluss vom 1998-11-29)",1998-11-29,,,0,
@@ -349,7 +371,7 @@ gs-beschluss-2001-03-27,"GS, Beschluss vom 2001-03-27",law,act,"Änderung vom 27
 gs-beschluss-2001-05-08,"GS, Beschluss vom 2001-05-08",law,act,"Änderung vom 08.05.2001 (GS, Beschluss vom 2001-05-08)",2001-05-08,,,0,
 gs-gs-96-179,"GS GS 96, 179",law,act,Verordnung über die Kantonale Sportfachstelle und die Kantonale Sportkommission,2001-06-25,,,0,
 gs-beschluss-2001-07-03,"GS, Beschluss vom 2001-07-03",law,act,"Änderung vom 03.07.2001 (GS, Beschluss vom 2001-07-03)",2001-07-03,,,0,
-gs,GS --,law,act,Vertrag über das Regionale Gymnasium Laufental-Thierstein,2001-11-13,,,0,
+gs,GS --,law,act,Vertrag über das Regionale Gymnasium Laufental-Thierstein,2001-11-13,,1977-01-01 1996-01-01 2020-06-01,3,
 gs-beschluss-2001-12-02,"GS, Beschluss vom 2001-12-02",law,act,"Änderung vom 02.12.2001 (GS, Beschluss vom 2001-12-02)",2001-12-02,,,0,
 gs-beschluss-2001-12-10,"GS, Beschluss vom 2001-12-10",law,act,"Änderung vom 10.12.2001 (GS, Beschluss vom 2001-12-10)",2001-12-10,,,0,
 gs-gs-96-236,"GS GS 96, 236",law,act,Informations- und Datenschutzverordnung,2001-12-10,,,0,
@@ -509,6 +531,7 @@ gs-gs-101-244,"GS GS 101, 244",law,act,Verordnung über den Zivilstandsdienst (V
 gs-beschluss-2006-12-13,"GS, Beschluss vom 2006-12-13",law,act,"Änderung vom 13.12.2006 (GS, Beschluss vom 2006-12-13)",2006-12-13,,,0,
 gs-beschluss-2007-01-31,"GS, Beschluss vom 2007-01-31",law,act,"Änderung vom 31.01.2007 (GS, Beschluss vom 2007-01-31)",2007-01-31,,,0,
 gs-gs-102-14,"GS GS 102, 14",law,act,Sozialgesetz (SG),2007-01-31,2007-01-31,,0,https://bgs.so.ch/api/de/change_documents/file_dictionaries/470/pdf_file
+gs-beschluss-2007-03-06,"GS, Beschluss vom 2007-03-06",law,act,"Änderung vom 06.03.2007 (GS, Beschluss vom 2007-03-06)",2007-03-06,,,0,
 gs-gs-102-72,"GS GS 102, 72",law,act,Verordnung zum Gesetz über das Halten von Hunden (Hundeverordnung),2007-03-06,2007-03-06,2007-08-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/473/pdf_file
 gs-beschluss-2007-03-13,"GS, Beschluss vom 2007-03-13",law,act,"Änderung vom 13.03.2007 (GS, Beschluss vom 2007-03-13)",2007-03-13,,,0,
 gs-beschluss-2007-03-27,"GS, Beschluss vom 2007-03-27",law,act,"Änderung vom 27.03.2007 (GS, Beschluss vom 2007-03-27)",2007-03-27,,,0,
@@ -559,6 +582,7 @@ gs-beschluss-2008-08-27,"GS, Beschluss vom 2008-08-27",law,act,"Änderung vom 27
 gs-beschluss-2008-09-03,"GS, Beschluss vom 2008-09-03",law,act,"Änderung vom 03.09.2008 (GS, Beschluss vom 2008-09-03)",2008-09-03,,,0,
 gs-gs-103-97,"GS GS 103, 97",law,act,Gesetz über die Berufsbildung (GBB),2008-09-03,2008-09-03,2009-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/576/pdf_file
 gs-beschluss-2008-09-23,"GS, Beschluss vom 2008-09-23",law,act,"Änderung vom 23.09.2008 (GS, Beschluss vom 2008-09-23)",2008-09-23,,,0,
+gs-gs-103-116,"GS GS 103, 116",law,act,Vereinbarung zwischen den Kantonen Bern und Solothurn betreffend die Fischerei in den Grenzgewässern der Aare,2008-10-27,2008-10-27,2009-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/581/pdf_file
 gs-beschluss-2008-10-28,"GS, Beschluss vom 2008-10-28",law,act,"Änderung vom 28.10.2008 (GS, Beschluss vom 2008-10-28)",2008-10-28,,,0,
 gs-beschluss-2008-10-29,"GS, Beschluss vom 2008-10-29",law,act,"Änderung vom 29.10.2008 (GS, Beschluss vom 2008-10-29)",2008-10-29,,,0,
 gs-gs-103-136,"GS GS 103, 136",law,act,Verordnung über die Berufsbildung,2008-11-11,,2009-01-01,1,
@@ -566,6 +590,7 @@ gs-beschluss-2008-11-25,"GS, Beschluss vom 2008-11-25",law,act,"Änderung vom 25
 gs-beschluss-2008-11-30,"GS, Beschluss vom 2008-11-30",law,act,"Änderung vom 30.11.2008 (GS, Beschluss vom 2008-11-30)",2008-11-30,,,0,
 gs-beschluss-2008-12-10,"GS, Beschluss vom 2008-12-10",law,act,"Änderung vom 10.12.2008 (GS, Beschluss vom 2008-12-10)",2008-12-10,,,0,
 gs-beschluss-2008-12-16,"GS, Beschluss vom 2008-12-16",law,act,"Änderung vom 16.12.2008 (GS, Beschluss vom 2008-12-16)",2008-12-16,,,0,
+gs-gs-103-178,"GS GS 103, 178",law,act,"Übereinkunft über die Ausübung der Fischerei in der Aare, soweit diese die Grenze zwischen den Kantonen Aargau und Solothurn bildet",2008-12-16,,2009-04-01,1,
 gs-beschluss-2009-01-13,"GS, Beschluss vom 2009-01-13",law,act,"Änderung vom 13.01.2009 (GS, Beschluss vom 2009-01-13)",2009-01-13,,,0,
 gs-beschluss-2009-01-27,"GS, Beschluss vom 2009-01-27",law,act,"Änderung vom 27.01.2009 (GS, Beschluss vom 2009-01-27)",2009-01-27,,,0,
 gs-beschluss-2009-02-24,"GS, Beschluss vom 2009-02-24",law,act,"Änderung vom 24.02.2009 (GS, Beschluss vom 2009-02-24)",2009-02-24,,,0,
@@ -581,6 +606,7 @@ gs-beschluss-2009-05-12,"GS, Beschluss vom 2009-05-12",law,act,"Änderung vom 12
 gs-beschluss-2009-05-17,"GS, Beschluss vom 2009-05-17",law,act,"Änderung vom 17.05.2009 (GS, Beschluss vom 2009-05-17)",2009-05-17,,,0,
 gs-gs-104-103,"GS GS 104, 103",law,act,Absenzen- und Disziplinarordnung der kantonalen Berufsfachschulen,2009-06-22,2009-06-22,,0,https://bgs.so.ch/api/de/change_documents/file_dictionaries/637/pdf_file
 gs-beschluss-2009-06-24,"GS, Beschluss vom 2009-06-24",law,act,"Änderung vom 24.06.2009 (GS, Beschluss vom 2009-06-24)",2009-06-24,,,0,
+gs-gs-104-119,"GS GS 104, 119",law,act,Vereinbarung über die Zusammenarbeit zwischen dem Kanton Solothurn und dem Kanton Basel-Landschaft betreffend den Vollzug von Massnahmen im Rebbau,2009-06-30,2009-06-30,2008-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/647/pdf_file
 gs-beschluss-2009-07-01,"GS, Beschluss vom 2009-07-01",law,act,"Änderung vom 01.07.2009 (GS, Beschluss vom 2009-07-01)",2009-07-01,,,0,
 gs-gs-104-127,"GS GS 104, 127",law,act,Verwaltungsreglement über den kantonalen Fonds für die Prävention und Bekämpfung der Spielsucht,2009-08-11,2009-08-11,2009-09-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/651/pdf_file
 gs-beschluss-2009-08-24,"GS, Beschluss vom 2009-08-24",law,act,"Änderung vom 24.08.2009 (GS, Beschluss vom 2009-08-24)",2009-08-24,,,0,
@@ -617,6 +643,7 @@ gs-gs-105-120,"GS GS 105, 120",law,act,Verordnung über die Akut- und Übergangs
 gs-beschluss-2010-07-08,"GS, Beschluss vom 2010-07-08",law,act,"Änderung vom 08.07.2010 (GS, Beschluss vom 2010-07-08)",2010-07-08,,,0,
 gs-gs-105-132,"GS GS 105,132",law,act,Laufbahnreglement für die Volksschule,2010-07-12,,2011-08-01,1,
 gs-beschluss-2010-08-25,"GS, Beschluss vom 2010-08-25",law,act,"Änderung vom 25.08.2010 (GS, Beschluss vom 2010-08-25)",2010-08-25,,,0,
+gs-gs-105-173,"GS GS 105, 173",law,act,Verwaltungskostenbeiträge der Ausgleichskasse des Kantons Solothurn (AKSO),2010-08-30,2010-08-30,,0,https://bgs.so.ch/api/de/change_documents/file_dictionaries/722/pdf_file
 gs-beschluss-2010-08-31,"GS, Beschluss vom 2010-08-31",law,act,"Änderung vom 31.08.2010 (GS, Beschluss vom 2010-08-31)",2010-08-31,,,0,
 gs-gs-105-177,"GS GS 105, 177",law,act,Änderung der Verordnung über die Gemeindebeiträge an die Kosten der progymnasialen und gymnasialen Ausbildung während der obligatorischen Schulzeit,2010-08-31,2010-08-31,2011-08-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/724/pdf_file
 gs-beschluss-2010-09-07,"GS, Beschluss vom 2010-09-07",law,act,"Änderung vom 07.09.2010 (GS, Beschluss vom 2010-09-07)",2010-09-07,,,0,
@@ -625,9 +652,10 @@ gs-gs-105-240,"GS GS 105, 240",law,act,Interkantonale Vereinbarung über die Har
 gs-beschluss-2010-09-26,"GS, Beschluss vom 2010-09-26",law,act,"Änderung vom 26.09.2010 (GS, Beschluss vom 2010-09-26)",2010-09-26,,,0,
 gs-gs-105-196,"GS GS 105, 196",law,act,Änderung der Kantonsverfassung (als Folge des HarmoS-Konkordats),2010-09-26,2010-09-26,2012-08-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/734/pdf_file
 gs-beschluss-2010-09-28,"GS, Beschluss vom 2010-09-28",law,act,"Änderung vom 28.09.2010 (GS, Beschluss vom 2010-09-28)",2010-09-28,,2011-03-01,1,
-gs-gs-105,GS GS 105,law,act,Änderung vom 03.11.2010 (GS GS 105),2010-11-03,,2010-07-01 2011-01-01,3,
+gs-gs-105,GS GS 105,law,act,Änderung vom 03.11.2010 (GS GS 105),2010-11-03,,2010-07-01 2011-01-01,4,
 gs-gs-105-218,"GS GS 105, 218",law,act,Änderung des Volksschulgesetzes (Kompetenzklärung i. S. Geleitete Schulen und Bildungsstatistik),2010-11-03,2010-11-03,2011-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/746/pdf_file
 gs-beschluss-2010-11-09,"GS, Beschluss vom 2010-11-09",law,act,"Änderung vom 09.11.2010 (GS, Beschluss vom 2010-11-09)",2010-11-09,,,0,
+gs-beschluss-2010-11-15,"GS, Beschluss vom 2010-11-15",law,act,"Änderung vom 15.11.2010 (GS, Beschluss vom 2010-11-15)",2010-11-15,,,0,
 gs-beschluss-2010-12-08,"GS, Beschluss vom 2010-12-08",law,act,"Änderung vom 08.12.2010 (GS, Beschluss vom 2010-12-08)",2010-12-08,,2011-01-01,1,
 gs-gs-2011-36,"GS GS 2011, 36",law,act,Reglement über die Vergütung von Krankheits- und Behinderungskosten bei den Ergänzungsleistungen,2011-01-18,,,0,
 gs-gs-2011-4,"GS GS 2011, 4",law,act,Änderung der Verordnung über die Aufnahme ins Regionale Gymnasium Laufental-Thierstein,2011-03-01,2011-03-01,2011-08-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/767/pdf_file
@@ -655,6 +683,7 @@ gs-gs-2011-21,"GS GS 2011, 21",law,act,"Änderung vom 24.08.2011 (GS GS 2011, 21
 gs-gs-2011-43,"GS GS 2011, 43",law,act,Änderung des Spitalgesetzes (SpiG),2011-08-24,2011-08-24,2012-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/793/pdf_file
 gs-gs-2011-42,"GS GS 2011, 42",law,act,Änderung der Mittelschulverordnung,2011-09-06,2011-09-06,2012-08-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/796/pdf_file
 gs-gs-2011-47,"GS GS 2011, 47",law,act,Verordnung über die Spitalliste (SpiVO),2011-09-27,2011-09-27,2012-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/787/pdf_file
+gs-gs-2011-65,"GS GS 2011, 65",law,act,Anpassung der Versicherungswerte an die Baukosten: Index für 2025,2011-10-28,,2012-01-01,1,
 gs-gs-2011-54,"GS GS 2011, 54",law,act,"Änderung vom 31.10.2011 (GS GS 2011, 54)",2011-10-31,,2012-01-01,1,
 gs-gs-2011-55,"GS GS 2011, 55",law,act,Änderung der Verordnung über die wirkungsorientierte Verwaltungsführung,2011-10-31,2011-10-31,2012-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/799/pdf_file
 gs-gs-2011-46,"GS GS 2011, 46",law,act,"Änderung vom 02.11.2011 (GS GS 2011, 46)",2011-11-02,,2012-01-01,1,
@@ -664,11 +693,13 @@ gs-gs-2011-28,"GS GS 2011, 28",law,act,"Änderung vom 09.11.2011 (GS GS 2011, 28
 gs-gs-2011-29,"GS GS 2011, 29",law,act,"Änderung vom 09.11.2011 (GS GS 2011, 29)",2011-11-09,,2012-01-01,1,
 gs-gs-2011-30,"GS GS 2011, 30",law,act,"Änderung vom 09.11.2011 (GS GS 2011, 30)",2011-11-09,,2012-01-01,1,
 gs-gs-2011-31,"GS GS 2011, 31",law,act,"Änderung vom 09.11.2011 (GS GS 2011, 31)",2011-11-09,,2012-04-01,1,
+gs-gs-2011-64,"GS GS 2011, 64",law,act,"Änderung vom 28.11.2011 (GS GS 2011, 64)",2011-11-28,,2012-01-01,1,
 gs-gs-2011-62,"GS GS 2011, 62",law,act,"Änderung vom 29.11.2011 (GS GS 2011, 62)",2011-11-29,,2012-08-01,1,
 gs-gs-2011-70,"GS GS 2011, 70",law,act,Änderung der interkantonalen Universitätsvereinbarung (IUV),2011-12-01,2011-12-01,2013-04-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/907/pdf_file
 gs-gs-2011-63,"GS GS 2011, 63",law,act,Änderung der Verordnung über die Verwertung von Fundgegenständen und die Verwendung des Erlöses (Fundverordnung),2011-12-05,2011-12-05,2012-03-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/807/pdf_file
 gs-gs-2011-66,"GS GS 2011, 66",law,act,"Änderung vom 13.12.2011 (GS GS 2011, 66)",2011-12-13,,2012-04-01,1,
 gs-gs-2011-67,"GS GS 2011, 67",law,act,Verwaltungsreglement Max-Müller-Fonds,2011-12-13,2011-12-13,2012-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/789/pdf_file
+gs-gs-2011-69,"GS GS 2011, 69",law,act,Interkantonale Vereinbarung über die Harmonisierung der Baubegriffe (IVHB),2005-09-22,2011-12-14,2010-11-26,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/843/pdf_file
 gs-gs-2012-1,"GS GS 2012, 1",law,act,Änderung der Verordnung über die Delegation der Unterschriftsberechtigung in den Departementen,2012-01-17,2012-01-17,2012-04-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/821/pdf_file
 gs-gs-2012-3,"GS GS 2012, 3",law,act,"Änderung vom 23.01.2012 (GS GS 2012, 3)",2012-01-23,,2012-05-01,1,
 gs-gs-2012-5,"GS GS 2012, 5",law,act,"Änderung vom 24.01.2012 (GS GS 2012, 5)",2012-01-24,,2012-08-01,1,
@@ -706,10 +737,12 @@ gs-gs-2012-67,"GS GS 2012, 67",law,act,Änderung der Kantonsverfassung: Ergänzu
 gs-gs-2012-68,"GS GS 2012, 68",law,act,"Änderung vom 25.09.2012 (GS GS 2012, 68)",2012-09-25,,2013-01-01,1,
 gs-gs-2012-69,"GS GS 2012, 69",law,act,Anpassung der Notariatsverordnung (Vorsorgeauftrag und Geschäftsdomizil),2012-09-25,2012-09-25,2013-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/878/pdf_file
 gs-gs-2012-70,"GS GS 2012, 70",law,act,Interkantonale Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen (HFSV),2012-03-22,2012-10-22,2014-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/914/pdf_file
+gs-gs-2012-74,"GS GS 2012, 74",law,act,Anpassung der Gebäude-Versicherungswerte an die Baukosten: Index für 2013,2012-10-26,2012-10-26,2013-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/873/pdf_file
 gs-gs-2012-75,"GS GS 2012, 75",law,act,Teilrevision des Sozialgesetzes - Anpassung an die Änderung vom 18. März 2011 des Bundesgesetzes über die Familienzulagen (FamZG),2012-10-30,2012-10-30,2013-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/903/pdf_file
 gs-gs-2012-72,"GS GS 2012, 72",law,act,Änderung der Fischereiverordnung (FiVO),2012-11-05,2012-11-05,2014-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/915/pdf_file
 gs-gs-2012-77,"GS GS 2012, 77",law,act,Änderung des Reglements über die Fachmaturitäten,2012-11-19,2012-11-19,2013-08-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/874/pdf_file
 gs-gs-2012-76,"GS GS 2012, 76",law,act,Änderung der Vereinbarung zwischen den Kantonen Aargau und Solothurn über die Autobahnpolizei auf der N1,2012-11-20,2012-11-20,2013-02-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/897/pdf_file
+gs-gs-2012-79,"GS GS 2012, 79",law,act,Änderung des Beschlusses Verwaltungskostenbeiträge der Ausgleichskasse des Kantons Solothurn (AKSO),2012-11-23,2012-11-23,2013-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/877/pdf_file
 gs-gs-2012-91,"GS GS 2012, 91",law,act,Statut der Interkantonalen Lehrmittelzentrale ilz (ilz-Statut),2012-12-07,2012-12-07,2014-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/916/pdf_file
 gs-gs-2012-81,"GS GS 2012, 81",law,act,Teilrevision der Sozialverordnung (SV),2012-12-11,2012-12-11,2013-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/902/pdf_file
 gs-gs-2012-83,"GS GS 2012, 83",law,act,WoV-Revision Parlamentsrecht,2012-12-12,2012-12-12,2012-12-12 2013-05-07,2,https://bgs.so.ch/api/de/change_documents/file_dictionaries/904/pdf_file
@@ -740,9 +773,11 @@ gs-gs-2013-34,"GS GS 2013, 34",law,act,Änderung der Steuerverordnung Nr. 15: Be
 gs-gs-2013-35,"GS GS 2013, 35",law,act,Änderung des Reglementes über die Geschäftsführung und Organisation des Richteramtes Olten-Gösgen,2013-08-26,2013-08-26,2013-12-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/947/pdf_file
 gs-gs-2013-36,"GS GS 2013, 36",law,act,Änderung des Gesetzes über die Kantonspolizei und weiterer Erlasse (im Zusammenhang mit der Aufgabenerfüllung durch die Polizei Kanton Solothurn),2013-08-27,2013-08-27,2014-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/956/pdf_file
 gs-gs-2013-39,"GS GS 2013, 39",law,act,Änderung des Waldgesetzes,2013-09-04,2013-09-04,2014-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/958/pdf_file
+gs-gs-2013-60,"GS GS 2013, 60",law,act,Vereinbarung über die Einsetzung einer gemeinsamen Ethikkommission Nordwest- und Zentralschweiz (Vereinbarung Ethikkommission Nordwest- und Zentralschweiz - EKNZ),2013-09-06,2013-09-06,2014-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/954/pdf_file
 gs-gs-2013-40,"GS GS 2013, 40",law,act,Änderung der Vollzugsverordnung zum Gesundheitsgesetz,2013-09-17,2013-09-17,2014-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/949/pdf_file
 gs-gs-2013-41,"GS GS 2013, 41",law,act,Verordnung über die land- und hauswirtschaftliche Aus- und Weiterbildung (VLB),2013-09-17,2013-09-17,2013-11-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/950/pdf_file
 gs-gs-2013-44,"GS GS 2013, 44",law,act,"Verwaltungsvereinbarung zwischen dem Kanton Solothurn und der Schweizerischen Eidgenossenschaft, vertreten durch das Finanzdepartement, über die Zusammenarbeit zwischen der Polizei Kanton Solothurn und dem Grenzwachtkorps bzw. der Eidgenössischen Zollverwaltung",2013-10-14,2013-10-14,2013-10-14,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/936/pdf_file
+gs-gs-2013-46,"GS GS 2013, 46",law,act,Anpassung der Gebäude-Versicherungswerte an die Baukosten: Index für 2014,2013-10-24,2013-10-24,2014-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/942/pdf_file
 gs-gs-2013-47,"GS GS 2013, 47",law,act,WoV-Revision des Parlamentsrechts – Koordination mit der UMBAWIKO,2013-11-06,2013-11-06,2014-03-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/968/pdf_file
 gs-gs-2013-52,"GS GS 2013, 52",law,act,Änderung der Absenzen- und Disziplinarordnung der kantonalen Mittelschulen,2013-11-11,2013-11-11,2013-12-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/951/pdf_file
 gs-gs-2013-49,"GS GS 2013, 49",law,act,Gesetz über den Justizvollzug,2013-11-13,,2014-07-01,2,
@@ -753,6 +788,7 @@ gs-gs-2013-59,"GS GS 2013, 59",law,act,Änderung des Gesundheitsgesetzes,2013-12
 gs-gs-2013-61,"GS GS 2013, 61",law,act,Vereinbarung über die Einsetzung einer gemeinsamen Ethikkommission Nordwest- und Zentralschweiz; Aufhebung von § 68 der Vollzugsverordnung zum Gesundheitsgesetz,2013-12-17,2013-12-17,2014-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/964/pdf_file
 gs-gs-2014-1,"GS GS 2014, 1",law,act,Änderung der Verordnung über die Delegation der Unterschriftsberechtigung in den Departementen,2014-01-14,2014-01-14,2014-04-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/970/pdf_file
 gs-gs-2014-3,"GS GS 2014, 3",law,act,Reglement für das Berufsvorbereitungsjahr (BVJ Reglement),2014-02-18,2014-02-18,2014-04-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/966/pdf_file
+gs-gs-2014-17,"GS GS 2014, 17",law,act,Prämientarif der Solothurnischen Gebäudeversicherung,2014-02-26,2014-02-26,2015-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1012/pdf_file
 gs-gs-2014-5,"GS GS 2014, 5",law,act,Änderung der Verordnung über die Bearbeitung von Personendaten des Staatspersonals,2014-03-04,2014-03-04,2014-06-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/975/pdf_file
 gs-gs-2014-6,"GS GS 2014, 6",law,act,Änderung der Steuerverordnung Nr. 1: Organisation des kantonalen Steuerwesens für die Veranlagung der Haupt- und Nebensteuern des Staates und der direkten Bundessteuer,2014-03-11,2014-03-11,2014-10-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/976/pdf_file
 gs-gs-2014-12,"GS GS 2014, 12",law,act,Änderung des Gesetzes über das Staatspersonal - Rückerstattung von Entschädigungen,2014-03-18,2014-03-18,2014-07-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/984/pdf_file
@@ -780,6 +816,7 @@ gs-gs-2014-47,"GS GS 2014, 47",law,act,Gesetz über die Pensionskasse Kanton Sol
 gs-gs-2014-45,"GS GS 2014, 45",law,act,Anpassungen von Verordnungen des Regierungsrates an die elektronische Grundbuchführung mit Capitastra,2014-10-20,2014-10-20,2015-04-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1031/pdf_file
 gs-gs-2014-46,"GS GS 2014, 46",law,act,Reglement über die Passerelle Berufsmaturität – universitäre Hochschulen (Passerellenreglement),2014-10-20,2014-10-20,2015-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/994/pdf_file
 gs-gs-2014-48,"GS GS 2014, 48",law,act,Änderung der Verordnung über das Anwaltsregister,2014-10-28,2014-10-28,2015-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1010/pdf_file
+gs-gs-2014-51,"GS GS 2014, 51",law,act,Anpassung der Gebäude-Versicherungswerte an die Baukosten: Index für 2015,2014-10-30,2014-10-30,2015-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/999/pdf_file
 gs-gs-2014-49,"GS GS 2014, 49",law,act,Änderung der Verordnung über die Anlage des eidgenössischen Grundbuches,2014-11-03,2014-11-03,2015-02-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1011/pdf_file
 gs-gs-2014-55,"GS GS 2014, 55",law,act,Änderung des Gesetzes über das Kantons- und Gemeindebürgerrecht,2014-11-04,2014-11-04,2015-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1017/pdf_file
 gs-gs-2014-59,"GS GS 2014, 59",law,act,Gesetz über die Einwohnerregister- und die Stimmregisterplattform (GESP),2014-11-05,2014-11-05,2015-01-01,2,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1038/pdf_file
@@ -818,6 +855,7 @@ gs-gs-2015-24,"GS GS 2015, 24",law,act,Verordnung über Abstimmungs- und Wahlpla
 gs-gs-2015-27,"GS GS 2015, 27",law,act,Änderung des Gesetzes über die Staats- und Gemeindesteuern,2015-06-23,2015-06-23,2016-01-01 2017-01-01,2,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1086/pdf_file
 gs-gs-2016-5,"GS GS 2016, 5",law,act,Revision Geschäftsreglement Richteramt Solothurn-Lebern,2015-07-01,2015-07-01,2016-06-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1115/pdf_file
 gs-gs-2015-31,"GS GS 2015, 31",law,act,Änderung der Verordnungen über die Organisation des Regierungsrates und der Verwaltung (RVOV) und über die Ausbildung von Fachpersonen der Amtschreiberei,2015-08-18,2015-08-18,2016-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1068/pdf_file
+gs-gs-2015-43,"GS GS 2015, 43",law,act,Änderung des Beschlusses Verwaltungskostenbeiträge der Ausgleichskasse des Kantons Solothurn (AKSO),2015-08-24,2015-08-24,2016-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1085/pdf_file
 gs-gs-2015-32,"GS GS 2015, 32",law,act,"Anpassung der Verwaltungsreglemente Winkelried-Fonds, Adolf-Schläfli-Fonds, Olga Ziegler-Fonds, Max-Müller-Fonds",2015-08-25,2015-08-25,2015-10-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1066/pdf_file
 gs-gs-2015-33,"GS GS 2015, 33",law,act,Änderung der Sozialverordnung; Anpassung des frei verfügbaren Betrags von Personen in Heimen und Spitälern im Rahmen der Ergänzungsleistungen,2015-08-25,2015-08-25,2016-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1074/pdf_file
 gs-gs-2015-34,"GS GS 2015, 34",law,act,Änderung der Steuerverordnung Nr. 2: Organisation des kantonalen Steuerwesens für die Veranlagung der Grundstückgewinnsteuer,2015-08-31,2015-08-31,2016-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1075/pdf_file
@@ -836,6 +874,7 @@ gs-gs-2015-47,"GS GS 2015, 47",law,act,Änderung der Verordnung über die Führu
 gs-gs-2015-48,"GS GS 2015, 48",law,act,Verordnung zum Wirtschafts- und Arbeitsgesetz,2015-09-22,2015-09-22,2016-01-01,2,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1084/pdf_file
 gs-gs-2015-49,"GS GS 2015, 49",law,act,Anpassungen im Beurkundungsrecht; Änderung der Notariatsverordnung und der Verordnung über die Geschäftsführung der Amtschreibereien,2015-10-19,2015-10-19,2016-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1093/pdf_file
 gs-gs-2015-56,"GS GS 2015, 56",law,act,Änderung Anhang Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen,2015-10-22,2015-10-22,,0,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1072/pdf_file
+gs-gs-2015-52,"GS GS 2015, 52",law,act,Anpassung der Gebäude-Versicherungswerte an die Baukosten: Index für 2016,2015-10-29,2015-10-29,2016-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1069/pdf_file
 gs-gs-2015-51,"GS GS 2015, 51",law,act,"Änderung der Verordnung über die polizeiliche Datenerhebung, -bearbeitung und -speicherung",2015-11-02,2015-11-02,2016-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1106/pdf_file
 gs-gs-2015-54,"GS GS 2015, 54",law,act,Geoinformationsverordnung,2015-11-10,2015-11-10,2016-03-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1099/pdf_file
 gs-gs-2015-55,"GS GS 2015, 55",law,act,"Änderung vom 10.11.2015 (GS GS 2015, 55)",2015-11-10,,2016-03-01,1,
@@ -844,6 +883,7 @@ gs-gs-2015-60,"GS GS 2015, 60",law,act,Einführungsgesetz zum Bundesgesetz über
 gs-gs-2015-61,"GS GS 2015, 61",law,act,Änderung der Verordnung über die Delegation der Unterschriftsberechtigung in den Departementen,2015-12-22,2015-12-22,2016-03-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1102/pdf_file
 gs-gs-2016-3,"GS GS 2016, 3",law,act,Änderung des Gesetzes über das Staatspersonal,2016-01-27,2016-01-27,2016-06-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1109/pdf_file
 gs-gs-2016-4,"GS GS 2016, 4",law,act,"Anpassung der Verwaltungsreglemente Winkelried-Fonds, Adolf-Schläfli-Fonds, Olga Ziegler-Fonds und Max-Müller-Fonds betreffend Zuständigkeiten",2016-03-01,2016-03-01,2016-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1103/pdf_file
+gs-gs-2016-8,"GS GS 2016, 8",law,act,Revision des Gebührentarifs (materielle Änderung),2016-03-08,2016-03-08,2016-07-15,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1119/pdf_file
 gs-gs-2016-6,"GS GS 2016, 6",law,act,Laufbahnreglement für die Volksschule,2016-03-18,2016-03-18,2016-08-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1105/pdf_file
 gs-gs-2016-10,"GS GS 2016, 10",law,act,"Vertrag zwischen den Kantonen Basel-Landschaft und Solothurn über die Abgeltung von Schulbesuchen von Schülerinnen und Schülern aus Dornach an der Sekundarschule, Anforderungsniveau P, im Sekundarschulkreis Birseck des Kantons Basel-Landschaft",2016-05-03,2016-05-03,2016-08-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1118/pdf_file
 gs-gs-2016-12,"GS GS 2016, 12",law,act,Teilrevision der Verordnung über die Spitalliste,2016-05-09,2016-05-09,2016-08-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1121/pdf_file
@@ -860,8 +900,10 @@ gs-gs-2016-27,"GS GS 2016, 27",law,act,Änderung der Verordnung über die Einfü
 gs-gs-2016-28,"GS GS 2016, 28",law,act,Steuerungsgrössen im Finanz- und Lastenausgleich der Einwohnergemeinden für das Jahr 2017,2016-08-30,2016-08-30,2017-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1136/pdf_file
 gs-gs-2016-30,"GS GS 2016, 30",law,act,Änderung der Verordnung über die Delegation der Unterschriftsberechtigung in den Departementen,2016-09-20,2016-09-20,2017-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1134/pdf_file
 gs-gs-2016-31,"GS GS 2016, 31",law,act,Änderung der Steuerverordnung Nr. 15: Bemessung des Mietwertes der eigenen Wohnung,2016-09-27,2016-09-27,2017-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1135/pdf_file
+gs-gs-2016-43,"GS GS 2016, 43",law,act,Anpassung der Gebäudeversicherungswerte an die Baukosten: Index für 2017,2016-10-27,2016-10-27,2017-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1132/pdf_file
 gs-gs-2016-37,"GS GS 2016, 37",law,act,Änderung des Verzeichnisses der solothurnischen Gemeinden,2016-11-09,2016-11-09,2017-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1141/pdf_file
 gs-gs-2016-38,"GS GS 2016, 38",law,act,Jagdgesetz (JaG),2016-11-09,2016-11-09,2018-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1195/pdf_file
+gs-gs-2016-39,"GS GS 2016, 39",law,act,Änderung des Gebührentarifs,2016-11-09,2016-11-09,2018-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1196/pdf_file
 gs-gs-2016-41,"GS GS 2016, 41",law,act,Änderung des Spitalgesetzes,2016-11-16,2016-11-16,2017-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1144/pdf_file
 gs-gs-2016-42,"GS GS 2016, 42",law,act,"Volksinitiative ""Finanzielle Unterstützung von Tagesstätten für betagte Menschen""; Initiative und Gegenvorschlag",2016-11-16,2016-11-16,2018-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1193/pdf_file
 gs-gs-2017-1,"GS GS 2017, 1",law,act,"Änderung des Gesetzes über die politischen Rechte; 2. Wahlgang: Versand Propagandamaterial, Rückzug und Ersatzvorschläge",2017-01-24,2017-01-24,2017-08-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1158/pdf_file
@@ -880,18 +922,21 @@ gs-gs-2017-19,"GS GS 2017, 19",law,act,Verselbständigung Pensionskasse Kanton S
 gs-gs-2017-20,"GS GS 2017, 20",law,act,Änderung des Gesetzes über die Pensionskasse Kanton Solothurn,2017-05-09,2017-05-09,2017-10-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1174/pdf_file
 gs-gs-2017-21,"GS GS 2017, 21",law,act,Teilrevision des Gesetzes über die Staats- und Gemeindesteuern (Besteuerung von juristischen Personen mit ideellen Zwecken),2017-05-09,2017-05-09,2018-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1168/pdf_file
 gs-gs-2017-22,"GS GS 2017, 22",law,act,"Änderung des Gesetzes über die Gebäudeversicherung, Brandverhütung, Feuerwehr und Elementarschadenhilfe",2017-05-10,2017-05-10,2018-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1169/pdf_file
+gs-gs-2017-23,"GS GS 2017, 23",law,act,Änderung des Gebührentarifs,2017-05-10,2017-05-10,2018-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1170/pdf_file
 gs-gs-2017-24,"GS GS 2017, 24",law,act,Teilrevision des Gesetzes über das Kantons- und Gemeindebürgerrecht (Bürgerrechtsgesetz),2017-05-10,2017-05-10,2018-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1171/pdf_file
 gs-gs-2017-25,"GS GS 2017, 25",law,act,Änderung des Gesetzes über die Einführung des Schweizerischen Zivilgesetzbuches im Zusammenhang mit der Beschwerde gegen Anordnungen und Unterlassungen des Willensvollstreckers,2017-05-17,2017-05-17,2017-10-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1175/pdf_file
 gs-gs-2017-26,"GS GS 2017, 26",law,act,Änderung des Einführungsgesetzes zur Schweizerischen Strafprozessordnung und zur Schweizerischen Jugendstrafprozessordnung,2017-05-17,2017-05-17,2017-10-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1176/pdf_file
+gs-gs-2017-27,"GS GS 2017, 27",law,act,Aufhebung der Vollzugsverordnung zum Bundesgesetz über Lebensmittel und Gebrauchsgegenstände (kantonale Lebensmittelverordnung) und Änderung des Gebührentarifs (GT),2017-05-17,2017-05-17,2017-10-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1178/pdf_file
 gs-gs-2017-28,"GS GS 2017, 28",law,act,"Reglement über Aufnahme, Zeugnisse, Promotion und Entlassung für die Maturitätsschulen des Kantons Solothurn (Promotionsreglement Maturitätsschulen)",2017-05-23,2017-05-23,2017-08-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1154/pdf_file
 gs-gs-2017-29,"GS GS 2017, 29",law,act,Reglement zur Aufnahme ins Regionale Gymnasium Laufental-Thierstein,2017-05-23,2017-05-23,2017-08-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1155/pdf_file
-gs-gs-2017-30,"GS GS 2017, 30",law,act,Änderung der Verordnung über die Organisation des Regierungsrates und der Verwaltung (RVOV) und Änderung Tierseuchen- und Tierschutz-Verordnung (TSSV) und Aufhebung der Vollzugsverordnung zur kantonalen Lebensmittelverordnung,2017-06-06,2017-06-06,,0,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1166/pdf_file
+gs-gs-2017-30,"GS GS 2017, 30",law,act,Änderung der Verordnung über die Organisation des Regierungsrates und der Verwaltung (RVOV) und Änderung Tierseuchen- und Tierschutz-Verordnung (TSSV) und Aufhebung der Vollzugsverordnung zur kantonalen Lebensmittelverordnung,2017-06-06,2017-06-06,2017-10-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1166/pdf_file
 gs-gs-2017-31,"GS GS 2017, 31",law,act,Änderung des Geschäftsreglements des Kantonalen Steuergerichts,2017-06-12,2017-06-12,2017-08-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1177/pdf_file
 gs-gs-2017-34,"GS GS 2017, 34",law,act,Einführungsgesetz zum Vollzug der eidgenössischen Umweltschutzgesetzgebung und weiterer Erlasse,2017-06-27,2017-06-27,2018-01-01,2,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1189/pdf_file
 gs-gs-2016-33,"GS GS 2016, 33",law,act,Reglement über die Übertrittsbedingungen von Schülerinnen und Schülern der Sekundarstufe I aus den Bezirken Dorneck und Thierstein in die allgemeinbildenden Schulen der Sekundarstufe II des Kantons Basel-Stadt,2017-06-30,,2017-01-01 2017-08-01,3,
 gs-gs-2017-32,"GS GS 2017, 32",law,act,Reglement über die Übertrittsbedingungen von Schülerinnen und Schülern der Sekundarstufe I aus den Bezirken Dorneck und Thierstein in die allgemeinbildenden Schulen der Sekundarstufe II des Kantons Basel-Landschaft,2017-06-30,2017-06-30,2017-08-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1159/pdf_file
 gs-gs-2017-35,"GS GS 2017, 35",law,act,"Ausbildungsverpflichtung in Spitälern, Heimen und bei der Spitex; Änderung Spitalgesetz und Sozialgesetz",2017-07-05,2017-07-05,2018-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1182/pdf_file
 gs-gs-2017-36,"GS GS 2017, 36",law,act,Anpassungen bei der Gerichtsorganisation und im Verfahrensrecht; Änderung des Gesetzes über die Gerichtsorganisation und weiterer Gesetze,2017-07-05,2017-07-05,2018-01-01,2,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1183/pdf_file
+gs-gs-2017-37,"GS GS 2017, 37",law,act,Anpassungen bei der Gerichtsorganisation und im Verfahrensrecht; Änderung des Gebührentarifs,2017-07-05,2017-07-05,2018-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1184/pdf_file
 gs-gs-2017-39,"GS GS 2017, 39",law,act,Teilrevision der Verordnung über den Bevölkerungsschutz und den Zivilschutz (BZVSO),2017-08-22,2017-08-22,2018-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1181/pdf_file
 gs-gs-2017-40,"GS GS 2017, 40",law,act,"Änderung des Gesetzes über Wasser, Boden und Abfall (GWBA)",2017-09-05,2017-09-05,2018-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1202/pdf_file
 gs-gs-2017-42,"GS GS 2017, 42",law,act,Steuerungsgrössen im Finanz- und Lastenausgleich der Einwohnergemeinden für das Jahr 2018,2017-09-05,2017-09-05,2018-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1200/pdf_file
@@ -900,6 +945,7 @@ gs-gs-2017-45,"GS GS 2017, 45",law,act,Teilrevision der Verordnung über Verfahr
 gs-gs-2017-46,"GS GS 2017, 46",law,act,Totalrevision Jagdverordnung (JaV),2017-09-26,2017-09-26,2018-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1203/pdf_file
 gs-gs-2017-47,"GS GS 2017, 47",law,act,Änderung der Verordnung über die Berufsbildung (Case Management Berufsbildung CM BB),2017-09-26,2017-09-26,2018-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1191/pdf_file
 gs-gs-2017-48,"GS GS 2017, 48",law,act,Änderung der Vollzugsverordnung zum Gesetz über das Kantons- und Gemeindebürgerrecht (Bürgerrechtsverordnung),2017-10-23,2017-10-23,2018-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1199/pdf_file
+gs-gs-2017-49,"GS GS 2017, 49",law,act,Anpassung der Gebäudeversicherungswerte an die Baukosten: Index für 2018,2017-10-26,2017-10-26,2018-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1186/pdf_file
 gs-gs-2017-54,"GS GS 2017, 54",law,act,Reglement für die Integrationsvorlehre (INVOL-Reglement),2017-11-14,2017-11-14,2017-12-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1197/pdf_file
 gs-gs-2017-51,"GS GS 2017, 51",law,act,Änderung Gymnasiumsverordnung; Definitive Einführung des Schwerpunktfachs Englisch,2017-11-21,2017-11-21,2018-08-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1206/pdf_file
 gs-gs-2017-52,"GS GS 2017, 52",law,act,Änderung des Reglements über das Qualifikationsverfahren im Fach Allgemeinbildung in der beruflichen Grundbildung,2017-12-01,2017-12-01,2018-08-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1192/pdf_file
@@ -910,6 +956,7 @@ gs-gs-2017-59,"GS GS 2017, 59",law,act,Verordnung über die Stiftungsaufsicht,20
 gs-gs-2017-60,"GS GS 2017, 60",law,act,Änderung der Verordnung über die Delegation der Unterschriftsberechtigung in den Departementen,2017-12-19,2017-12-19,2018-03-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1207/pdf_file
 gs-gs-2017-61,"GS GS 2017, 61",law,act,Änderung des Gesetzes über die wirkungsorientierte Verwaltungsführung - Minimierung der Spezialfinanzierungen (WoV-G),2017-12-20,2017-12-20,2018-05-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1218/pdf_file
 gs-gs-2017-62,"GS GS 2017, 62",law,act,Teilrevision des Gesetzes über die Einführung des Schweizerischen Zivilgesetzbuches,2017-12-20,2017-12-20,2018-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1216/pdf_file
+gs-gs-2017-63,"GS GS 2017, 63",law,act,Änderung des Gebührentarifs (GT),2017-12-20,2017-12-20,2018-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1217/pdf_file
 gs-gs-2018-2,"GS GS 2018, 2",law,act,Totalrevision der Luftreinhalteverordnung,2018-01-23,2018-01-23,2018-07-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1211/pdf_file
 gs-gs-2018-3,"GS GS 2018, 3",law,act,"Gesetz über den Ausgleich raumplanungsbedingter Vor- und Nachteile (Planungsausgleichsgesetz, PAG)",2018-01-31,2018-01-31,2018-07-01,2,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1220/pdf_file
 gs-gs-2018-6,"GS GS 2018, 6",law,act,Änderung des Reglements über die gymnasialen Maturitätsprüfungen,2018-03-27,2018-03-27,2018-08-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1212/pdf_file
@@ -923,6 +970,7 @@ gs-gs-2018-4,"GS GS 2018, 4",law,act,"Gesetz über die amtlichen Publikationsorg
 gs-gs-2018-15,"GS GS 2018, 15",law,act,"Verordnung über die amtlichen Publikationsorgane (Publikationsverordnung, PuV)",2018-07-03,2018-09-21,2018-10-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1231/pdf_file
 gs-gs-2018-17,"GS GS 2018, 17",law,act,"Teilrevision Verordnung über Wasser, Boden und Abfall",2018-08-21,2018-10-26,2018-11-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1232/pdf_file
 gs-gs-2018-18,"GS GS 2018, 18",law,act,Änderung der Vollzugsverordnung zum Volksschulgesetz; Voraussetzungen für die Ausrichtung von Staatsbeiträgen an die kommunalen Musikschulen,2018-08-21,2018-10-26,2018-11-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1233/pdf_file
+gs-gs-2018-24,"GS GS 2018, 24",law,act,Anpassung der Gebäudeversicherungswerte an die Baukosten: Index für 2019,2018-10-25,2018-11-16,2019-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1234/pdf_file
 gs-gs-2018-21,"GS GS 2018, 21",law,act,Änderung der Verordnung zum Gesetz über die wirkungsorientierte Verwaltungsführung (WoV-Vo),2018-09-18,2018-11-23,2019-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1235/pdf_file
 gs-gs-2018-31,"GS GS 2018, 31",law,act,"Änderung des Reglements über Aufnahme, Zeugnisse, Promotion und Entlassung für die Maturitätsschulen des Kantons Solothurn (Promotionsreglement Maturitätsschulen)",2018-12-10,2018-12-21,2019-08-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1245/pdf_file
 gs-gs-2018-19,"GS GS 2018, 19",law,act,Steuerungsgrössen im Finanz- und Lastenausgleich der Einwohnergemeinden für das Jahr 2019,2018-09-04,2019-01-11,2019-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1241/pdf_file
@@ -930,6 +978,7 @@ gs-gs-2018-20,"GS GS 2018, 20",law,act,Einführung der Mehrfachstimmvertretung i
 gs-gs-2018-22,"GS GS 2018, 22",law,act,Verordnung über die Passerelle Berufsmaturität oder Fachmaturität - universitäre Hochschulen,2018-10-22,2019-01-11,2019-08-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1242/pdf_file
 gs-gs-2018-26,"GS GS 2018, 26",law,act,Änderung der Verordnung für Lernende einer betrieblich organisierten Grundbildung,2018-11-27,2019-02-01,2019-02-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1244/pdf_file
 gs-gs-2018-27,"GS GS 2018, 27",law,act,Änderung der Sozialverordnung; Restkostenfinanzierung bei ambulanter Pflege (SV),2018-12-04,2019-02-08,2019-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1246/pdf_file
+gs-gs-2018-23,"GS GS 2018, 23",law,act,Gegenrechtsvereinbarung zwischen den Kantonen Solothurn und Waadt über die Befreiung von der Erbschafts- und Schenkungssteuer,2018-10-30,2019-03-08,2015-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1248/pdf_file
 gs-gs-2019-4,"GS GS 2019, 4",law,act,"Änderung vom 19.03.2019 (GS GS 2019, 4)",2019-03-19,,2020-01-01,2,
 gs-gs-2019-2,"GS GS 2019, 2",law,act,Änderung des Reglements über die Vergütung von Krankheits- und Behinderungskosten bei den Ergänzungsleistungen,2018-12-20,2019-03-29,2019-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1249/pdf_file
 gs-gs-2018-33,"GS GS 2018, 33",law,act,Teilrevision Strassengesetz,2018-12-12,2019-04-26,2019-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1250/pdf_file
@@ -937,6 +986,7 @@ gs-gs-2019-11,"GS GS 2019, 11",law,act,Verordnung über die Heilmittel und die B
 gs-gs-2019-16,"GS GS 2019, 16",law,act,"Änderung vom 07.05.2019 (GS GS 2019, 16)",2019-05-07,,,0,
 gs-gs-2018-36,"GS GS 2018, 36",law,act,Teilrevision des Gesetzes über die wirkungsorientierte Verwaltungsführung - Stärkung der Kantonalen Finanzkontrolle,2018-12-19,2019-05-24,2019-06-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1253/pdf_file
 gs-gs-2018-34,"GS GS 2018, 34",law,act,Totalrevision des Gesundheitsgesetzes (GesG),2018-12-19,2019-07-05,2019-09-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1258/pdf_file
+gs-gs-2018-35,"GS GS 2018, 35",law,act,Änderung des Gebührentarifs (GT),2018-12-19,2019-07-05,2019-09-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1259/pdf_file
 gs-gs-2019-12,"GS GS 2019, 12",law,act,"Verordnung über den Vollzug der eidgenössischen Epidemiengesetzgebung (kantonale Epidemienverordnung, V EpG)",2019-04-30,2019-07-05,2019-09-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1261/pdf_file
 gs-gs-2019-13,"GS GS 2019, 13",law,act,Änderung der Verordnung über die Delegation der Unterschriftsberechtigung in den Departementen,2019-04-30,2019-07-05,2019-07-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1282/pdf_file
 gs-gs-2019-8,"GS GS 2019, 8",law,act,Totalrevision der Vollzugsverordnung zum Gesundheitsgesetz (GesV),2019-04-30,2019-07-05,2019-09-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1260/pdf_file
@@ -944,16 +994,19 @@ gs-gs-2019-23,"GS GS 2019, 23",law,act,Änderung des Laufbahnreglements für die
 gs-gs-2019-7,"GS GS 2019, 7",law,act,"Änderung des Gesetzes über die Gebäudeversicherung, Brandverhütung, Feuerwehr und Elementarschadenhilfe (Gebäudeversicherungsgesetz; GVG)",2019-03-20,2019-07-19,2019-04-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1264/pdf_file
 gs-gs-2019-14,"GS GS 2019, 14",law,act,Änderung des Geschäftsreglements des Obergerichts des Kantons Solothurn und der ihm angegliederten Spezialgerichte,2019-05-20,2019-07-19,2019-08-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1265/pdf_file
 gs-gs-2019-3,"GS GS 2019, 3",law,act,Änderung der Verordnung über die gymnasialen Maturitätsschulen (Gymnasiumsverordnung; GymV),2019-03-26,2019-08-01,2019-08-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1255/pdf_file
+gs-gs-2019-48,"GS GS 2019, 48",law,act,Prämientarif der Solothurnischen Gebäudeversicherung,2019-08-13,,2020-01-01,1,
 gs-gs-2019-20,"GS GS 2019, 20",law,act,Änderung der Verordnung über die Aufsicht über Stiftungen (VAS),2019-06-11,2019-08-17,2019-10-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1269/pdf_file
 gs-gs-2019-32,"GS GS 2019, 32",law,act,"Änderung vom 04.09.2019 (GS GS 2019, 32)",2019-09-04,,2020-01-01,1,
 gs-gs-2019-18,"GS GS 2019, 18",law,act,Änderung des Gesetzes über die politischen Rechte (GpR); Kommunale Wahlen: Zweiter Wahlgang und Ersatzmitglieder,2019-05-08,2019-09-06,2019-09-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1270/pdf_file
 gs-gs-2019-33,"GS GS 2019, 33",law,act,"Änderung vom 11.09.2019 (GS GS 2019, 33)",2019-09-11,,2020-01-01,1,
 gs-gs-2019-34,"GS GS 2019, 34",law,act,"Änderung vom 11.09.2019 (GS GS 2019, 34)",2019-09-11,,2020-01-01,1,
+gs-gs-2019-15,"GS GS 2019, 15",law,act,Änderung des Gebührentarifs (GT),2019-05-07,2019-09-20,2019-10-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1271/pdf_file
 gs-gs-2019-24,"GS GS 2019, 24",law,act,"Teilrevision der Verordnung über den Finanz- und Lastenausgleich der Einwohnergemeinden (Finanz- und Lastenausgleichsverordnung, FILAV EG)",2019-07-02,2019-09-20,2020-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1273/pdf_file
 gs-gs-2019-26,"GS GS 2019, 26",law,act,Teilrevision der Verordnung zum Energiegesetz über Staatsbeiträge (EnGVB),2019-09-17,2019-11-21,2020-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1279/pdf_file
 gs-gs-2019-36,"GS GS 2019, 36",law,act,Änderung Verordnung über die Spitalliste und Sozialverordnung; Verbindlicherklärung des Reglements über die Ausbildungsverpflichtung für nicht-universitäre Gesundheitsberufe,2019-09-24,2019-11-29,2020-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1280/pdf_file
 gs-gs-2019-38,"GS GS 2019, 38",law,act,Änderung der Notariatsverordnung,2019-09-24,2019-11-29,2020-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1281/pdf_file
 gs-gs-2019-47,"GS GS 2019, 47",law,act,Biosicherheitsverordnung,2019-12-09,,2020-03-01,2,
+gs-gs-2019-49,"GS GS 2019, 49",law,act,Anpassung der Gebäudeversicherungswerte an die Baukosten: Index für 2020,2019-10-28,2019-12-20,2020-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1284/pdf_file
 gs-gs-2019-28,"GS GS 2019, 28",law,act,Änderung des Verzeichnisses der solothurnischen Gemeinden,2019-09-03,2020-01-10,2020-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1286/pdf_file
 gs-gs-2019-29,"GS GS 2019, 29",law,act,Steuerungsgrössen im Finanz- und Lastenausgleich der Einwohnergemeinden für das Jahr 2020,2019-09-03,2020-01-10,2020-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1287/pdf_file
 gs-gs-2019-30,"GS GS 2019, 30",law,act,Teilrevision des Gesetzes über die Staats- und Gemeindesteuern (elektronische Steuererklärung und Anpassungen an neues Bundesrecht),2019-09-03,2020-01-10,2020-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1288/pdf_file
@@ -961,10 +1014,12 @@ gs-gs-2019-39,"GS GS 2019, 39",law,act,Verordnung über den Finanzausgleich der 
 gs-gs-2019-40,"GS GS 2019, 40",law,act,Anpassungen von Steuerverordnungen an ein neues Informatiksystem,2019-10-29,2020-01-10,2020-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1294/pdf_file
 gs-gs-2019-41,"GS GS 2019, 41",law,act,"Änderung der Steuerverordnung Nr. 16: Unterhalts-, Betriebs- und Verwaltungskosten von Liegenschaften im Privatvermögen",2019-10-29,2020-01-10,2020-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1295/pdf_file
 gs-gs-2019-42,"GS GS 2019, 42",law,act,Steuerverordnung Nr. 21: Elektronisches Einreichen der Steuererklärung,2019-10-29,2020-01-10,2020-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1296/pdf_file
+gs-gs-2019-43,"GS GS 2019, 43",law,act,Normalarbeitsvertrag für Arbeitnehmer und Arbeitnehmerinnen in der Hauswirtschaft (NAV Hauswirtschaft),2019-11-11,2020-01-17,2020-02-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1297/pdf_file
 gs-gs-2019-51,"GS GS 2019, 51",law,act,Vereinbarung über die Zusammenarbeit und die Kompetenzabgrenzung zwischen der Polizei Kanton Solothurn und den Stadtpolizeien Grenchen und Solothurn,2019-11-19,2020-01-31,2020-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1300/pdf_file
 gs-gs-2019-50,"GS GS 2019, 50",law,act,"Teilrevision Geoinformationsverordnung, Anpassung infolge Einführung des Katasters der öffentlich-rechtlichen Eigentumsbeschränkungen (ÖREB-Kataster)",2019-12-17,2020-02-21,2020-03-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1301/pdf_file
 gs-gs-2020-5,"GS GS 2020, 5",law,act,Umsetzung der Steuerreform und der AHV-Finanzierung 2020,2020-02-09,2020-02-28,2020-01-01 2021-01-01,2,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1304/pdf_file
 gs-gs-2019-45,"GS GS 2019, 45",law,act,Anpassungen bei den Friedensrichtern und bei den Beglaubigungen; Änderung des Gesetzes über die Gerichtsorganisation und des Gesetzes über die Einführung des Schweizerischen Zivilgesetzbuches,2019-11-05,2020-03-06,2020-03-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1302/pdf_file
+gs-gs-2019-46,"GS GS 2019, 46",law,act,Anpassungen bei den Friedensrichtern und bei den Beglaubigungen; Änderung des Gebührentarifs,2019-11-05,2020-03-06,2020-03-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1303/pdf_file
 gs-gs-2020-1,"GS GS 2020, 1",law,act,Änderung der Archivverordnung,2020-01-14,2020-03-27,2020-03-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1305/pdf_file
 gs-gs-2020-2,"GS GS 2020, 2",law,act,"Teilrevision der Verordnung über den Finanz- und Lastenausgleich der Einwohnergemeinden (Finanz- und Lastenausgleichsverordnung, FILAV EG)",2020-01-21,2020-03-27,2020-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1308/pdf_file
 gs-gs-2020-6,"GS GS 2020, 6",law,act,Änderung der Absenzen- und Disziplinarordnung der kantonalen Berufsfachschulen,2020-03-23,2020-03-27,2020-08-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1307/pdf_file
@@ -992,12 +1047,14 @@ gs-gs-2020-73,"GS GS 2020, 73",law,act,"Änderung vom 04.11.2020 (GS GS 2020, 73
 gs-gs-2020-75,"GS GS 2020, 75",law,act,"Änderung vom 24.11.2020 (GS GS 2020, 75)",2020-11-24,,2021-03-01,1,
 gs-gs-2020-55,"GS GS 2020, 55",law,act,"Verordnung über die Entschädigung der für die Sportfachstelle tätigen Personen, insbesondere im Bereich Jugend+Sport (J+S)",2020-09-22,2020-11-27,2021-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1363/pdf_file
 gs-gs-2020-56,"GS GS 2020, 56",law,act,"Änderung der Steuerverordnung Nr. 10 über Bezug, Fälligkeit und Verzinsung der Haupt- und Nebensteuern; Abschaffung des Vergütungszinses und Reduktion des Rückerstattungszinses",2020-09-22,2020-11-27,2021-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1364/pdf_file
+gs-gs-2020-81,"GS GS 2020, 81",law,act,Anpassung der Gebäudeversicherungswerte an die Baukosten: Index für 2021,2020-10-28,2020-12-18,2021-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1369/pdf_file
 gs-gs-2020-52,"GS GS 2020, 52",law,act,Gesamtschweizerisches Geldspielkonkordat (GSK),2019-05-20,2021-01-08,2021-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1384/pdf_file
 gs-gs-2020-95,"GS GS 2020, 95",law,act,Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen (IKV 2020),2019-05-20,2021-01-08,2021-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1385/pdf_file
 gs-gs-2020-46,"GS GS 2020, 46",law,act,Teilrevision des Gesetzes über die Staats- und Gemeindesteuern 2021 (Quellensteuer und Beteiligungsabzug),2020-09-02,2021-01-08,2021-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1376/pdf_file
 gs-gs-2020-47,"GS GS 2020, 47",law,act,Teilrevision des Gesetzes über die Staats- und Gemeindesteuern 2021 (Besteuerung öffentlich-rechtlicher Anstalten und Stiftungen),2020-09-02,2021-01-08,2021-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1377/pdf_file
 gs-gs-2020-48,"GS GS 2020, 48",law,act,Teilrevision des Gesetzes über die Staats- und Gemeindesteuern 2021 (Korrektur des Vermögenssteuertarifs und Anpassungen bei der Grundstückgewinnsteuer),2020-09-02,2021-01-08,2021-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1381/pdf_file
 gs-gs-2020-49,"GS GS 2020, 49",law,act,"Teilrevision des Gesetzes über die Rechtsanwälte und Rechtsanwältinnen (Anwaltsgesetz, AnwG) und des Gesetzes über die Gerichtsorganisation (GO)",2020-09-08,2021-01-08,2021-08-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1378/pdf_file
+gs-gs-2020-50,"GS GS 2020, 50",law,act,Änderung des Gebührentarifs,2020-09-08,2021-01-08,2021-08-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1379/pdf_file
 gs-gs-2020-51,"GS GS 2020, 51",law,act,Steuerungsgrössen im Finanz- und Lastenausgleich der Einwohnergemeinden für das Jahr 2021,2020-09-08,2021-01-08,2021-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1380/pdf_file
 gs-gs-2020-53,"GS GS 2020, 53",law,act,Gesetz über die Swisslos-Fonds,2020-09-09,2021-01-08,2021-01-01,2,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1383/pdf_file
 gs-gs-2020-59,"GS GS 2020, 59",law,act,"Änderung der Verordnung über den Vollzug der eidgenössischen Epidemiengesetzgebung (kantonale Epidemienverordnung, V EpG)",2020-10-19,2021-01-08,2020-10-19,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1374/pdf_file
@@ -1007,6 +1064,8 @@ gs-gs-2020-64,"GS GS 2020, 64",law,act,Änderung der Vollzugsverordnung zum Gese
 gs-gs-2020-65,"GS GS 2020, 65",law,act,Anpassung von Steuerverordnungen an die revidierte Anleitung für die Schätzung des landwirtschaftlichen Ertragswertes vom 31. Januar 2018,2020-10-27,2021-01-08,2021-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1393/pdf_file
 gs-gs-2020-66,"GS GS 2020, 66",law,act,"Teilrevision der Vollzugsverordnung zum Gesetz über die Gebäudeversicherung, Brandverhütung, Feuerwehr und Elementarschadenhilfe (Verordnung zum Gebäudeversicherungsgesetz)",2020-10-27,2021-01-08,2021-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1394/pdf_file
 gs-gs-2020-69,"GS GS 2020, 69",law,act,Änderung der Sozialverordnung; Anpassung des Prämienverbilligungsanspruchs der Kinder von Familien mit unteren und mittleren Einkommen,2020-11-02,2021-01-08,2021-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1395/pdf_file
+gs-gs-2020-91,"GS GS 2020, 91",law,act,Änderung des Prämientarifs der Solothurnischen Gebäudeversicherung,2020-12-17,2021-01-08,2021-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1388/pdf_file
+gs-gs-2020-22,"GS GS 2020, 22",law,act,Änderung des Gebührentarifs (GT),2020-05-06,2021-01-15,2021-03-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1397/pdf_file
 gs-gs-2021-6,"GS GS 2021, 6",law,act,Änderung des Reglements für das Berufsvorbereitungsjahr (BVJReglement),2021-01-27,2021-01-29,2021-08-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1402/pdf_file
 gs-gs-2020-78,"GS GS 2020, 78",law,act,Teilrevision der Verordnung über Investitionshilfen in der Landwirtschaft (IHV),2020-12-07,2021-02-12,2021-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1403/pdf_file
 gs-gs-2020-82,"GS GS 2020, 82",law,act,Verordnung über die Swisslos-Fonds (SLFV),2020-12-15,2021-02-19,2021-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1405/pdf_file
@@ -1039,6 +1098,7 @@ gs-gs-2021-41,"GS GS 2021, 41",law,act,"Änderung der Verordnung über die Beruf
 gs-gs-2021-42,"GS GS 2021, 42",law,act,Teilrevision der Jagdprüfungsverordnung (JaPV),2021-09-21,2021-11-26,2022-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1448/pdf_file
 gs-gs-2021-43,"GS GS 2021, 43",law,act,Teilrevision Allgemeine Landwirtschaftsverordnung (ALV),2021-09-21,2021-11-26,2022-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1450/pdf_file
 gs-gs-2021-44,"GS GS 2021, 44",law,act,Teilrevision der Steuerverordnung Nr. 13: Abzüge für Berufskosten,2021-09-21,2021-11-26,2022-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1451/pdf_file
+gs-gs-2021-52,"GS GS 2021, 52",law,act,Anpassung der Gebäudeversicherungswerte an die Baukosten: Index für 2022,2021-11-08,2021-12-03,2022-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1452/pdf_file
 gs-gs-2021-32,"GS GS 2021, 32",law,act,"Vertrag zwischen den Kantonen Basel- Landschaft und Solothurn über die Abgeltung von Schulbesuchen von Schülerinnen und Schülern aus Dornach an der Sekundarschule, Anforderungsniveau P, in den Sekundarschulkreisen Birseck und Laufental des Kantons Basel-Landschaft",2021-07-05,2022-01-07,2021-08-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1459/pdf_file
 gs-gs-2021-36,"GS GS 2021, 36",law,act,"Änderung des Sozialgesetzes; freiwilliges Engagement, Selbsthilfe, Budget- und Schuldenberatung, Stärkung und Befähigung von Eltern",2021-08-31,2022-01-07,2022-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1456/pdf_file
 gs-gs-2021-40,"GS GS 2021, 40",law,act,Steuerungsgrössen im Finanz- und Lastenausgleich der Einwohnergemeinden für das Jahr 2022,2021-08-31,2022-01-07,2022-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1455/pdf_file
@@ -1048,7 +1108,9 @@ gs-gs-2015-65,"GS GS 2015, 65",law,act,Verordnung zum Register über die Gesundh
 gs-gs-2018-39,"GS GS 2018, 39",law,act,Änderung der Verordnung zum Register über die Gesundheitsfachpersonen NAREG (NAREG-VO),2018-06-28,2022-01-28,2018-06-28,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1462/pdf_file
 gs-gs-2021-69,"GS GS 2021, 69",law,act,Änderung der Verordnung zum Register über die Gesundheitsfachpersonen NAREG (NAREG-VO),2021-10-21,2022-01-28,2022-02-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1463/pdf_file
 gs-gs-2022-8,"GS GS 2022, 8",law,act,Änderung des Reglements über die gymnasialen Maturitätsprüfungen,2022-03-15,2022-03-18,2022-04-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1469/pdf_file
+gs-gs-2021-37,"GS GS 2021, 37",law,act,Interkantonale Vereinbarung über das öffentliche Beschaffungswesen (IVöB),2019-11-15,2022-04-16,2022-07-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1474/pdf_file
 gs-gs-2021-38,"GS GS 2021, 38",law,act,Totalrevision des Gesetzes über öffentliche Beschaffungen (SubG) und Änderung weiterer Gesetze,2021-08-31,2022-04-16,2022-07-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1471/pdf_file
+gs-gs-2021-39,"GS GS 2021, 39",law,act,Änderung des Gebührentarifs (GT),2021-08-31,2022-04-16,2022-07-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1472/pdf_file
 gs-gs-2021-60,"GS GS 2021, 60",law,act,Totalrevision der Verordnung über öffentliche Beschaffungen (SubV),2021-12-21,2022-04-16,2022-07-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1473/pdf_file
 gs-gs-2021-61,"GS GS 2021, 61",law,act,"Änderung des Gesetzes über die Gebäudeversicherung, Brandverhütung, Feuerwehr und Elementarschadenhilfe vom 24. September 1972 (Gebäudeversicherungsgesetz; GVG)",2021-12-08,2022-04-22,2022-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1475/pdf_file
 gs-gs-2021-65,"GS GS 2021, 65",law,act,Änderung des Verzeichnisses der solothurnischen Gemeinden,2021-12-15,2022-04-22,2022-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1478/pdf_file
@@ -1072,12 +1134,15 @@ gs-gs-2022-26,"GS GS 2022, 26",law,act,Steuerverordnung Nr. 23: Einheitsbezug,20
 gs-gs-2022-27,"GS GS 2022, 27",law,act,Änderung der Sozialverordnung; Neuausrichtung der Fachkommissionen,2022-08-23,2022-10-28,2022-10-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1506/pdf_file
 gs-gs-2022-29,"GS GS 2022, 29",law,act,Änderung der Verordnung über die Passerelle Berufsmaturität oder Fachmaturität - universitäre Hochschulen (Passerelleverordnung),2022-08-23,2022-10-28,2022-11-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1508/pdf_file
 gs-gs-2022-45,"GS GS 2022, 45",law,act,"Änderung vom 09.11.2022 (GS GS 2022, 45)",2022-11-09,,2023-02-23,1,
+gs-gs-2022-42,"GS GS 2022, 42",law,act,Anpassung der Gebäudeversicherungswerte an die Baukosten: Index für 2023,2022-10-28,2022-11-18,2023-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1513/pdf_file
 gs-gs-2022-34,"GS GS 2022, 34",law,act,Teilrevision der Verordnung über den Natur- und Heimatschutz sowie der Verordnung über den Schutz der historischen Kulturdenkmäler,2022-09-13,2022-11-25,2023-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1515/pdf_file
 gs-gs-2022-37,"GS GS 2022, 37",law,act,Steuerungsgrössen im Finanz- und Lastenausgleich der Einwohnergemeinden für das Jahr 2023,2022-09-07,2023-01-06,2023-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1518/pdf_file
 gs-gs-2022-44,"GS GS 2022, 44",law,act,Revision der Vereinbarung über die Interparlamentarische Konferenz der Nordwestschweiz (IPK),2022-06-14,2023-02-25,2023-02-25,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1535/pdf_file
+gs-gs-2023-49,"GS GS 2023, 49",law,act,Änderung des Gebührentarifs (GT),2023-11-07,2023-03-19,2024-04-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1581/pdf_file
 gs-gs-2022-35,"GS GS 2022, 35",law,act,Revision Melde- und Hinterlegungsrecht; Änderung des Gemeindegesetzes,2022-09-07,2023-03-24,2024-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1523/pdf_file
-gs-gs-2022-36,"GS GS 2022, 36",law,act,Revision Melde- und Hinterlegungsrecht; Änderung der Verordnung über die Harmonisierung amtlicher Register,2022-09-07,2023-03-24,2024-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1524/pdf_file
+gs-gs-2022-36,"GS GS 2022, 36",law,act,Revision Melde- und Hinterlegungsrecht; Änderung der Verordnung über die Harmonisierung amtlicher Register,2022-09-07,2023-03-24,2024-01-01,2,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1524/pdf_file
 gs-gs-2023-1,"GS GS 2023, 1",law,act,Revision Melde- und Hinterlegungsrecht; Änderung der Vollzugsverordnung zum Gesetz über das Kantons- und Gemeindebürgerrecht,2023-01-10,2023-03-24,2024-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1522/pdf_file
+gs-gs-2023-50,"GS GS 2023, 50",law,act,Teilrevision Gebührentarif (GT),2023-11-07,2023-03-28,2024-07-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1582/pdf_file
 gs-gs-2023-8,"GS GS 2023, 8",law,act,Abbau von Schranken beim Staatsbeitrag für Gemeindezusammenschlüsse; Änderung des Gemeindegesetzes,2023-03-12,2023-03-31,2023-05-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1531/pdf_file
 gs-gs-2022-47,"GS GS 2022, 47",law,act,Einführungsverordnung zum Bundesgesetz über dringliche Massnahmen zur kurzfristigen Bereitstellung einer sicheren Stromversorgung im Winter,2022-12-12,2023-04-08,2023-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1527/pdf_file
 gs-gs-2023-2,"GS GS 2023, 2",law,act,Verordnung über den öffentlichen Verkehr (ÖVV),2023-01-17,2023-04-08,2023-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1530/pdf_file
@@ -1107,6 +1172,7 @@ gs-gs-2023-17,"GS GS 2023, 17",law,act,Pensionskassen für Geistliche; Verzicht 
 gs-gs-2023-45,"GS GS 2023, 45",law,act,Änderung der Absenzen- und Disziplinarordnung der kantonalen Berufsfachschulen,2023-10-30,2023-10-23,2024-02-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1566/pdf_file
 gs-gs-2023-33,"GS GS 2023, 33",law,act,Änderung des Verzeichnisses der solothurnischen Gemeinden,2023-06-27,2023-10-26,2024-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1565/pdf_file
 gs-gs-2023-15,"GS GS 2023, 15",law,act,Anpassungen aufgrund der Änderung der Strafprozessordnung vom 17. Juni 2022; Teilrevision des Einführungsgesetzes zur Schweizerischen Strafprozessordnung und zur Schweizerischen Jugendstrafprozessordnung (EG StPO),2023-05-17,2023-10-27,2024-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1563/pdf_file
+gs-gs-2023-52,"GS GS 2023, 52",law,act,Anpassung der Gebäudeversicherungswerte an die Baukosten: Index für 2024,2023-08-28,2023-11-28,2024-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1569/pdf_file
 gs-gs-2023-42,"GS GS 2023, 42",law,act,Verordnung über die Enteignung von Kulturland,2023-09-26,2023-12-01,2024-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1570/pdf_file
 gs-gs-2023-43,"GS GS 2023, 43",law,act,Verordnungsänderungen im Zusammenhang mit der neuen Organisationsstruktur der Oberämter,2023-09-26,2023-12-21,2024-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1576/pdf_file
 gs-gs-2023-36,"GS GS 2023, 36",law,act,Änderung des Sozialgesetzes: Umsetzung der EL-Reform in der FamEL und Bereinigungen/Optimierungen,2023-09-06,2024-01-05,2024-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1572/pdf_file
@@ -1127,15 +1193,18 @@ gs-gs-2024-5,"GS GS 2024, 5",law,act,Teilrevision der Kantonalen Bauverordnung,2
 gs-gs-2024-13,"GS GS 2024, 13",law,act,Einführungsgesetz zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege (EG Ausbildungsfördergesetz Pflege),2024-05-15,2024-09-03,2024-07-01,2,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1593/pdf_file
 gs-gs-2024-16,"GS GS 2024, 16",law,act,Verordnung über das elektronische Baugesuchsverfahren (V-ElBau),2024-06-24,2024-09-20,2024-10-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1596/pdf_file
 gs-gs-2024-8,"GS GS 2024, 8",law,act,"Totalrevision des Gesetzes über die Gebäudeversicherung, Brandverhütung, Feuerwehr und Elementarschadenhilfe (Gebäudeversicherungsgesetz; GVG)",2024-03-20,2024-10-04,2025-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1597/pdf_file
+gs-gs-2024-9,"GS GS 2024, 9",law,act,Änderung des Gebührentarifs (GT),2024-03-20,2024-10-04,2025-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1600/pdf_file
 gs-gs-2024-33,"GS GS 2024, 33",law,act,Änderung der Verfassung des Kantons Solothurn (KV); Solothurnische Gebäudeversicherung,2024-09-22,2024-10-04,2025-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1598/pdf_file
 gs-gs-2024-34,"GS GS 2024, 34",law,act,Anstellungsbehörde für die Staatsschreiberin oder den Staatsschreiber und ihre oder seine Stellvertretung: Änderung der Verfassung des Kantons Solothurn (KV),2024-09-22,2024-10-04,2025-08-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1599/pdf_file
 gs-gs-2024-19,"GS GS 2024, 19",law,act,Teilrevision des Gesetzes über die Gerichtsorganisation (GO) und weiterer Gesetze,2024-06-25,2024-10-25,2025-01-01,2,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1601/pdf_file
+gs-gs-2024-20,"GS GS 2024, 20",law,act,Teilrevision des Gebührentarifs (GT),2024-06-25,2024-10-25,2025-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1602/pdf_file
 gs-gs-2024-21,"GS GS 2024, 21",law,act,Änderung des Gesetzes über die wirkungsorientierte Verwaltungsführung (WoV-G); Legislaturplan,2024-06-26,2024-11-05,2025-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1604/pdf_file
 gs-gs-2024-23,"GS GS 2024, 23",law,act,Teilrevision der Verordnung zum Energiegesetz über Staatsbeiträge (EnGVB),2024-09-02,2024-11-08,2025-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1606/pdf_file
 gs-gs-2024-17,"GS GS 2024, 17",law,act,"Änderung des Sozialgesetzes; Chancengleichheit, Religion und Integration der ausländischen Bevölkerung",2024-06-25,2024-11-15,2025-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1607/pdf_file
 gs-gs-2024-24,"GS GS 2024, 24",law,act,"Verordnung über die Zulassung von Leistungserbringern im ambulanten Bereich zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung (Zulassungsverordnung, ZulaV)",2024-09-17,2024-11-22,2024-12-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1608/pdf_file
 gs-gs-2024-31,"GS GS 2024, 31",law,act,Änderung der Sozialverordnung (SV); Interinstitutionelle Zusammenarbeit (IIZ),2024-09-24,2024-11-29,2025-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1609/pdf_file
 gs-gs-2024-18,"GS GS 2024, 18",law,act,Änderung des Sozialgesetzes; Aufhebung der Gemeindearbeitsämter und der Case-Management-Stelle,2024-06-25,2024-12-03,2025-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1611/pdf_file
+gs-gs-2024-50,"GS GS 2024, 50",law,act,Anpassung der Gebäudeversicherungswerte an die Baukosten: Index für 2025,2024-10-28,2024-12-19,2025-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1614/pdf_file
 gs-gs-2024-25,"GS GS 2024, 25",law,act,Steuerungsgrössen im Finanz- und Lastenausgleich der Einwohnergemeinden für das Jahr 2025,2024-09-03,2025-01-07,2025-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1615/pdf_file
 gs-gs-2024-26,"GS GS 2024, 26",law,act,Teilrevision des Gesetzes über die Staats- und Gemeindesteuern 2024 und 2025,2024-09-03,2025-01-07,2024-01-01 2024-03-01 2025-01-01,3,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1619/pdf_file
 gs-gs-2024-29,"GS GS 2024, 29",law,act,Änderung des Verzeichnisses der solothurnischen Gemeinden,2024-09-11,2025-01-07,2025-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1618/pdf_file
@@ -1168,17 +1237,23 @@ gs-gs-2025-15,"GS GS 2025, 15",law,act,Bestattung von Sternenkindern; Teilrevisi
 gs-gs-2025-22,"GS GS 2025, 22",law,act,Reglement über die Schätzung von Versicherungswert und Schäden (Schätzungsreglement),2025-06-02,2025-09-12,2025-10-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1655/pdf_file
 gs-gs-2025-23,"GS GS 2025, 23",law,act,Reglement über die Beiträge an den Brandschutz und die Elementarschadenprävention (Beitragsreglement Prävention),2025-06-02,2025-09-12,2025-10-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1654/pdf_file
 gs-gs-2025-27,"GS GS 2025, 27",law,act,Reglement betreffend Feuerwehren und Löschwasserversorgung (Feuerwehrwesen-Reglement),2025-07-04,2025-09-12,2025-10-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1656/pdf_file
+gs-gs-2024-44,"GS GS 2024, 44",law,act,Änderung des Gebührentarifs (GT),2024-11-13,2025-11-03,,0,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1660/pdf_file
 gs-gs-2025-44,"GS GS 2025, 44",law,act,Änderung des Gesetzes über das Halten von Hunden (Hundegesetz),2025-05-18,2025-11-03,2026-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1659/pdf_file
+gs-gs-2025-49,"GS GS 2025, 49",law,act,"Änderung vom 11.11.2025 (GS GS 2025, 49)",2025-11-11,,2026-03-01,1,
 gs-gs-2025-40,"GS GS 2025, 40",law,act,"Änderung der Steuerverordnung Nr. 20: Anpassung von Tarifstufen, allgemeinen Abzügen und Sozialabzügen an die Teuerung",2025-09-16,2025-11-18,2026-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1662/pdf_file
 gs-gs-2025-41,"GS GS 2025, 41",law,act,Änderung der Sozialverordnung (SV); Umsetzung Inkassohilfeverordnung (InkHV),2025-09-23,2025-11-25,2026-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1663/pdf_file
 gs-gs-2025-42,"GS GS 2025, 42",law,act,Teilrevision der Verordnung über die Aufsicht über Stiftungen (VAS),2025-09-23,2025-11-25,2026-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1664/pdf_file
+gs-gs-2025-52,"GS GS 2025, 52",law,act,Änderung der Vereinbarung zwischen den Kantonen Bern und Solothurn betreffend die Fischerei in den Grenzgewässern der Aare,2025-12-08,2025-12-08,2026-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1665/pdf_file
 gs-gs-2025-43,"GS GS 2025, 43",law,act,Änderung des Geschäftsreglements des Obergerichts des Kantons Solothurn und der ihm angegliederten Spezialgerichte,2025-10-13,2025-12-19,2026-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1667/pdf_file
 gs-gs-2025-31,"GS GS 2025, 31",law,act,Änderung des Sozialgesetzes (SG); Umsetzung Massnahmenplan 2024 DDI: Verzicht auf Koordinationsstelle Alter,2025-09-03,2025-12-22,2026-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1673/pdf_file
 gs-gs-2025-34,"GS GS 2025, 34",law,act,Änderung des Sozialgesetzes (SG); Umsetzung Inkassohilfeverordnung (InkHV),2025-09-03,2025-12-22,2026-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1674/pdf_file
+gs-gs-2025-35,"GS GS 2025, 35",law,act,Änderung des Gebührentarifs (GT); Umsetzung Massnahmenplan 2024 im Geschäftskreis des Departements des Innern,2025-09-03,2025-12-22,2026-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1675/pdf_file
+gs-gs-2025-36,"GS GS 2025, 36",law,act,Änderung des Gebührentarifs (GT); Umsetzung Massnahmenplan 2024 im Geschäftskreis des Departements für Bildung und Kultur,2025-09-03,2025-12-22,2026-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1676/pdf_file
 gs-gs-2025-39,"GS GS 2025, 39",law,act,Steuerungsgrössen im Finanz- und Lastenausgleich der Einwohnergemeinden für das Jahr 2026,2025-09-10,2025-12-22,2026-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1677/pdf_file
 gs-gs-2025-46,"GS GS 2025, 46",law,act,Änderung der Juristischen Prüfungsverordnung (JPV),2025-11-17,2026-01-26,2026-03-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1682/pdf_file
 gs-gs-2026-1,"GS GS 2026, 1",law,act,"Änderung vom 26.01.2026 (GS GS 2026, 1)",2026-01-26,,2026-04-01,2,
 gs-gs-2025-60,"GS GS 2025, 60",law,act,Änderung der Steuerverordnung Nr. 6: Meldewesen und Amtshilfe im Steuerverfahren,2025-12-16,2026-02-20,2026-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1683/pdf_file
+gs-gs-2025-50,"GS GS 2025, 50",law,act,Änderung des Gebührentarifs (GT); Umsetzung Massnahmenplan 2024: Erhöhung Gebühren Staatsarchiv,2025-11-11,2026-02-23,2026-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1685/pdf_file
 gs-gs-2026-3,"GS GS 2026, 3",law,act,Teilrevision des Reglements über die Berufsmaturität,2026-03-01,2026-03-02,2026-08-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1687/pdf_file
 gs-gs-2026-4,"GS GS 2026, 4",law,act,Teilrevision des Reglements über die Notengebung an den Berufsfachschulen,2026-03-01,2026-03-02,2026-08-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1688/pdf_file
 gs-gs-2026-5,"GS GS 2026, 5",law,act,Teilrevision des Reglements über das Qualifikationsverfahren im Fach Allgemeinbildung in der beruflichen Grundbildung (ABU-Prüfungsreglement),2026-03-01,2026-03-02,2026-08-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1689/pdf_file
@@ -1205,4 +1280,5 @@ gs-gs-2026-16,"GS GS 2026, 16",law,act,"Änderung des Spitalgesetzes (SpiG), des
 gs-gs-2026-21,"GS GS 2026, 21",law,act,Teilrevision der Verordnung über das Wirtschafts- und Arbeitsgesetz (VWAG),2026-06-22,2026-08-28,2026-09-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1711/pdf_file
 gs-gs-2025-37,"GS GS 2025, 37",law,act,Teilrevision des Sozialgesetzes (SG); Anhebung der Familienzulagen,2026-03-08,2026-09-25,2027-01-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1715/pdf_file
 gs-gs-2026-27,"GS GS 2026, 27",law,act,Totalrevision der Verordnung über die gymnasialen Maturitätsschulen (Gymnasiumsverordnung; GymV),2026-08-25,2026-10-30,2027-08-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1717/pdf_file
+gs-gs-2026-22,"GS GS 2026, 22",law,act,Übergangsverordnung zu Artikel 5a des Bundesgesetzes über die Raumplanung (Abbruchprämie),2026-06-22,2026-11-03,2026-07-01,1,https://bgs.so.ch/api/de/change_documents/file_dictionaries/1719/pdf_file
 gs-beschluss-2066-11-06,"GS, Beschluss vom 2066-11-06",law,act,"Änderung vom 06.11.2066 (GS, Beschluss vom 2066-11-06)",2066-11-06,,,0,

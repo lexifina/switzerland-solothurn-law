@@ -1,6 +1,6 @@
 # How this repository was made (Solothurn)
 
-This file is written by the build on 2026-11-24, the day the source data was retrieved.
+This file is written by the build on 2026-11-25, the day the source data was retrieved.
 
 ## Sources
 
@@ -363,22 +363,58 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `512-354` | Abteilung Administrativmassnahmen im Strassenverkehr | 1 | 1983-01-18 to 1983-01-18 |
 | `513-633-1-ikv-2020` | Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen | 1 | 2021-01-01 to 2021-01-01 |
 | `513-633-5-gsk` | Gesamtschweizerisches Geldspielkonkordat | 1 | 2021-01-01 to 2021-01-01 |
+| `614-171-2` | Beitritt des Kantons Solothurn zum Konkordat über den Ausschluss von Steuerabkommen vom 10. Dezember 1948 | 1 | 1949-11-03 to 1949-11-03 |
+| `614-175-62` | Genehmigung der Schweizerisch-französischen Vereinbarung über die Besteuerung der Erwerbseinkünfte von Grenzgängern | 1 | 1986-12-18 to 1986-12-18 |
+| `614-352-103` | Gegenrechtsvereinbarung zwischen den Kantonen Solothurn und Waadt über die Befreiung von der Erbschafts- und Schenkungssteuer | 1 | 2015-01-01 to 2015-01-01 |
+| `615-11-gt` | Gebührentarif | 15 | 2016-07-15 to 2026-03-01 |
+| `618-112-21` | Änderung der einheitlichen Grundlage für die Gebäudeversicherungswerte | 1 | 1991-01-01 to 1991-01-01 |
+| `618-112-23` | Anpassung der Versicherungswerte an die Baukosten: Index für 2025 | 15 | 2011-01-01 to 2025-01-01 |
+| `618-115-1` | Beitritt der Solothurnischen Gebäudeversicherung zum Schweizerischen Pool für Erdbebenversicherung | 1 | 1978-10-25 to 1978-10-25 |
+| `618-181` | Prämientarif der Solothurnischen Gebäudeversicherung | 3 | 2015-01-01 to 2021-01-01 |
+| `624-122` | Gesetz über das Salzregal und den Beitritt zur Interkantonalen Vereinbarung über den Salzverkauf in der Schweiz | 1 | 1975-10-01 to 1975-10-01 |
+| `624-512` | Beteiligung des Kantons an der Aktiengesellschaft Vereinigte Schweizerische Rheinsalinen | 1 | 1909-10-04 to 1909-10-04 |
+| `625-711` | Vereinbarung zwischen den Kantonen Bern und Solothurn betreffend die Fischerei in den Grenzgewässern der Aare | 3 | 1996-01-01 to 2026-01-01 |
+| `625-721` | Übereinkunft über die Ausübung der Fischerei in der Aare, soweit diese die Grenze zwischen den Kantonen Aargau und Solothurn bildet | 2 | 1977-01-01 to 2009-04-01 |
+| `711-64-ivhb` | Interkantonale Vereinbarung über die Harmonisierung der Baubegriffe | 1 | 2010-11-26 to 2010-11-26 |
+| `711-181` | Übergangsverordnung zu Artikel 5a des Bundesgesetzes über die Raumplanung (Abbruchprämie) | 1 | 2026-07-01 to 2026-07-01 |
+| `721-532-ivob` | Interkantonale Vereinbarung über das öffentliche Beschaffungswesen | 1 | 2022-07-01 to 2022-07-01 |
+| `728-121` | Korrektion der Dünnern zwischen Oensingen und Olten | 1 | 1932-09-16 to 1932-09-16 |
+| `734-411` | Ausbau des Autokurses Solothurn-Wasseramt (ASW) mit neuer staatlicher Kapitalbeteiligung | 1 | 1963-12-13 to 1963-12-13 |
+| `734-421` | Staatliche Beteiligung an der Automobilverbindung Olten-Lostorf-Stüsslingen | 1 | 1923-03-08 to 1923-03-08 |
+| `734-431` | Staatliche Beteiligung an der Stadtomnibus Olten AG | 1 | 1973-03-08 to 1973-03-08 |
+| `734-432` | Zustimmung zur Fusion der Automobilgesellschaft Gösgeramt (AGO) und der Stadtomnibus Olten (SOO) | 1 | 1998-10-02 to 1998-10-02 |
+| `734-441` | Staatliche Beteiligung am Busbetrieb Grenchen und Umgebung | 1 | 1975-01-21 to 1975-01-21 |
+| `734-451` | Staatliche Beteiligung am Busbetrieb Aarau (BBA) | 1 | 1975-06-25 to 1975-06-25 |
+| `735-411` | Staatliche Beteiligung an der Elektrifikation der Solothurn-Münster-Bahn und der Emmental-Bahn | 1 | 1931-06-26 to 1931-06-26 |
+| `735-441` | Staatliche Beteiligung an der Strassenbahn Niederbipp-Solothurn | 1 | 1908-10-31 to 1908-10-31 |
+| `735-451` | Staatliche Beteiligung an der Weiterführung der Birsigtalbahn von Flüh bis Rodersdorf | 1 | 1909-09-04 to 1909-09-04 |
+| `735-452` | Zustimmung zur Fusion von 4 basellandschaftlichen Vorortsbahngesellschaften und Gründung der Baselland Transport AG (BLT) | 1 | 1975-03-24 to 1975-03-24 |
+| `735-453` | Technische und finanzielle Sanierung der ehemaligen Birseckbahn (Linie 10 der Baselland Transport AG), 2. Etappe | 1 | 1978-11-27 to 1978-11-27 |
+| `737-121` | Staatliche Beteiligung am Regionalflugplatz Jura in Grenchen | 1 | 1947-04-02 to 1947-04-02 |
+| `813-161-vereinbarung-ethikkommission-nordwest-und-zentralschweiz-eknz` | Vereinbarung über die Einsetzung einer gemeinsamen Ethikkommission Nordwest- und Zentralschweiz | 1 | 2014-01-01 to 2014-01-01 |
+| `821-321-nav-hauswirtschaft` | Normalarbeitsvertrag für Arbeitnehmer und Arbeitnehmerinnen in der Hauswirtschaft | 2 | 2011-02-01 to 2020-02-01 |
+| `821-322` | Normalarbeitsvertrag für Arbeitnehmer in der Landwirtschaft | 1 | 2011-02-01 to 2011-02-01 |
+| `835-1` | Verwaltungskostenbeiträge der Ausgleichskasse des Kantons Solothurn (AKSO) | 4 | 2011-01-01 to 2016-01-01 |
+| `837-33-ivse` | Interkantonale Vereinbarung für soziale Einrichtungen | 1 | 2020-06-01 to 2020-06-01 |
+| `926-21` | Vereinbarung über die Zusammenarbeit zwischen dem Kanton Solothurn und dem Kanton Basel-Landschaft betreffend den Vollzug von Massnahmen im Rebbau | 1 | 2008-01-01 to 2008-01-01 |
+| `926-711-tssv` | Tierseuchen- und Tierschutz-Verordnung | 2 | 2007-08-01 to 2017-10-01 |
+| `943-11-ivth` | Interkantonale Vereinbarung zum Abbau technischer Handelshemmnisse | 1 | 2003-02-04 to 2003-02-04 |
 
-The build made 902 commits:
+The build made 982 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 167 | baseline texts where the record starts |
-| 734 | named laws, court decisions and treaties |
+| 171 | baseline texts where the record starts |
+| 810 | named laws, court decisions and treaties |
 | 1 | changes no amendment note explains, credited to the publisher |
 | 0 | corrections to the existing record |
 | 0 | printing or layout changes |
 
 Other counts:
-- 8 commits on the branch `zukunft`: laws not yet in force on 2026-11-24.
-- 15 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1207 laws in the record.
-- 1730 tags.
+- 8 commits on the branch `zukunft`: laws not yet in force on 2026-11-25.
+- 24 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 1283 laws in the record.
+- 1873 tags.
 
 ## Dates
 
@@ -390,7 +426,7 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `b76a9975eb775a51c5094f5a4e134cba3bc2a8ce44395cae35368ca9f43ccf68` (10674695 bytes).
+- Corpus: sha256 `0b36fed9bd66d1a5a909da0349e744c24c9ae9e5064f0d6a9abedf6d620870a6` (11241763 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
