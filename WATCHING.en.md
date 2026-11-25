@@ -8,6 +8,6 @@ How global-law watches every country's sources: [global-law WATCHING.md](https:/
 
 | Source | What is read | Folders | How often | Last read | State |
 | --- | --- | --- | --- | --- | --- |
-| [Solothurn: systematic collection (bgs.so.ch)](https://bgs.so.ch/) | the collection's index of acts in force each check, the act document (every consolidated version, its change table) of new acts and of a seventh of the held acts, version documents once | `<act>/` | daily | 2026-11-24 12:21 UTC | watched |
+| [Solothurn: systematic collection (bgs.so.ch)](https://bgs.so.ch/) | the collection's index of acts in force each check, the act document (every consolidated version, its change table) of new acts and of a seventh of the held acts, version documents once | `<act>/` | daily | 2026-11-25 07:42 UTC | watched |
 
 Sources are read within their robots.txt and terms, with pauses between requests.

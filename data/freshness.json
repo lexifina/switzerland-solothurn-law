@@ -1,15 +1,15 @@
 {
  "schema": "lexifina-trail-freshness/1",
- "as_of": "2026-11-24",
+ "as_of": "2026-11-25",
  "note": "How current this repository is, from its check trail (data/checks/): the day each official source was last read with every act held here checked against it. tools/checktrail.py reads the trail.",
- "checked_against_official_source": "2026-11-24",
+ "checked_against_official_source": "2026-11-25",
  "totals": {
-  "acts": 291,
+  "acts": 349,
   "by_status": {
-   "current": -142,
-   "pending-change": 242,
+   "current": -7,
+   "pending-change": 93,
    "stale": 0,
-   "unverified": 191,
+   "unverified": 263,
    "source-unavailable": 0
   }
  },
@@ -18,8 +18,8 @@
    "source": "lexwork-solothurn",
    "name": "Solothurn: systematic collection (bgs.so.ch)",
    "state": "available",
-   "last_successful_check": "2026-11-24",
-   "last_successful_contact": "2026-11-24"
+   "last_successful_check": "2026-11-25",
+   "last_successful_contact": "2026-11-25"
   }
  ]
 }
