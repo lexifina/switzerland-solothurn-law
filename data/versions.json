@@ -5316,16 +5316,25 @@
      "text_as_of": null,
      "units": 7,
      "source_url": "https://bgs.so.ch/api/de/texts_of_law/212.432/versions/3378",
-     "sha256": "03ffeab12763b801f542d530091abbaf6f724b1d47762aba533aff10298c0c53"
+     "sha256": "c45a435401a99bbeede2940c299c1b3b739952b7806c0e4c3a89f29e7297d38c"
     },
     {
      "from": "2023-07-01",
+     "to": "2026-11-09",
+     "status": "replaced",
+     "text_as_of": null,
+     "units": 7,
+     "source_url": "https://bgs.so.ch/api/de/texts_of_law/212.432/versions/5384",
+     "sha256": "bb16e1611c62dc2630fe89f6e189a7136206e24323daa661c6cf145219f6d195"
+    },
+    {
+     "from": "2026-11-10",
      "to": null,
      "status": "as captured",
      "text_as_of": null,
      "units": 7,
      "source_url": "https://bgs.so.ch/api/de/texts_of_law/212.432",
-     "sha256": "55c7d26d7adb5f335f54d355fc3df6fdb0f274464faea2961ff2296ca7192d2c"
+     "sha256": "bf0c5a4b1b3c2b69cad7a98e6e7139f155e2bde38b1569af07a64e7ad362d25e"
     }
    ]
   },

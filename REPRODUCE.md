@@ -1,6 +1,6 @@
 # How this repository was made (Solothurn)
 
-This file is written by the build on 2026-11-25, the day the source data was retrieved.
+This file is written by the build on 2026-11-26, the day the source data was retrieved.
 
 ## Sources
 
@@ -139,7 +139,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `212-152-vas` | Verordnung über die Aufsicht über Stiftungen | 5 | 2009-01-01 to 2026-01-01 |
 | `212-331-inventarisations-verordnung` | Verordnung über die Inventaraufnahme und Schätzung im Erbgang | 2 | 2007-01-01 to 2013-01-01 |
 | `212-331-2` | Verordnung über die Entschädigung der Inventurbeamten | 2 | 1992-05-01 to 2023-07-01 |
-| `212-432` | Verordnung über die Veröffentlichung des Erwerbs von Grundeigentum | 2 | 2005-01-01 to 2023-07-01 |
+| `212-432` | Verordnung über die Veröffentlichung des Erwerbs von Grundeigentum | 3 | 2005-01-01 to 2026-11-10 |
 | `212-435-3` | Verordnung über das Enteignungsverfahren | 1 | 1977-05-01 to 1977-05-01 |
 | `212-436` | Verordnung über die Enteignung von Kulturland | 1 | 2024-01-01 to 2024-01-01 |
 | `212-451` | Verordnung über das Register der vom Kanton ermächtigten Geldinstitute und Genossenschaften für die Viehverpfändungen | 1 | 1986-10-14 to 1986-10-14 |
@@ -400,21 +400,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `926-711-tssv` | Tierseuchen- und Tierschutz-Verordnung | 2 | 2007-08-01 to 2017-10-01 |
 | `943-11-ivth` | Interkantonale Vereinbarung zum Abbau technischer Handelshemmnisse | 1 | 2003-02-04 to 2003-02-04 |
 
-The build made 982 commits:
+The build made 983 commits:
 
 | Commits | Kind |
 | ---: | --- |
 | 171 | baseline texts where the record starts |
-| 810 | named laws, court decisions and treaties |
+| 811 | named laws, court decisions and treaties |
 | 1 | changes no amendment note explains, credited to the publisher |
 | 0 | corrections to the existing record |
 | 0 | printing or layout changes |
 
 Other counts:
-- 8 commits on the branch `zukunft`: laws not yet in force on 2026-11-25.
+- 8 commits on the branch `zukunft`: laws not yet in force on 2026-11-26.
 - 24 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1283 laws in the record.
-- 1873 tags.
+- 1284 laws in the record.
+- 1875 tags.
 
 ## Dates
 
@@ -426,7 +426,7 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `0b36fed9bd66d1a5a909da0349e744c24c9ae9e5064f0d6a9abedf6d620870a6` (11241763 bytes).
+- Corpus: sha256 `ed5ce2e8a92dd72ae0e67513d9f1b215cefbc6b9e6fbc424a05e2abc6482ffdb` (11251637 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
