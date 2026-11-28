@@ -6,18 +6,21 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Solothurn: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-27 06:44 UTC, Solothurn: Systematische Sammlung (bgs.so.ch): 192 Adressen gelesen; 0 hinzugefügt, 1 geändert, 0 entfernt; Änderungen gefunden; 149 nicht veröffentlicht, davon 0 ohne Grund.
+**Letzte Prüfung:** 2026-11-28 08:09 UTC, Solothurn: Systematische Sammlung (bgs.so.ch): 171 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 148 nicht veröffentlicht, davon 0 ohne Grund.
 
 ## Quellen
 
 | Quelle | Ordner | Wie oft | Letzte erfolgreiche Prüfung | Letztes Ergebnis | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [Solothurn: Systematische Sammlung (bgs.so.ch)](https://bgs.so.ch/) | `<act>/` | täglich | 2026-11-27 06:44 UTC | Änderungen gefunden | beobachtet |
+| [Solothurn: Systematische Sammlung (bgs.so.ch)](https://bgs.so.ch/) | `<act>/` | täglich | 2026-11-28 08:09 UTC | keine Änderung | beobachtet |
 
 ## Die letzten 30 Tage
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 08:06](checks/2026-11.md#ch-lexwork-solothurn-20261128t080605z) | lexwork-solothurn | 171 | 0 | 0 | 0 | 148 (0) | keine Änderung | — |
+| [2026-11-28 07:06](checks/2026-11.md#ch-lexwork-solothurn-20261128t070605z) | lexwork-solothurn | 0 | 0 | 0 | 0 | 0 (0) | die Prüfung ist fehlgeschlagen | — |
+| [2026-11-28 06:32](checks/2026-11.md#ch-lexwork-solothurn-20261128t063216z) | lexwork-solothurn | 165 | 0 | 0 | 0 | 149 (0) | die Quelle hat nicht geantwortet | — |
 | [2026-11-27 06:41](checks/2026-11.md#ch-lexwork-solothurn-20261127t064119z) | lexwork-solothurn | 192 | 0 | 1 | 0 | 149 (0) | Änderungen gefunden | — |
 | [2026-11-26 06:39](checks/2026-11.md#ch-lexwork-solothurn-20261126t063919z) | lexwork-solothurn | 201 | 0 | 2 | 0 | 150 (0) | Änderungen gefunden | [2](https://github.com/lexifina/switzerland-solothurn-law/compare/95f463b390b0...45c44c427676) |
 | [2026-11-25 07:42](checks/2026-11.md#ch-lexwork-solothurn-20261125t074225z) | lexwork-solothurn | 424 | 92 | 1 | 0 | 149 (0) | Änderungen gefunden | [81](https://github.com/lexifina/switzerland-solothurn-law/compare/186418574491...8c2f3d8f8357) |

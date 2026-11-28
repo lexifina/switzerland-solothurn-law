@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-27T07:14:05Z",
+ "generated": "2026-11-28T08:36:27Z",
  "latest": {
   "lexwork-solothurn|switzerland/solothurn/acts": {
-   "attempt": 1,
+   "attempt": 3,
    "audit": {
     "examples": [],
     "match_neither": 0,
@@ -14,48 +14,46 @@
    },
    "census": {
     "checked": 55,
-    "current": 384,
+    "current": 385,
     "gone": 0,
     "held": 385,
     "not_at_source": 148,
     "out_of_scope": 7,
-    "pending": 1,
+    "pending": 0,
     "repo": 385,
     "source_in_scope": 385
    },
-   "check_id": "ch-lexwork-solothurn-20261127T064119Z",
+   "check_id": "ch-lexwork-solothurn-20261128T080605Z",
    "commits": null,
    "corpus": "switzerland/solothurn/acts",
    "error": null,
-   "finished": "2026-11-27T06:44:39Z",
+   "finished": "2026-11-28T08:09:04Z",
    "flags": [],
-   "gap": 149,
+   "gap": 148,
    "note": "bgs.so.ch: index of 540 acts (540 in force); held 385; 0 in force and in scope not held yet, 7 out of scope (land-use plans, concessions, directives, forms: as the builder), 148 published only as PDF; 55 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
-   "outcome": "changed",
+   "outcome": "no-change",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 192,
+   "requests": 171,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
-    "changed": [
-     "436.11"
-    ],
+    "changed": [],
     "removed": []
    },
    "snapshot": "540 entries, 540 in force (bgs.so.ch)",
    "source": "lexwork-solothurn",
-   "started": "2026-11-27T06:41:19Z",
+   "started": "2026-11-28T08:06:05Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
     "letters_check_dropped": {},
     "new": 0,
-    "nothing_new": 1,
+    "nothing_new": 0,
     "parts": [],
     "pdf_only": 0,
     "re_read": 0,
@@ -70,7 +68,7 @@
     "not_compared_why": null,
     "ok": true,
     "swept": 55,
-    "versions_checked": 140,
+    "versions_checked": 137,
     "versions_differ": 0
    }
   }
